@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://sen-chen.github.io/</title>
+  <link>https://sen-chen.github.io/</link>
+
+<item>
+     <link>https://sen-chen.github.io/</link>
+     <title>Welcome to Sen Chen's Homepage</title>
+     <description>Welcome to Sen Chen's Homepage</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sen-chen.github.io/kuafuDet/kuafuDet.html</link>
+     <title>Welcome to KuafuDet's Homepage</title>
+     <description>Welcome to KuafuDet's Homepage</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://sen-chen.github.io/kuafuDet/list.html</link>
+     <title>Welcome to KuafuDet's Homepage</title>
+     <description>Welcome to KuafuDet's Homepage</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
