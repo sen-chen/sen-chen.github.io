@@ -4,7 +4,7 @@ body{
         padding: 0;
         background-color: #F5F5F5;
         font-family: 'Times New Roman', serif;
-        font-size: 1em;
+        font-size: 1.2em;
 }
 
 hr {
@@ -33,7 +33,7 @@ div.title{
 
 div.main {
         margin-bottom: 25px;
-        width:60em;  
+        width:65em;  
         padding-top: 0.5em;
         margin: 3px auto;          
         background-color:#ffffff;
