@@ -14,8 +14,6 @@
 		<td width="30%" class="intro">
 			Sen Chen (陈 森)
 			</br>
-			Research Fellow
-			</br>
 			Nanyang Technological University, Singapore
 			</br>
 		    ecnuchensen AT gmail.com</br>
@@ -29,7 +27,7 @@
 </tbody></table>
 		<hr>
 		<p style="text-align:justify">
-			I am now a postdoctoral Research Fellow in the research group of Professor <a href="http://www.ntu.edu.sg/home/yangliu/" target="_blank">Yang Liu</a>, and focusing primarily on the areas of mobile security, AI model security, software development and testing, and big data. I received my Ph.D. degree in East China Normal University (ECNU), Shanghai, China, in June 2019, under the superivsion of Professor Lihua Xu (NYU Shanghai). I also had been a Research Assistant at SCSE of NTU (October 2016-June 2019). I received an ACM SIGSOFT Distinguished Paper Award at ICSE 2018 and won Research Tool Award at NASAC 2018 held by CCF.</br>
+			I am now a postdoctoral Research Fellow in the research group of Professor Yang Liu, and focusing primarily on the areas of mobile security, AI model robustness, software development and testing, and big data. I received my Ph.D. degree in East China Normal University (ECNU), Shanghai, China, in June 2019, under the superivsion of Professor Lihua Xu (NYU Shanghai). I also had been a Research Assistant at SCSE of NTU (October 2016-June 2019). I received an ACM SIGSOFT Distinguished Paper Award at ICSE 2018 and won Research Tool Award at NASAC 2018 held by CCF.</br>
 		<!--</br>
 		I'm currently advised by Professor <a href="https://shanghai.nyu.edu/cn/academics/faculty/directory/lihua-xu" target="_blank">Lihua Xu</a> (NYU Shanghai). 
 <!--In addition, I owe a big thanks to Professor <a href="http://nsec.sjtu.edu.cn/~hjzhu/" target="_blank">Haojin Zhu</a> (SJTU) for leading me into the field of mobile security.	
@@ -101,7 +99,7 @@
 			B.S. Student, Software Engineering, Harbin Normal University, September 2010 - June 2014
 		</p>-->
 
-		<hr>
+		<!--<hr>
 
 <P>
 	 		My research focuses on developing effective techniques and tools to improve mobile security, AI model security and robustness, the efficiency of software development and testing.</br>
@@ -112,7 +110,6 @@
 	 		&nbsp;&nbsp;Android Fake App Analysis and Characteristics: Ecosystem and Trend (ICSE'19)</br>
 	 		&nbsp;&nbsp;Android Grayware Analysis and Characteristics: GrayDet ('20)</br>		
 			&nbsp;&nbsp;Android App Vulnerability Detection: A<font size="4">USERA</font> and Empirical Assessment (ESEC/FSE'18, '20)</br>
-	 		<!--&nbsp;&nbsp;Android App Vulnerability and Tool Capability Assessment ('20)</br>-->
 			&nbsp;&nbsp;Android GUI Attack and Defense: GUI-Squatting Attack (TDSC'19)</br>
 			&nbsp;&nbsp;Attacks and Defenses of Phishing Website Classifiers ('20)</br>
 			&nbsp;&nbsp;Attacks and Defenses of Speaker Recognition Systems ('20)</br>
@@ -137,7 +134,7 @@
 			&nbsp;&nbsp;Code Commit Message Generation ('19)</br>
 			&nbsp;&nbsp;Code Review and Recommendation ('19)
 			
-	 	</P>
+	 	</P>-->
 <hr>
 		<p>
 			</p><div class="subtitle">Publications <a href="https://scholar.google.com.sg/citations?hl=en&pli=1&user=OeYEPdAAAAAJ" target="_blank">[Google Scholar]</a> <a href="http://dblp.uni-trier.de/pers/hd/c/Chen:Sen" target="_blank">[DBLP]</a><br> <!--# means co-first author, * refers to corresponding author.--></div>
