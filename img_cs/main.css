@@ -4,7 +4,7 @@ body{
         padding: 0;
         background-color: #F5F5F5;
         font-family: "EB Garamond", serif;
-        font-size: 1.2em;
+        font-size: 1.4em;
 }
 
 hr {
@@ -14,26 +14,26 @@ hr {
 p {
         padding-left: 1em;
         padding-right: 1.5em;
-        font-size: 1.25em;
+        font-size: 1.4em;
         line-height:120%;
 }
 
 div.title{
         padding-left: 25px;
         font-family: "EB Garamond", serif;
-        font-size: 1.5em;
+        font-size: 1.6em;
         color: #000000;
 }
 
 .intro{
-        font-size: 1.4em;
+        font-size: 1.6em;
         font-family: "EB Garamond", serif;
         font-weight: bold;
 }
 
 div.main {
         margin-bottom: 25px;
-        width:60em;  
+        width:65em;  
         padding-top: 0.5em;
         margin: 3px auto;          
         background-color:#ffffff;
@@ -47,7 +47,7 @@ div.subtitle {
         color: #000000;
         padding-left: 1em;
         padding-right: 1em;
-        font-size: 1.5em;
+        font-size: 1.6em;
         font-weight: bold;
 }
         
@@ -57,7 +57,7 @@ div.footer{
         font-weight: bold;
         color: #000000;
         text-align: center;
-        font-size: 1em;
+        font-size: 1.5em;
 }
 
 .img{
