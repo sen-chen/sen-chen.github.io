@@ -3,7 +3,7 @@ body{
         margin: 0;
         padding: 0;
         background-color: #F5F5F5;
-        font-family: "EB Garamond",serif;
+        font-family: "Gill Sans", sans-serif;
         font-size: 1.3em;
 }
 
@@ -20,14 +20,14 @@ p {
 
 div.title{
         padding-left: 25px;
-        font-family: "EB Garamond",serif;
+        font-family: "Gill Sans", sans-serif;
         font-size: 1.5em;
         color: #000000;
 }
 
 .intro{
         font-size: 1.6em;
-        font-family: "EB Garamond",serif;
+        font-family: "Gill Sans", sans-serif;
         font-weight: bold;
 }
 
@@ -53,7 +53,7 @@ div.subtitle {
         
 div.footer{
         padding-left: 6px;
-        font-family: "EB Garamond",serif;
+        font-family: "Gill Sans", sans-serif;
         font-weight: bold;
         color: #000000;
         text-align: center;
