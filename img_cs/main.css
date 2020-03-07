@@ -3,8 +3,8 @@ body{
         margin: 0;
         padding: 0;
         background-color: #F5F5F5;
-        font-family: "EB Garamond", serif;
-        font-size: 1.4em;
+        font-family:EB Garamond, serif;
+        font-size: 1.3em;
 }
 
 hr {
@@ -14,20 +14,20 @@ hr {
 p {
         padding-left: 1em;
         padding-right: 1.5em;
-        font-size: 1.4em;
+        font-size: 1.3em;
         line-height:120%;
 }
 
 div.title{
         padding-left: 25px;
-        font-family: "EB Garamond", serif;
-        font-size: 1.6em;
+        font-family:EB Garamond, serif;
+        font-size: 1.5em;
         color: #000000;
 }
 
 .intro{
         font-size: 1.6em;
-        font-family: "EB Garamond", serif;
+        font-family:EB Garamond, serif;
         font-weight: bold;
 }
 
@@ -47,13 +47,13 @@ div.subtitle {
         color: #000000;
         padding-left: 1em;
         padding-right: 1em;
-        font-size: 1.6em;
+        font-size: 1.5em;
         font-weight: bold;
 }
         
 div.footer{
         padding-left: 6px;
-        font-family: "EB Garamond", serif;
+        font-family:EB Garamond, serif;
         font-weight: bold;
         color: #000000;
         text-align: center;
