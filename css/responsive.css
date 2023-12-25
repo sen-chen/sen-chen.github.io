@@ -1,0 +1,169 @@
+
+@media (max-width: 1400px){
+
+	.portfolio .section-title {
+		left: inherit;
+		padding: 0 20px;
+		text-align: center;
+	}
+	.portfolio .portfolio-carousel{
+		left: inherit;
+		padding: 0 20px;
+	}
+}
+
+@media (max-width: 991px){
+
+	/*===============
+	 Menu
+	=================*/
+
+	.site-header{
+		position: relative;
+	}
+	.site-header .menu-wrapper{
+		padding: 16px 0;
+	}
+	.site-header .menu-wrapper nav{
+		display: block;
+		position: absolute;
+		top: 100%;
+		left: 0;
+		width: 100%;
+		background-color: #fff;
+		padding: 30px 20px;
+		border-top: 1px solid rgba(0, 0, 0, 0.08);
+		z-index: 2;
+		display: none;
+	}
+	.site-header .menu-wrapper nav ul{
+		display: block;
+	}
+	.site-header .menu-wrapper nav ul li{
+		margin-right: 0;
+	}
+	.site-header .menu-wrapper nav ul li a{
+		display: block;
+		padding: 8px 10px;
+	}
+	.site-header nav ul li.menu-item-has-children a::after {
+		position: absolute;
+		top: 50%;
+		right: 10px;
+		transform: translateY(-50%);
+	}
+	.site-header nav ul li .sub-menu{
+		position: static;
+		width: 100%;
+		transition: inherit;
+		opacity: 1;
+		visibility: visible;
+	}
+	.site-header nav ul li.menu-item-has-children .sub-menu{
+		display: none;
+		padding: 0 15px;
+	}
+	.site-header .menu-wrapper .menu-toggle{
+		display: block;
+		cursor: pointer;
+	}
+	.site-header .menu-wrapper .menu-toggle i{
+		font-size: 22px;
+		color: #111111;
+	}
+	.site-header .menu-wrapper .menu-toggle .close{
+		display: none;
+	}
+	.site-header .menu-wrapper .menu-toggle.show .close{
+		display: block;
+	}
+	.site-header .menu-wrapper .menu-toggle.show .open{
+		display: none;
+	}
+
+	/*===============
+	 Hero Section
+	=================*/
+
+	.hero .content{
+		width: 60%;
+	}
+	.hero .content .hero-text .title {
+		font-size: 60px;
+	}
+
+	/*===============
+	 About Section
+	=================*/
+
+	.about .about-image {
+		margin-bottom: 46px;
+	}
+
+	/*===============
+	 Portfolio Section
+	=================*/
+
+	.portfolio .portfolio-carousel{
+		left: inherit;
+		padding: 0 20px;
+	}
+
+	/*===============
+	 Counter
+	=================*/
+
+	.countdown{
+		background-position: top;
+	}
+	.countdown #counter{
+		flex-wrap: wrap;
+	}
+	.countdown #counter li{
+		flex: inherit;
+		width: 50%;
+	}
+
+	/*===============
+	 Footer
+	=================*/
+
+	.site-footer .footer-widget{
+		margin-top: 40px;
+	}
+
+	/*===============
+	 Contact Page
+	=================*/
+	
+	.contact-page{
+		margin-bottom: 80px;
+	}
+	.contact-page .contact-form{
+		padding: 48px 0 0;
+	}
+
+	/*===============
+	 Blog Details
+	=================*/
+
+	#blog-details .sidebar-area{
+		padding: 50px 0 0;
+	}
+
+}
+
+@media (max-width: 767px){
+
+	.site-header .top-bar{
+		display: none;
+	}
+
+	/* Footer */
+
+	.site-footer .subscribe-area .subscribe-form input[type="email"]{
+		width: 70%;
+		margin-bottom: 10px;
+	}
+
+}
