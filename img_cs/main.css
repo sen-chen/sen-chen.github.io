@@ -5,6 +5,12 @@ body{
         font-size: 1.3em;
 }
 
+/* 正常状态的链接 */
+a:link {
+  color: black; /* 蓝色 */
+  text-decoration: none; /* 去掉下划线 */
+}
+
 hr {
         width: 98%;
 }
@@ -24,7 +30,6 @@ div.title{
 
 .intro{
         font-size: 1.6em;
-        font-weight: bold;
 }
 
 div.main {
