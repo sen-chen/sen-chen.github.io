@@ -292,6 +292,24 @@ body.sc .badge{
         margin-bottom: .35rem;
 }
 
+/* Venue tag (Selected Publications) */
+body.sc .venue-tag{
+        display: inline-flex;
+        align-items: center;
+        padding: .12rem .5rem;
+        margin-right: .45rem;
+        border-radius: 999px;
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        box-shadow: 0 1px 8px rgba(15, 23, 42, .10);
+        color: #334155;
+        font-weight: 700;
+        font-size: .9rem;
+        letter-spacing: .2px;
+        vertical-align: baseline;
+        white-space: nowrap;
+}
+
 /* Publications page helpers */
 body.sc.sc-pubs .top{
         display: flex;
