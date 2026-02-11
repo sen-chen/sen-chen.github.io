@@ -76,3 +76,333 @@ ul li{
         font-weight: bold;
 }
 
+/* =========================================================
+   Academic homepage layout (scoped; avoids legacy conflicts)
+   Apply by adding class="sc ..." on <body>.
+   ========================================================= */
+
+body.sc{
+        /* Reset the old global 1.3em to a more standard base. */
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+        background: #f6f7f9;
+        color: #111827;
+}
+
+body.sc{
+        --sc-text: #111827;
+        --sc-muted: #4b5563;
+        --sc-border: #e5e7eb;
+        --sc-bg: #ffffff;
+        --sc-chip: #f3f4f6;
+        --sc-link: #0f172a;
+        --sc-max: 72rem;
+}
+
+body.sc{
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+        line-height: 1.55;
+}
+
+body.sc.sc-zh{
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", sans-serif;
+        line-height: 1.7;
+}
+
+body.sc a{
+        color: var(--sc-link);
+}
+body.sc a:hover{
+        text-decoration: underline;
+        text-underline-offset: 3px;
+}
+
+body.sc .main{
+        width: min(var(--sc-max), calc(100% - 2rem));
+        margin: 1.25rem auto;
+        background: var(--sc-bg);
+        border: 1px solid var(--sc-border);
+        border-radius: 14px;
+        overflow: hidden;
+        padding-top: 0;
+        margin-bottom: 1.25rem;
+}
+
+body.sc hr{
+        width: 100%;
+        border: 0;
+        border-top: 1px solid var(--sc-border);
+        margin: 0;
+}
+
+body.sc p{
+        padding-left: 0;
+        padding-right: 0;
+        margin: .6rem 0;
+        font-size: 1.02rem;
+        line-height: 1.65;
+}
+
+body.sc.sc-home p{
+        /* Home pages: a touch larger for readability. */
+        font-size: 1.05rem;
+}
+
+body.sc .container{
+        padding: 1.25rem;
+}
+
+body.sc .header{
+        display: grid;
+        grid-template-columns: 120px 1fr;
+        gap: 1rem;
+        align-items: center;
+}
+
+body.sc .portrait{
+        width: 120px;
+        height: 120px;
+        border-radius: 14px;
+        object-fit: cover;
+        border: 1px solid var(--sc-border);
+        background: #fff;
+}
+
+body.sc .name{
+        font-size: 1.85rem;
+        font-weight: 800;
+        letter-spacing: .2px;
+        margin: 0;
+}
+
+body.sc.sc-zh .name{
+        font-size: 1.8rem;
+}
+
+body.sc .affil{
+        margin: .25rem 0 0;
+        color: var(--sc-muted);
+        font-size: 1.05rem;
+}
+
+body.sc .meta{
+        margin-top: .6rem;
+        display: flex;
+        flex-wrap: wrap;
+        gap: .5rem .75rem;
+        color: var(--sc-muted);
+        font-size: .98rem;
+}
+
+body.sc .meta a{
+        color: inherit;
+}
+
+body.sc .nav{
+        display: flex;
+        flex-wrap: wrap;
+        gap: .5rem .75rem;
+        padding: .75rem 1.25rem;
+        background: linear-gradient(180deg, #ffffff, #fbfbfc);
+}
+
+body.sc .nav a{
+        display: inline-flex;
+        align-items: center;
+        gap: .35rem;
+        padding: .25rem .5rem;
+        border-radius: 8px;
+        background: var(--sc-chip);
+        border: 1px solid var(--sc-border);
+        font-size: .95rem;
+        text-decoration: none;
+}
+body.sc .nav a:hover{
+        text-decoration: none;
+        border-color: #cbd5e1;
+}
+
+body.sc .section{
+        padding: 1.25rem;
+}
+
+body.sc .section h2{
+        font-size: 1.15rem;
+        margin: 0 0 .75rem;
+        letter-spacing: .2px;
+}
+
+body.sc .grid2{
+        display: grid;
+        grid-template-columns: 1.2fr .8fr;
+        gap: 1.25rem;
+}
+
+body.sc.sc-zh .grid2{
+        grid-template-columns: 1.25fr .75fr;
+}
+
+body.sc .card{
+        border: 1px solid var(--sc-border);
+        border-radius: 12px;
+        padding: .9rem 1rem;
+        background: var(--sc-bg);
+}
+
+body.sc .list{
+        margin: 0;
+        padding-left: 1.1rem;
+}
+
+body.sc .list li{
+        margin: .45rem 0;
+        font-weight: 400;
+        font-size: 1.02rem;
+}
+
+body.sc .news-item{
+        display: flex;
+        gap: .5rem;
+        align-items: flex-start;
+        margin: .55rem 0;
+}
+
+body.sc .news-item img{
+        width: 18px;
+        height: 18px;
+        margin-top: 3px;
+}
+
+body.sc .small{
+        font-size: .95rem;
+        color: var(--sc-muted);
+        font-weight: 500;
+}
+
+body.sc .badge{
+        display: inline-block;
+        padding: .15rem .5rem;
+        border: 1px solid var(--sc-border);
+        border-radius: 999px;
+        background: #fff;
+        font-size: .92rem;
+        color: var(--sc-muted);
+        margin-right: .35rem;
+        margin-bottom: .35rem;
+}
+
+/* Publications page helpers */
+body.sc.sc-pubs .top{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: .75rem 1rem;
+}
+
+body.sc.sc-pubs .h1{
+        font-size: 1.35rem;
+        font-weight: 800;
+        margin: 0;
+}
+
+body.sc.sc-pubs .legend{
+        margin-top: .5rem;
+        color: var(--sc-muted);
+        font-size: .95rem;
+}
+
+body.sc.sc-pubs .toc{
+        display: flex;
+        flex-wrap: wrap;
+        gap: .4rem .5rem;
+        margin-top: .75rem;
+}
+
+body.sc.sc-pubs .toc a{
+        display: inline-block;
+        padding: .15rem .5rem;
+        border-radius: 999px;
+        border: 1px solid var(--sc-border);
+        background: #fff;
+        text-decoration: none;
+        font-size: .92rem;
+        color: var(--sc-muted);
+}
+
+body.sc.sc-pubs .toc a:hover{
+        color: var(--sc-text);
+        border-color: #cbd5e1;
+        text-decoration: none;
+}
+
+body.sc.sc-pubs .year{
+        margin: 1.35rem 0 .65rem;
+        padding-top: .35rem;
+        font-size: 1.25rem;
+        font-weight: 800;
+        letter-spacing: .2px;
+}
+
+body.sc.sc-pubs .media img{
+        width: 18px;
+        height: 18px;
+        vertical-align: text-bottom;
+}
+
+body.sc.sc-pubs .backtop{
+        position: fixed;
+        right: 18px;
+        bottom: 18px;
+        padding: .4rem .6rem;
+        border-radius: 10px;
+        border: 1px solid var(--sc-border);
+        background: rgba(255,255,255,.95);
+        box-shadow: 0 6px 22px rgba(0,0,0,.08);
+        text-decoration: none;
+        font-size: .95rem;
+        color: var(--sc-muted);
+}
+
+body.sc.sc-pubs .backtop:hover{
+        color: var(--sc-text);
+        text-decoration: none;
+}
+
+body.sc .footer{
+        padding: 1rem 1.25rem;
+        text-align: center;
+        font-weight: 600;
+        background: #fff;
+}
+
+body.sc.sc-pubs .footer{
+        border-top: 1px solid var(--sc-border);
+}
+
+@media (max-width: 720px){
+        body.sc .header{
+                grid-template-columns: 92px 1fr;
+        }
+        body.sc .portrait{
+                width: 92px;
+                height: 92px;
+                border-radius: 12px;
+        }
+        body.sc .grid2{
+                grid-template-columns: 1fr;
+        }
+        body.sc.sc-pubs .backtop{
+                right: 12px;
+                bottom: 12px;
+        }
+        body.sc .container,
+        body.sc .section{
+                padding: 1rem;
+        }
+        body.sc .nav{
+                padding: .6rem 1rem;
+        }
+}
+
