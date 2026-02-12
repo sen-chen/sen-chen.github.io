@@ -79,11 +79,16 @@ ul li{
 /* =========================================================
    Academic homepage layout (scoped; avoids legacy conflicts)
    Apply by adding class="sc ..." on <body>.
+   根字号 135%：在浏览器 100% 缩放下达到 135% 的视觉大小。
    ========================================================= */
 
+html:has(body.sc){
+        font-size: 135%;
+}
+
 body.sc{
-        /* Reset the old global 1.3em to a more standard base. */
-        font-size: 16px;
+        /* 使用 rem 以便随根字号缩放 */
+        font-size: 1.0625rem;  /* 约 17px @16px → 约 25.5px @24px */
         margin: 0;
         padding: 0;
         background: #f6f7f9;
@@ -97,17 +102,55 @@ body.sc{
         --sc-bg: #ffffff;
         --sc-chip: #f3f4f6;
         --sc-link: #0f172a;
-        --sc-max: 72rem;
+        --sc-max: 54rem;  /* 约 864px，适宜阅读的版面宽度 */
 }
 
 body.sc{
-        font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
-        line-height: 1.55;
+        font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+        line-height: 1.6;
 }
 
 body.sc.sc-zh{
-        font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", sans-serif;
-        line-height: 1.7;
+        font-family: "Noto Serif SC", "Source Han Serif SC", "PingFang SC", "Microsoft YaHei", serif;
+        line-height: 1.75;
+}
+
+/* 英文页面整体字号略大，便于阅读 */
+body.sc.sc-en{
+        font-size: 1.125rem;   /* 约 18px @16px → 约 27px @24px */
+}
+
+body.sc.sc-en.sc-home p{
+        font-size: 1.1rem;
+}
+
+body.sc.sc-en .name{
+        font-size: 1.85rem;
+}
+
+body.sc.sc-en .affil{
+        font-size: 1.05rem;
+}
+
+body.sc.sc-en .section h2{
+        font-size: 1.25rem;
+}
+
+body.sc.sc-en .list li{
+        font-size: 1.08rem;
+}
+
+body.sc.sc-en .news-item div,
+body.sc.sc-en .meta{
+        font-size: 1.02rem;
+}
+
+body.sc.sc-en .venue-tag{
+        font-size: .92rem;
+}
+
+body.sc.sc-en .small{
+        font-size: .98rem;
 }
 
 body.sc a{
@@ -140,13 +183,12 @@ body.sc p{
         padding-left: 0;
         padding-right: 0;
         margin: .6rem 0;
-        font-size: 1.02rem;
-        line-height: 1.65;
+        font-size: 1.05rem;
+        line-height: 1.7;
 }
 
 body.sc.sc-home p{
-        /* Home pages: a touch larger for readability. */
-        font-size: 1.05rem;
+        font-size: 1.08rem;
 }
 
 body.sc .container{
@@ -155,14 +197,14 @@ body.sc .container{
 
 body.sc .header{
         display: grid;
-        grid-template-columns: 120px 1fr;
+        grid-template-columns: 9rem 1fr;
         gap: 1rem;
         align-items: center;
 }
 
 body.sc .portrait{
-        width: 120px;
-        height: 120px;
+        width: 9rem;
+        height: 9rem;
         border-radius: 14px;
         object-fit: cover;
         border: 1px solid var(--sc-border);
@@ -170,9 +212,9 @@ body.sc .portrait{
 }
 
 body.sc .name{
-        font-size: 1.85rem;
-        font-weight: 800;
-        letter-spacing: .2px;
+        font-size: 1.75rem;
+        font-weight: 700;
+        letter-spacing: .02em;
         margin: 0;
 }
 
@@ -183,7 +225,7 @@ body.sc.sc-zh .name{
 body.sc .affil{
         margin: .25rem 0 0;
         color: var(--sc-muted);
-        font-size: 1.05rem;
+        font-size: 1rem;
 }
 
 body.sc .meta{
@@ -228,9 +270,10 @@ body.sc .section{
 }
 
 body.sc .section h2{
-        font-size: 1.15rem;
+        font-size: 1.2rem;
         margin: 0 0 .75rem;
-        letter-spacing: .2px;
+        letter-spacing: .02em;
+        font-weight: 600;
 }
 
 body.sc .grid2{
@@ -255,10 +298,15 @@ body.sc .list{
         padding-left: 1.1rem;
 }
 
+body.sc #selected .list{
+        list-style: none;
+        padding-left: 0;
+}
+
 body.sc .list li{
         margin: .45rem 0;
         font-weight: 400;
-        font-size: 1.02rem;
+        font-size: 1.05rem;
 }
 
 body.sc .news-item{
@@ -269,9 +317,13 @@ body.sc .news-item{
 }
 
 body.sc .news-item img{
-        width: 18px;
-        height: 18px;
-        margin-top: 3px;
+        width: auto;
+        height: 1.125rem;
+        max-width: 1.125rem;
+        margin-top: .2rem;
+        flex-shrink: 0;
+        object-fit: contain;
+        vertical-align: middle;
 }
 
 body.sc .small{
@@ -290,6 +342,10 @@ body.sc .badge{
         color: var(--sc-muted);
         margin-right: .35rem;
         margin-bottom: .35rem;
+}
+
+body.sc.sc-zh .badge{
+        font-size: 1.08rem;
 }
 
 /* Venue tag (Selected Publications) */
@@ -364,9 +420,11 @@ body.sc.sc-pubs .year{
 }
 
 body.sc.sc-pubs .media img{
-        width: 18px;
-        height: 18px;
+        width: auto;
+        height: 1.125rem;
+        max-width: 1.125rem;
         vertical-align: text-bottom;
+        object-fit: contain;
 }
 
 body.sc.sc-pubs .backtop{
@@ -392,7 +450,14 @@ body.sc .footer{
         padding: 1rem 1.25rem;
         text-align: center;
         font-weight: 600;
+        font-size: 0.95rem;
         background: #fff;
+}
+
+body.sc .footer img{
+        max-width: 12.5rem;
+        height: auto;
+        object-fit: contain;
 }
 
 body.sc.sc-pubs .footer{
@@ -401,19 +466,19 @@ body.sc.sc-pubs .footer{
 
 @media (max-width: 720px){
         body.sc .header{
-                grid-template-columns: 92px 1fr;
+                grid-template-columns: 7rem 1fr;
         }
         body.sc .portrait{
-                width: 92px;
-                height: 92px;
+                width: 7rem;
+                height: 7rem;
                 border-radius: 12px;
         }
         body.sc .grid2{
                 grid-template-columns: 1fr;
         }
         body.sc.sc-pubs .backtop{
-                right: 12px;
-                bottom: 12px;
+                right: .75rem;
+                bottom: .75rem;
         }
         body.sc .container,
         body.sc .section{
