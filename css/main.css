@@ -79,11 +79,11 @@ ul li{
 /* =========================================================
    Academic homepage layout (scoped; avoids legacy conflicts)
    Apply by adding class="sc ..." on <body>.
-   根字号 135%：在浏览器 100% 缩放下达到 135% 的视觉大小。
+   根字号 125%：在浏览器 100% 缩放下达到 125% 的视觉大小。
    ========================================================= */
 
 html:has(body.sc){
-        font-size: 135%;
+        font-size: 125%;
 }
 
 body.sc{
@@ -219,7 +219,12 @@ body.sc .name{
 }
 
 body.sc.sc-zh .name{
-        font-size: 1.8rem;
+        font-size: 1.55rem;
+}
+
+body.sc.sc-zh .affil,
+body.sc.sc-zh .meta{
+        font-size: 1.08rem;
 }
 
 body.sc .affil{
@@ -301,6 +306,10 @@ body.sc .list{
 body.sc #selected .list{
         list-style: none;
         padding-left: 0;
+}
+
+body.sc.sc-zh #selected .list li{
+        font-family: "EB Garamond", Georgia, "Times New Roman", serif;
 }
 
 body.sc .list li{
