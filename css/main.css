@@ -455,6 +455,11 @@ body.sc.sc-pubs .backtop:hover{
         text-decoration: none;
 }
 
+body.sc.sc-pubs .award-label{
+        color: #1d4ed8;
+        font-weight: 600;
+}
+
 body.sc .footer{
         padding: 1rem 1.25rem;
         text-align: center;
