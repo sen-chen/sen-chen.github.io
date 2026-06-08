@@ -83,7 +83,7 @@ ul li{
    ========================================================= */
 
 html:has(body.sc){
-        font-size: 125%;
+        font-size: 131.25%; /* ≈ 21px at browser default 16px; was 125% */
 }
 
 body.sc{
@@ -107,7 +107,7 @@ body.sc{
 
 body.sc{
         font-family: "EB Garamond", Georgia, "Times New Roman", serif;
-        line-height: 1.6;
+        line-height: 1.68;
 }
 
 body.sc.sc-zh{
@@ -121,32 +121,34 @@ body.sc.sc-en{
 }
 
 body.sc.sc-en.sc-home p{
-        font-size: 1.1rem;
+        font-size: 1.15rem;
+        line-height: 1.75;
 }
 
 body.sc.sc-en .name{
-        font-size: 1.85rem;
+        font-size: 2rem;
+        letter-spacing: .03em;
 }
 
 body.sc.sc-en .affil{
-        font-size: 1.05rem;
+        font-size: 1.1rem;
 }
 
 body.sc.sc-en .section h2{
-        font-size: 1.25rem;
+        font-size: 1.42rem;
 }
 
 body.sc.sc-en .list li{
-        font-size: 1.08rem;
+        font-size: 1.12rem;
 }
 
 body.sc.sc-en .news-item div,
 body.sc.sc-en .meta{
-        font-size: 1.02rem;
+        font-size: 1.06rem;
 }
 
 body.sc.sc-en .venue-tag{
-        font-size: .92rem;
+        font-size: .95rem;
 }
 
 body.sc.sc-en .small{
@@ -276,9 +278,11 @@ body.sc .section{
 
 body.sc .section h2{
         font-size: 1.2rem;
-        margin: 0 0 .75rem;
-        letter-spacing: .02em;
-        font-weight: 600;
+        margin: 0 0 1rem;
+        padding-bottom: .45rem;
+        border-bottom: 1px solid var(--sc-border);
+        letter-spacing: .03em;
+        font-weight: 700;
 }
 
 body.sc .grid2{
