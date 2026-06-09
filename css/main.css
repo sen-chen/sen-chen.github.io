@@ -389,15 +389,20 @@ body.sc.sc-pubs .top{
 }
 
 body.sc.sc-pubs .h1{
-        font-size: 1.35rem;
+        font-size: 1.5rem;
         font-weight: 800;
         margin: 0;
+}
+
+body.sc.sc-pubs p{
+        font-size: 1.12rem;
+        line-height: 1.82;
 }
 
 body.sc.sc-pubs .legend{
         margin-top: .5rem;
         color: var(--sc-muted);
-        font-size: .95rem;
+        font-size: 1rem;
 }
 
 body.sc.sc-pubs .toc{
@@ -414,7 +419,7 @@ body.sc.sc-pubs .toc a{
         border: 1px solid var(--sc-border);
         background: #fff;
         text-decoration: none;
-        font-size: .92rem;
+        font-size: .97rem;
         color: var(--sc-muted);
 }
 
@@ -424,19 +429,63 @@ body.sc.sc-pubs .toc a:hover{
         text-decoration: none;
 }
 
+body.sc.sc-pubs .sort-row{
+        margin-top: .6rem;
+        display: flex;
+        align-items: center;
+        gap: .35rem;
+        flex-wrap: wrap;
+}
+body.sc.sc-pubs .sort-label{
+        font-size: .88rem;
+        color: var(--sc-muted);
+        margin-right: .1rem;
+}
+body.sc.sc-pubs .sort-btn{
+        padding: .13rem .48rem;
+        border-radius: 999px;
+        border: 1px solid var(--sc-border);
+        background: #fff;
+        font-size: .88rem;
+        color: var(--sc-muted);
+        cursor: pointer;
+        font-family: inherit;
+        line-height: 1.6;
+        transition: border-color .15s, color .15s, background .15s;
+}
+body.sc.sc-pubs .sort-btn:hover{
+        border-color: #cbd5e1;
+        color: var(--sc-text);
+}
+body.sc.sc-pubs .sort-btn.active{
+        background: var(--sc-text);
+        color: #fff;
+        border-color: var(--sc-text);
+}
+
 body.sc.sc-pubs .year{
         margin: 1.35rem 0 .65rem;
         padding-top: .35rem;
-        font-size: 1.25rem;
+        font-size: 1.35rem;
         font-weight: 800;
         letter-spacing: .2px;
 }
 
+body.sc.sc-pubs .media{
+        display: inline-flex;
+        align-items: center;
+        vertical-align: middle;
+        transition: opacity .15s, transform .15s;
+}
+body.sc.sc-pubs .media:hover{
+        opacity: .55;
+        transform: translateY(-1px);
+        text-decoration: none;
+}
 body.sc.sc-pubs .media img{
+        display: block;
         width: auto;
-        height: 1.125rem;
-        max-width: 1.125rem;
-        vertical-align: text-bottom;
+        height: 1.25rem;
         object-fit: contain;
 }
 
