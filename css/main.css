@@ -102,7 +102,7 @@ body.sc{
         --sc-bg: #ffffff;
         --sc-chip: #f3f4f6;
         --sc-link: #0f172a;
-        --sc-max: 54rem;  /* 约 864px，适宜阅读的版面宽度 */
+        --sc-max: 64rem;  /* 约 1024px，适宜阅读的版面宽度 */
 }
 
 body.sc{
