@@ -1,0 +1,1434 @@
+{
+  "selected": [
+    "paper-forthcoming-1",
+    "paper-c61",
+    "paper-c59",
+    "paper-j21",
+    "paper-c48",
+    "paper-j16",
+    "paper-c43",
+    "paper-c36",
+    "paper-c29",
+    "paper-j12",
+    "paper-j4",
+    "paper-j5",
+    "paper-j2",
+    "paper-c19"
+  ],
+  "papers": [
+    {
+      "id": "paper-web-poc-preprint",
+      "title": "A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models",
+      "authorsHtml": "Mengyao Zhao, Kaixuan Li, Lyuye Zhang, Wenjing Dang, Chenggong Ding, <strong>Sen Chen*</strong>, and Zheli Liu",
+      "venue": "Preprint",
+      "details": "",
+      "acceptanceYear": null,
+      "publicationYear": null,
+      "href": "https://arxiv.org/abs/2510.10148",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis",
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-1",
+      "title": "Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources",
+      "authorsHtml": "Wenjing Dang, Lvye Zhang, Lingxiao Wang, Kaixuan Li, Mengyao Zhao, Xiaohong Li, and <strong>Sen Chen*</strong>",
+      "venue": "TIFS 2026, CCF-A",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-2",
+      "title": "Mind the Data: A Measurement Study on Public Multi-Source Vulnerability Data",
+      "authorsHtml": "Yuxin Zhang, <strong>Sen Chen*</strong>, Chengwei Liu, Lingling Fan, Zheli Liu, Yang Liu, and Xiaohong Li",
+      "venue": "TOSEM 2026, CCF-A",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-3",
+      "title": "Vulnerability Proof-of-Concepts in Software Supply Chain: Real-World Usage Scenarios from the Perspective of Migration",
+      "authorsHtml": "Wenjing Dang, Xiaohong Li, and <strong>Sen Chen*</strong>",
+      "venue": "SWGeno 2026, CCF-A Workshop",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-4",
+      "title": "Seeing the Forest: A Taxonomy-Guided Analysis and Improvement of Malicious PyPI Package Detectors",
+      "authorsHtml": "Zibo Liu, Junjie Wang, and <strong>Sen Chen*</strong>",
+      "venue": "SWGeno 2026, CCF-A Workshop",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-5",
+      "title": "One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability",
+      "authorsHtml": "Fangyuan Zhang, Lyuye Zhang, Lingling Fan, Chengwei Liu, Yinan Li, Liang Huang, Yang Liu, Zheli Liu, and <strong>Sen Chen</strong>",
+      "venue": "ASE 2026, CCF-A",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-6",
+      "title": "AIntel-Agent: A Threat Intelligence-Driven Multi-Agent Android Anti-Runtime Analysis Method",
+      "authorsHtml": "Xinpeng Yan, Xiangyu Zhang, Lingling Fan, Yucheng Su, <strong>Sen Chen</strong>, Zheli Liu, and Xiaochun Cao",
+      "venue": "JoS 2026, CCF-A",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "analysis",
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-7",
+      "title": "\"You are deceived in the pocket\" —— Intrusive Advertisements in Mobile Applications: An Exploratory Study",
+      "authorsHtml": "Miaoying Cai, Dongsun Kim, Lingling Fan, Xiangyu Zhang, and <strong>Sen Chen</strong>",
+      "venue": "ISSTA 2026, CCF-A",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-8",
+      "title": "Knowledge is Power: A Knowledge Graph-Based Approach for Mobile Malware Traceability Analysis",
+      "authorsHtml": "Yao Zhang, Guangquan Xu, Ruitao Feng, Xiaohong Li, <strong>Sen Chen</strong>, Zhenchang Xing, Yude Bai, Yongqiang Lyu, Wei Gong, Xibin Zhao",
+      "venue": "TMC 2026, CCF-A",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-9",
+      "title": "CodeS+: Towards Assessing the Generalization Ability of Code Models Under Distribution Shift",
+      "authorsHtml": "Ziyue Shi, Junjie Wang, Yuejun Guo, Xiaofei Xie, Qiang Hu, Maxime Cordy, <strong>Sen Chen</strong>, Mike Papadakis, Yves Le Traon, and Yongqiang Lyu",
+      "venue": "TSE 2026, CCF-A",
+      "details": "IEEE Transactions on Software Engineering, Volume 52, Issue 4, April 2026, Pages: 1515–1530.",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-c62",
+      "title": "GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities",
+      "authorsHtml": "Kaixuan Li, Jian Zhang, Chong Wang, <strong>Sen Chen</strong>, Zong Cao, Min Zhang, and Yang Liu",
+      "venue": "FSE 2026, CCF-A",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": "./pdf/C62-FSE2026-GadgetHunter Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-forthcoming-11",
+      "title": "DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics",
+      "authorsHtml": "Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, Kaixuan Li, <strong>Sen Chen</strong>, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu",
+      "venue": "TSE 2026, CCF-A",
+      "details": "IEEE Transactions on Software Engineering, Volume 52, Issue 5, May 2026, Pages: 1756–1772.",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": null,
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c61",
+      "title": "Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits",
+      "authorsHtml": "Yuelin Wang, Yuqiao Ning, Yanbang Sun, Xiaofei Xie, Zhihua Xie, Yang Chen, Zhen Guo, Shihao Xue, Junjie Wang, and <strong>Sen Chen</strong>",
+      "venue": "ICSE 2026, CCF-A",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": "./pdf/C61-ICSE2026-Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits.pdf",
+      "award": "Distinguished Paper Award",
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c60",
+      "title": "Scratching the Iceberg: Unveiling the Outdated Third-Party Native Libraries in Android Apps",
+      "authorsHtml": "Shiyang Zhang, Chengwei Liu, <strong>Sen Chen<sup>*</sup></strong>, Lyuye Zhang, and Yang Liu",
+      "venue": "SANER 2026, CCF-B",
+      "details": "",
+      "acceptanceYear": 2026,
+      "publicationYear": null,
+      "href": "./pdf/C60-SANER2026-Scratching the Iceberg Unveiling the Outdated Third-Party Native Libraries in Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain"
+      ]
+    },
+    {
+      "id": "paper-j23",
+      "title": "FCGHUNTER: Towards Evaluating Robustness of Graph-Based Android Malware Detection",
+      "authorsHtml": "Shiwen Song, Xiaofei Xie, Ruitao Feng, Qi Guo, and <strong>Sen Chen</strong>",
+      "venue": "TSE 2025, CCF-A",
+      "details": "IEEE Transactions on Software Engineering, Volume 52, Issue 2, February 2026, Pages: 428–448.",
+      "acceptanceYear": 2025,
+      "publicationYear": 2026,
+      "href": "./pdf/J23-TSE2025-FCGHUNTER Towards Evaluating Robustness of Graph-Based Android Malware Detection.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c59",
+      "title": "ForeDroid: Scenario-Aware Analysis for Android Malware Detection and Explanation",
+      "authorsHtml": "Jiaming Li<sup>#</sup>, <strong>Sen Chen<sup>#*</sup></strong>, Chunlian Wu, Yuxin Zhang, and Lingling Fan",
+      "venue": "CCS 2025, CCF-A",
+      "details": "The ACM Conference on Computer and Communications Security, Salt Lake City, UT, USA, October 2025, Pages: 1379–1393.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C59-CCS2025-ForeDroid Scenario-Aware Analysis for Android Malware Detection and Explanation.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c58",
+      "title": "GlassWing: A Tailored Static Analysis Approach for Flutter Android Apps",
+      "authorsHtml": "Xiangyu Zhang, Yucheng Su, Lingling Fan, Miaoying Cai, and <strong>Sen Chen</strong>",
+      "venue": "ASE 2025, CCF-A",
+      "details": "The 40th IEEE/ACM International Conference on Automated Software Engineering, 2025, Pages: 521–533.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C58-ASE2025-GlassWing A Tailored Static Analysis Approach for Flutter Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c57",
+      "title": "DroidNative: A Greedy-Constructed Large-Scale Indexing for Android Native Libraries",
+      "authorsHtml": "Shiyang Zhang, Chengwei Liu, <strong>Sen Chen<sup>*</sup></strong>, Lyuye Zhang, and Yang Liu",
+      "venue": "A-Mobile 2025, CCF-A Workshop",
+      "details": "ASE 2025 Workshop on Automated Software Engineering for Mobile Platforms (A-Mobile), 2025, Pages: 95–98.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C57-A-Mobile2025-DroidNative A Greedy-Constructed Large-Scale Indexing for Android Native Libraries.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j23-jos",
+      "title": "HarmonyFlow: A static analysis framework for HarmonyOS applications based on Ark Panda IR",
+      "authorsHtml": "Yue Wang, <strong>Sen Chen<sup>*</sup></strong>, Jiaming Li, Wenjing Dang, Renchao Chai, Ziyue Shi, and Li Li",
+      "venue": "JoS 2025, CCF-A",
+      "details": "",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/J23-JoS2025-HarmonyFlow.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j22",
+      "title": "Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management",
+      "authorsHtml": "Boyuan Li, Chengwei Liu, Lingling Fan, <strong>Sen Chen</strong>, Zhenlin Zhang, and Zheli Liu",
+      "venue": "TSE 2025, CCF-A",
+      "details": "IEEE Transactions on Software Engineering, Volume 51, Issue 9, September 2025, Pages: 2432–2454.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/J22-TSE2025-Open Source, Hidden Costs A Systematic Literature Review on OSS License Management.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain"
+      ]
+    },
+    {
+      "id": "paper-c56",
+      "title": "Drop the Golden Apples: Identifying Third-Party Reuse by DB-Less Software Composition Analysis",
+      "authorsHtml": "Lyuye Zhang, Chengwei Liu, Jiahui Wu, Shiyang Zhang, Chengyue Liu, Zhengzi Xu, <strong>Sen Chen</strong>, and Yang Liu",
+      "venue": "FSE 2025, CCF-A, Companion",
+      "details": "The ACM International Conference on the Foundations of Software Engineering, Ideas, Visions and Reflections; Trondheim, Norway, 23 - 27 June 2025, Pages: 691–695.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C56-FSE2025-Drop the Golden Apples Identifying Third-Party Reuse by DB-Less Software Composition Analysis.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j21",
+      "title": "Beyond Decision: Android Malware Description Generation through Profiling Malicious Behavior Trajectory",
+      "authorsHtml": "Chunlian Wu, <strong>Sen Chen<sup>*</sup></strong>, Jiaming Li, Renchao Chai, Lingling Fan, Xiaofei Xie, and Ruitao Feng",
+      "venue": "TOSEM 2025, CCF-A",
+      "details": "ACM Transactions on Software Engineering and Methodology, Volume 34, Issue 7, July 2025; Pages: 196:1–196:39.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/J21-TOSEM2025-Beyond Decision：Android Malware Description Generation through Profiling Malicious Behavior Trajectory.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-c55",
+      "title": "TensorJSFuzz: Effective Testing of Web-Based Deep Learning Frameworks via Input-Constraint Extraction",
+      "authorsHtml": "Lili Quan, Xiaofei Xie, Qianyu Guo, Lingxiao Jiang, <strong>Sen Chen<sup>*</sup></strong>, Junjie Wang, and Xiaohong Li",
+      "venue": "WWW 2025, CCF-A",
+      "details": "Sydney, Australia, The Web Conference, 28 April - 2 May 2025, Pages: 3405–3414.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C55-WWW2025-TensorJSFuzz Effective Testing of Web-Based Deep LearningFrameworks via Input-Constraint Extractio.pdf",
+      "award": null,
+      "topics": [
+        "analysis",
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-c54",
+      "title": "Dissecting Global Search: A Simple yet Effective Method to Boost Individual Discrimination Testing and Repair",
+      "authorsHtml": "Lili Quan, Tianlin Li, Xiaofei Xie, Zhenpeng Chen, <strong>Sen Chen</strong>, Lingxiao Jiang, and Xiaohong Li",
+      "venue": "ICSE 2025, CCF-A",
+      "details": "Ottawa, Ontario, Canada, The 47th IEEE/ACM International Conference on Software Engineering, Sun 27 April - Sat 3 May 2025, Pages: 1908–1920.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C54-ICSE2025-Dissecting Global Search A Simple yet Effective Method to Boost Individual Discrimination Testing and Repair.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c53",
+      "title": "Scenario-Driven and Context-Aware Automated Accessibility Testing for Android Apps",
+      "authorsHtml": "Yuxin Zhang, <strong>Sen Chen<sup>*</sup></strong>, Xiaofei Xie, Zibo Liu, and Lingling Fan",
+      "venue": "ICSE 2025, CCF-A",
+      "details": "Ottawa, Ontario, Canada, The 47th IEEE/ACM International Conference on Software Engineering, Sun 27 April - Sat 3 May 2025, Pages: 2777–2789.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C53-ICSE2025-Scenario-Driven and Context-Aware Automated Accessibility Testing for Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c52",
+      "title": "CalmDroid: Core-Set Based Active Learning for Multi-Label Android Malware Detection",
+      "authorsHtml": "Minhong Dong, Liyuan Liu, Mengting Zhang, <strong>Sen Chen</strong>, Wenying He, Ze Wang, and Yude Bai",
+      "venue": "ICPC 2025, CCF-B",
+      "details": "Ottawa, Ontario, Canada, The 33rd IEEE/ACM International Conference on Program Comprehension, 27 April - 28 April 2025.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C52-ICPC2025-CalmDroid Core-Set Based Active Learning for Multi-Label Android Malware Detection.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c51",
+      "title": "Large Language Model Supply Chain: Open Problems From the Security Perspective",
+      "authorsHtml": "Qiang Hu, Xiaofei Xie, <strong>Sen Chen<sup>*</sup></strong>, Lili Quan, and Lei Ma",
+      "venue": "ISSTA 2025, CCF-A, Companion",
+      "details": "The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis; Trondheim, Norway, 28 June 2025, Pages 169-173",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C51-ISSTA2025-Large Language Model Supply Chain Open Problems From the Security Perspective.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis",
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-c50",
+      "title": "Aligning Core Aspects: Improving Vulnerability Proof-of-Concepts via Cross-Source Insights",
+      "authorsHtml": "Lingxiao Wang, Wenjing Dang, Mengyao Zhang, Yue Wang, Xianzong Wu, and <strong>Sen Chen<sup>*</sup></strong>",
+      "venue": "FSE 2025, CCF-A, Companion",
+      "details": "The 33rd ACM International Conference on the Foundations of Software Engineering; Trondheim, Norway, 26 - 27 June 2025, Pages 1774-1777.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C50-FSE2025-Aligning Core Aspects Improving Vulnerability Proof-of-Concepts via Cross-Source Insights.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c49",
+      "title": "Towards Unveiling Vulnerability Remediation Tactics from OSS Community",
+      "authorsHtml": "Lyuye Zhang, Jiahui Wu, Chengwei Liu, Kaixuan Li, <strong>Sen Chen</strong>, and Yang Liu",
+      "venue": "APR 2025, CCF-A Workshop",
+      "details": "Ottawa, Ontario, Canada, The 6th International Workshop on Automated Program Repair, In conjunction with 47th International Conference on Software Engineering (ICSE 2025), Sun 27 April - Sat 3 May 2025, Pages: 35–39.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C49-APR2025-Towards Unveiling Vulnerability Remediation Tactics from OSS Community.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c63",
+      "title": "Evolaris: A Roadmap to Self-Evolving Software Intelligence Management",
+      "authorsHtml": "Chengwei Liu, Wenbo Guo, Yuxin Zhang, Limin Wang, <strong>Sen Chen</strong>, Lei Bu, Yang Liu",
+      "venue": "ICECCS 2025, CCF-C",
+      "details": "The 29th International Conference on Engineering of Complex Computer Systems, 2025, Pages: 515–520.",
+      "acceptanceYear": 2025,
+      "publicationYear": null,
+      "href": "./pdf/C63-ICECCS2025-Evolaris A Roadmap to Self-Evolving Software Intelligence Management.pdf",
+      "award": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-c48",
+      "title": "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?",
+      "authorsHtml": "Kaixuan Li, Yue Xue, <strong>Sen Chen<sup>*</sup></strong>, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen",
+      "venue": "FSE 2024, CCF-A",
+      "details": "Porto de Galinhas, Brazil, The 32th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering; Mon 15 - Fri 19 July 2024, Pages: 1447–1470.",
+      "acceptanceYear": 2024,
+      "publicationYear": null,
+      "href": "./pdf/C48-FSE2024-Static Application Security Testing (SAST) Tools for Smart Contracts How Far Are We.pdf",
+      "award": "Distinguished Paper Award",
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j20",
+      "title": "A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android",
+      "authorsHtml": "Jingyun Zhu, Kaixuan Li, <strong>Sen Chen<sup>*</sup></strong>, Lingling Fan, Junjie Wang, and Xiaofei Xie",
+      "venue": "TSE 2024, CCF-A",
+      "details": "IEEE Transactions on Software Engineering, Volume 50, Issue 12, December 2024, Pages: 3385–3402.",
+      "acceptanceYear": 2024,
+      "publicationYear": null,
+      "href": "./pdf/J20-TSE2024-A Comprehensive Study on Static Application Security Testing SAST Tools for Android.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j19",
+      "title": "Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries",
+      "authorsHtml": "Fangyuan Zhang, Lingling Fan, <strong>Sen Chen</strong>, Miaoying Cai, Sihan Xu, and Lida Zhao",
+      "venue": "TSE 2024, CCF-A",
+      "details": "IEEE Transactions on Software Engineering, Volume 50, Issue 11, November 2024, Pages: 2906–2920.",
+      "acceptanceYear": 2024,
+      "publicationYear": null,
+      "href": "./pdf/J19-TSE2024-Does the Vulnerability Threaten Our Projects Automated Vulnerable API Detection for Third-Party Libraries.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c47",
+      "title": "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software",
+      "authorsHtml": "Kaixuan Li, Jian Zhang, <strong>Sen Chen</strong>, Han Liu, Yang Liu, and Yixiang Chen",
+      "venue": "ISSTA 2024, CCF-A",
+      "details": "The ACM SIGSOFT International Symposium on Software Testing and Analysis; Mon 16 - Fri 20 September 2024 Vienna, Austria, Pages: 590–602.",
+      "acceptanceYear": 2024,
+      "publicationYear": null,
+      "href": "./pdf/C47-ISSTA2024-PatchFinder A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c46",
+      "title": "Bugs in Pods: Understanding Bugs in Container Runtime Systems",
+      "authorsHtml": "Jiongchi Yu, Xiaofei Xie, Cen Zhang, <strong>Sen Chen</strong>, Yuekang Li, and Wenbo Shen",
+      "venue": "ISSTA 2024, CCF-A",
+      "details": "The ACM SIGSOFT International Symposium on Software Testing and Analysis; Mon 16 - Fri 20 September 2024 Vienna, Austria, Pages: 1364–1376.",
+      "acceptanceYear": 2024,
+      "publicationYear": null,
+      "href": "./pdf/C46-ISSTA2024-Bugs in Pods Understanding Bugs in Container Runtime Systems.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c45",
+      "title": "Unmasking the Lurking: Malicious Behavior Detection for IoT Malware with Multi-label Classification",
+      "authorsHtml": "Ruitao Feng, Sen Li, <strong>Sen Chen</strong>, Mengmeng Ge, Xuewei Li, and Xiaohong Li",
+      "venue": "LCTES 2024, CCF-B",
+      "details": "Copenhagen, Denmark, The 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems; Mon 24 - Fri 28 June 2024, Pages: 95–106.",
+      "acceptanceYear": 2024,
+      "publicationYear": null,
+      "href": "./pdf/C45-LCTES2024-Unmasking the Lurking Malicious Behavior Detection for IoT Malware with Multi-label Classification.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c44",
+      "title": "Behavior Speaks Louder: Rethinking Malware Analysis Beyond Family Classification",
+      "authorsHtml": "Fei Zhang, Ruitao Feng, Xiaohong Li, and <strong>Sen Chen</strong>",
+      "venue": "TrustCom 2024, CCF-C",
+      "details": "Sanya, China, The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications; December 17-21, 2024, Pages: 166–175.",
+      "acceptanceYear": 2024,
+      "publicationYear": null,
+      "href": "./pdf/C44-TrustCom2024-Behavior Speaks Louder Rethinking Malware Analysis Beyond Family Classification.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c43",
+      "title": "EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software",
+      "authorsHtml": "Yao Zhang, Xiaofei Xie, Yi Li, <strong>Sen Chen<sup>*</sup></strong>, Cen Zhang, and Xiaohong Li",
+      "venue": "ASE 2023, CCF-A",
+      "details": "Kirchberg, Luxembourg, The 38th IEEE/ACM International Conference on Automated Software Engineering; Mon 11 - Fri 15 September 2023, Pages:686--697.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C43-ASE2023-EndWatch A Practical Method for Detecting Non-Termination in Real-World Software.pdf",
+      "award": "Distinguished Paper Award",
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c42",
+      "title": "Scene-Driven Exploration and GUI Modeling for Android Apps",
+      "authorsHtml": "Xiangyu Zhang, Lingling fan, <strong>Sen Chen</strong>, Yucheng Su, and Boyuan Li",
+      "venue": "ASE 2023, CCF-A",
+      "details": "Kirchberg, Luxembourg, The 38th IEEE/ACM International Conference on Automated Software Engineering; Mon 11 - Fri 15 September 2023, Pages:1251--1262.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C42-ASE2023-Scene-Driven Exploration and GUI Modeling for Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c41",
+      "title": "Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem",
+      "authorsHtml": "Lyuye Zhang, Chengwei Liu, <strong>Sen Chen</strong>, Zhengzi Xu, Lingling Fan, Lida Zhao, Yiran Zhang and Yang Liu",
+      "venue": "ASE 2023, CCF-A",
+      "details": "Kirchberg, Luxembourg, The 38th IEEE/ACM International Conference on Automated Software Engineering; Mon 11 - Fri 15 September 2023, Pages:191--203.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C41-ASE2023-Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c40",
+      "title": "Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps",
+      "authorsHtml": "Yuxin Zhang, <strong>Sen Chen<sup>*</sup></strong>, Lingling Fan, Chunyang Chen, Xiaohong Li",
+      "venue": "FSE 2023, CCF-A",
+      "details": "United States, The 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering; 3 December-9 December 2023, Pages:1255–1267.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C40-FSE2023-Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c39",
+      "title": "Software Composition Analysis for Vulnerability Detection: An Empirical Study on Java Projects",
+      "authorsHtml": "Lida Zhao, <strong>Sen Chen<sup>*</sup></strong>, Zhengzi Xu, Chengwei Liu, lyuye Zhang, Jiahui Wu, Jun Sun, and Yang Liu",
+      "venue": "FSE 2023, CCF-A",
+      "details": "United States, The 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering; 3 December-9 December 2023, Pages: 960–972.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C39-FSE2023-Software Composition Analysis for Vulnerability Detection An Empirical Study on Java Projects.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c38",
+      "title": "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java",
+      "authorsHtml": "Kaixuan Li, <strong>Sen Chen<sup>#</sup></strong>, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, Yixiang Chen",
+      "venue": "FSE 2023, CCF-A",
+      "details": "United States, The 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering; 3 December-9 December 2023, Pages:921–933.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C38-FSE2023-Comparison and Evaluation on Static Application Security Test (SAST) Tools for Java.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c37",
+      "title": "A Comprehensive Study on Quality Assurance Tools for Java",
+      "authorsHtml": "Han Liu, <strong>Sen Chen<sup>#</sup></strong>, Ruitao Feng, Chengwei Liu, Kaixuan Li, Zhengzi Xu, Liming Nie, Yang Liu, and Yixiang Chen",
+      "venue": "ISSTA 2023, CCF-A",
+      "details": "United States, The 32nd International Symposium on Software Testing and Analysis; 17 July-21 July 2023, Pages:285–297.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C37-ISSTA2023-AComprehensive Study on Quality Assurance Tools for Java.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c36",
+      "title": "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects",
+      "authorsHtml": "Lvye Zhang, Chengwei Liu, Zhengzi Xu, <strong>Sen Chen<sup>*</sup></strong>, Lingling Fan, Lida Zhao, Jiahui Wu, and Yang Liu",
+      "venue": "ICSE 2023, CCF-A",
+      "details": "The 45th International Conference on Software Engineering; Melbourne, Australia; 14 May-20 May; Pages: 2540–2552.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C36-ICSE2023-Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects.pdf",
+      "award": "Distinguished Paper Award",
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c35",
+      "title": "Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis",
+      "authorsHtml": "Sen Yang, <strong>Sen Chen<sup>#</sup></strong>, Lingling Fan, Sihan Xu, Zhanwei Hui, and Song Huang",
+      "venue": "ICSE 2023, CCF-A",
+      "details": "The 45th International Conference on Software Engineering; Melbourne, Australia; 14 May-20 May; Pages:257-269.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C35-ICSE2023-Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c34",
+      "title": "A Web-Based Tool for Using Storyboard of Android Apps",
+      "authorsHtml": "Yuxin Zhang, <strong>Sen Chen<sup>*</sup></strong>, and Lingling Fan",
+      "venue": "ICSE 2023, CCF-A, Demo",
+      "details": "The 45th International Conference on Software Engineering; demo track; Melbourne, Australia; 14 May-20 May; Pages:117-121.",
+      "acceptanceYear": 2023,
+      "publicationYear": null,
+      "href": "./pdf/C34-ICSE2023-A Web-Based Tool for Using Storyboard of Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j18",
+      "title": "Towards Understanding and Mitigating Audio Adversarial Examples for Speaker Recognition",
+      "authorsHtml": "Guangke Chen, Zhe Zhao, Fu Song, <strong>Sen Chen</strong>, Lingling Fan, Feng Wang, and Jiashui Wang",
+      "venue": "TDSC 2022, CCF-A",
+      "details": "IEEE Transactions on Dependable and Secure Computing (Accepted on 11 November, 2022; Published on 1 September, 2023); Pages:3970-3987.",
+      "acceptanceYear": 2022,
+      "publicationYear": 2023,
+      "href": "./pdf/J18-TDSC2022-Towards Understanding and Mitigating Audio Adversarial Examples for Speaker Recognition.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j17",
+      "title": "Multi-label Classification for Android Malware Based on Active Learning",
+      "authorsHtml": "Qijing Qiao, Ruitao Feng, <strong>Sen Chen<sup>*</sup></strong>, Fei Zhang, and Xiaohong Li",
+      "venue": "TDSC 2022, CCF-A",
+      "details": "IEEE Transactions on Dependable and Secure Computing (Accepted on 30 Sept., 2022; Published on), Early Access; Pages:1-18.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/J17-TDSC2022-Multi-label Classification for Android Malware Based on Active Learning.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-j16",
+      "title": "Automatically Distilling Storyboard with Rich Features for Android Apps",
+      "authorsHtml": "<strong>Sen Chen</strong>, Lingling Fan, Chunyang Chen, and Yang Liu",
+      "venue": "TSE 2022, CCF-A",
+      "details": "IEEE Transactions on Software Engineering (Accepted on 28 February, 2022; Published on Volume: 49, Issue 2, 01 February 2023), Pages:667-683.",
+      "acceptanceYear": 2022,
+      "publicationYear": 2023,
+      "href": "./pdf/J16-TSE2022-Automatically Distilling Storyboard with Rich Features for Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c33",
+      "title": "AUSERA: Automated Security Vulnerability Detection for Android Apps",
+      "authorsHtml": "<strong>Sen Chen</strong>, Yuxin Zhang, Lingling Fan, Jiaming Li, and Yang Liu",
+      "venue": "ASE 2022, CCF-A, Demo",
+      "details": "The 37th IEEE/ACM International Conference on Automated Software Engineering, demo track, Michigan, United States, 10 October-14 October, Pages:154:1-154:5.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/C33-ASE2022-AUSERA_Automated Security Vulnerability Detection for Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c32",
+      "title": "Has My Release Disobeyed Semantic Versioning? Static Detection Based On Semantic Differencing",
+      "authorsHtml": "Lyuye Zhang, Chengwei Liu, Zhengzi Xu, <strong>Sen Chen</strong>, Lingling Fan, Bihuan Chen, and Yang Liu",
+      "venue": "ASE 2022, CCF-A",
+      "details": "The 37th IEEE/ACM International Conference on Automated Software Engineering, Michigan, United States, 10 October-14 October, Pages:51:1-51:12.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/C32-ASE2022-Has My Release Disobeyed Semantic Versioning_Static Detection Based On Semantic Differencing.pdf",
+      "award": "Distinguished Paper Award",
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c31",
+      "title": "Towards Understanding the Faults of JavaScript-Based Deep Learning Systems",
+      "authorsHtml": "Lili Quan, Qianyu Guo, Xiaofei Xie, <strong>Sen Chen<sup>*</sup></strong>, Xiaohong Li, and Yang Liu",
+      "venue": "ASE 2022, CCF-A",
+      "details": "The 37th IEEE/ACM International Conference on Automated Software Engineering, Michigan, United States, 10 October-14 October, Pages:105:1-105:13.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/C31-ASE2022-Towards Understanding the Faults of JavaScript-Based Deep Learning Systems.pdf",
+      "award": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-j15",
+      "title": "AS2T: Arbitrary Source-To-Target Adversarial Attack on Speaker Recognition Systems",
+      "authorsHtml": "Guangke Chen, Zhen Zhao, Fu Song, <strong>Sen Chen</strong>, Lingling Fan, and Yang Liu",
+      "venue": "TDSC 2022, CCF-A",
+      "details": "IEEE Transactions on Dependable and Secure Computing (Accepted on 08 July, 2022, Published on); Pages:1-17.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/J15-TDSC2022-AS2T Arbitrary Source-To-Target Adversarial Attack on Speaker Recognition Systems.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c30",
+      "title": "Large-Scale Analysis of Non-Termination Bugs in Real-World OSS Projects",
+      "authorsHtml": "Xiuhan Shi, Xiaofei Xie, Yi Li, Yao Zhang, <strong>Sen Chen<sup>*</sup></strong>, and Xiaohong Li",
+      "venue": "FSE 2022, CCF-A",
+      "details": "The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Singapore, 14th-16th November, 2022; Pages 256–268.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/C30-FSE2022-Large-Scale Analysis of Non-Termination Bugs in Real-World OSS Projects.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c29",
+      "title": "Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem",
+      "authorsHtml": "Chengwei Liu, <strong>Sen Chen<sup>*</sup></strong>, Lingling Fan, Bihuan Chen, Yang Liu, and Xin Peng",
+      "venue": "ICSE 2022, CCF-A",
+      "details": "The 44th International Conference on Software Engineering, Pittsburgh, PA, USA, 21 May-29 May, 2022; Pages 672-684.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/C29-ICSE2022-Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j14",
+      "title": "Demystifying Performance Regressions in String Solvers",
+      "authorsHtml": "Yao Zhang, Xiaofei Xie, Yi Li, Yun Lin, <strong>Sen Chen<sup>*</sup></strong>, Yang Liu, and Xiaohong Li",
+      "venue": "TSE 2022, CCF-A",
+      "details": "IEEE Transactions on Software Engineering (Accepted on 4 April, 2022; Published on Volume: 49, Issue: 3, 01 March 2023), Pages:947-961.",
+      "acceptanceYear": 2022,
+      "publicationYear": 2023,
+      "href": "./pdf/J14-TSE2022-Demystifying Performance Regressions in String Solvers.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j13",
+      "title": "ArgusDroid: Detecting Android Malware Variants by Mining Permission-API Knowledge Graph",
+      "authorsHtml": "Yude Bai, <strong>Sen Chen<sup>*</sup></strong>, Zhenchang Xing, and Xiaohong Li",
+      "venue": "SCIS 2022, CCF-A",
+      "details": "The Science China Information Sciences (Accepted on 24 Jan, 2022, Published on September 2023); Pages: 192101:1–192101:19.",
+      "acceptanceYear": 2022,
+      "publicationYear": 2023,
+      "href": "./pdf/J13-SCIS2022-ArgusDroid Detecting Android Malware Variants by Mining Permission-API Knowledge Graph.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-c28",
+      "title": "Can Deep Learning Models Learn the Vulnerable Patterns for Vulnerability Detection",
+      "authorsHtml": "Guoqing Yan, <strong>Sen Chen<sup>*</sup></strong>, Yude Bai, and Xiaohong Li",
+      "venue": "COMPSAC 2022, CCF-C",
+      "details": "The 46th IEEE Computer Society Computers, Software, and Applications Conference, 27 June-1 July, 2022, Pages: 904–913.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/C28-COMPSAC2022-Can Deep Learning Models Learn the Vulnerable Patterns for Vulnerability Detection.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis",
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-c27",
+      "title": "Adaptive Prior-Knowledge-Assisted Function Naming Based on Multi-level Information Explorer",
+      "authorsHtml": "Lancong Liu, Shizhan Chen, <strong>Sen Chen</strong>, Guodong Fan, Zhiyong Feng and Hongyue Wu",
+      "venue": "SEKE 2022, CCF-C",
+      "details": "The 34th International Conference on Software Engineering & Knowledge Engineering, July 1-July 10, 2022; Pages 85-90.",
+      "acceptanceYear": 2022,
+      "publicationYear": null,
+      "href": "./pdf/C27-SEKE2022-Adaptive Prior-Knowledge-Assisted Function Naming Based on Multi-level Information Explorer.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j12",
+      "title": "Accessible or Not? An Empirical Investigation of Android App Accessibility",
+      "authorsHtml": "<strong>Sen Chen</strong>, Chunyang Chen, Lingling Fan, Mingming Fan, Xian Zhan, and Yang Liu",
+      "venue": "TSE 2021, CCF-A",
+      "details": "IEEE Transactions on Software Engineering (Accepted 30 on August, 2021; Published on Volume: 48, Issue: 10, 01 Oct. 2022), Pages: 3954-3968.",
+      "acceptanceYear": 2021,
+      "publicationYear": 2022,
+      "href": "./pdf/J12-TSE2021-Accessible or Not An Empirical Investigation of Android App Accessibility.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j11",
+      "title": "Detecting and Augmenting Missing Key Aspects in Vulnerability Descriptions",
+      "authorsHtml": "Hao Guo, <strong>Sen Chen<sup>*</sup></strong>, Zhenchang Xing, Xiaohong Li, Yude Bai, and Jiamou Sun",
+      "venue": "TOSEM 2021, CCF-A",
+      "details": "ACM Transactions on Software Engineering and Methodology (Accepted on 30 November, 2021; Published on Volume: 31, Issue: 3, July 2022); Pages: 49:1–49:27.",
+      "acceptanceYear": 2021,
+      "publicationYear": 2022,
+      "href": "./pdf/J11-TOSEM2021-Detecting and Augmenting Missing Key Aspects in Vulnerability Descriptions.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j10",
+      "title": "Research on Third-Party Libraries in Android Apps: A Taxonomy and Systematic Literature Review",
+      "authorsHtml": "Xian Zhan, Tianming Liu, Lingling Fan, Li Li, <strong>Sen Chen</strong>, Yang Liu, and Xiapu Luo",
+      "venue": "TSE 2021, CCF-A",
+      "details": "IEEE Transactions on Software Engineering (Accepted 21 September, 2021; Published on Volume: 48, Issue: 10, 01 Oct. 2022); Pages: 4181-4213.",
+      "acceptanceYear": 2021,
+      "publicationYear": 2022,
+      "href": "./pdf/J10-TSE2021-Research on Third-Party Libraries in Android Apps A Taxonomy and Systematic Literature Review.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain"
+      ]
+    },
+    {
+      "id": "paper-c26",
+      "title": "Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems",
+      "authorsHtml": "Guangke Chen, <strong>Sen Chen<sup>#</sup></strong>, Lingling Fan, Xiaoning Du, Zhe Zhao, Fu Song, and Yang Liu",
+      "venue": "IEEE S&P 2021, CCF-A",
+      "details": "The 42nd IEEE Symposium on Security and Privacy, San Francisco, CA, USA, 24 May-27 May, 2021; Pages 694-711.",
+      "acceptanceYear": 2021,
+      "publicationYear": null,
+      "href": "./pdf/C26-IEEE S&P2021-Who is Real Bob Adversarial Attacks on Speaker Recognition Systems.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c25",
+      "title": "ATVHunter: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Applications",
+      "authorsHtml": "Xian Zhan, Lingling Fan, <strong>Sen Chen</strong>, Feng Wu, Tianming Liu, Xiapu Luo, and Yang Liu",
+      "venue": "ICSE 2021, CCF-A",
+      "details": "The 43rd International Conference on Software Engineering, Madrid, Spain, 25 May-28 May, 2021; Pages 1695-1707.",
+      "acceptanceYear": 2021,
+      "publicationYear": null,
+      "href": "./pdf/C25-ICSE2021-ATVHunter Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Applications.pdf",
+      "award": "Distinguished Paper Award",
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j9",
+      "title": "Advanced Evasion Attacks and Mitigations on Practical ML-Based Phishing Website Classifiers",
+      "authorsHtml": "Fu Song, Yusi Lei, <strong>Sen Chen</strong>, Lingling Fan, and Yang Liu",
+      "venue": "IJIS 2021, SCI-Q1",
+      "details": "The International Journal of Intelligent Systems, Volume 36, Number 9, 2021; Pages: 5210–5240.",
+      "acceptanceYear": 2021,
+      "publicationYear": null,
+      "href": "./pdf/J9-IJIS2021-Advanced Evasion Attacks and Mitigations on Practical ML-Based Phishing Website Classifiers.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-c24",
+      "title": "Peeking into the Gray Area of Mobile World: An Empirical Study of Unlabeled Android Apps",
+      "authorsHtml": "<strong>Sen Chen</strong>, Lingling Fan, Cuiyun Gao, Fu Song, and Yang Liu",
+      "venue": "ISSRE 2021, CCF-B",
+      "details": "The 32nd International Symposium on Software Reliability Engineering, 25 October-28 October, 2021; Pages 579-590.",
+      "acceptanceYear": 2021,
+      "publicationYear": null,
+      "href": "./pdf/C24-ISSRE2021-Peeking into the Gray Area of Mobile World An Empirical Study of Unlabeled Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j8",
+      "title": "\"VenomAttack: Automated and Adaptive Activity Hijacking in Android\"",
+      "authorsHtml": "Pu Sun, <strong>Sen Chen<sup>#</sup></strong>, Lingling Fan, Penfei Gao, Fu Song, and Min Yang",
+      "venue": "FCS, CCF-B",
+      "details": "The Frontiers of Computer Science (Accepted on 19 Aug, 2021, Published on 2023, 17(1): 171801); Pages 171801, https://doi.org/10.1007/s11704-021-1126-x.",
+      "acceptanceYear": 2021,
+      "publicationYear": 2023,
+      "href": "./pdf/J8-FCS2021-VenomAttack Automated and Adaptive Activity Hijacking in Android.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j7",
+      "title": "Towards Characterizing Bug Fixes through Dependency-Level Changes",
+      "authorsHtml": "Di Cui, Lingling Fan, <strong>Sen Chen</strong>, Yuanfang Cai, Qinghua Zheng, Yang Liu, and Ting Liu",
+      "venue": "SCIS 2021, CCF-A",
+      "details": "Science China Information Sciences (SCIS) (Accepted on 28 July, 2021, Published on 10 June 2022); Pages 1-19.",
+      "acceptanceYear": 2021,
+      "publicationYear": 2022,
+      "href": "./pdf/J7-SCIS2021-Towards Characterizing Bug Fixes through Dependency-Level Changes.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c23",
+      "title": "IconChecker: Anomaly Detection of Icon-Behaviors for Android Apps",
+      "authorsHtml": "Yuxuan Li, Ruitao Feng, <strong>Sen Chen<sup>*</sup></strong>, Qianyu Guo, Lingling Fan, and Xiaohong Li",
+      "venue": "APSEC 2021, CCF-C",
+      "details": "The 28th IEEE The Asia-Pacific Software Engineering Conference, 6 December-9 December, 2021; Pages 202-212.",
+      "acceptanceYear": 2021,
+      "publicationYear": null,
+      "href": "./pdf/C23-APSEC2021-IconChecker Anomaly Detection of Icon-Behaviors for Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c22",
+      "title": "Predicting Entity Relations across Different Security Databases by Using Graph Attention Network",
+      "authorsHtml": "Liu Yuan, Yude Bai, Zhenchang Xing, <strong>Sen Chen<sup>*</sup></strong>, Xiaohong Li, and Zhidong Deng",
+      "venue": "COMPSAC 2021, CCF-C",
+      "details": "The 45th IEEE Computer Society Computers, Software, and Applications Conference, 12 July-16 July, 2021; Pages 834-843.",
+      "acceptanceYear": 2021,
+      "publicationYear": null,
+      "href": "./pdf/C22-COMPSAC2021-Predicting Entity Relations across Different Security Databases by Using Graph Attention Network.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c21",
+      "title": "Key Aspects Augmentation of Vulnerability Description based on Multiple Security Databases",
+      "authorsHtml": "Hao Guo, Zhenchang Xing, <strong>Sen Chen<sup>*</sup></strong>, Xiaohong Li, Yude Bai, and Hu Zhang",
+      "venue": "COMPSAC 2021, CCF-C",
+      "details": "The 45th IEEE Computer Society Computers, Software, and Applications Conference, 12 July-16 July, 2021; Pages 1020-1025.",
+      "acceptanceYear": 2021,
+      "publicationYear": null,
+      "href": "./pdf/C21-COMPSAC2021-Key Aspects Augmentation of Vulnerability Description based on Multiple Security Databases.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c20",
+      "title": "Inferring Loop Invariants for Multi-Path Loops",
+      "authorsHtml": "Yingwen Lin, Yao Zhang, <strong>Sen Chen<sup>*</sup></strong>, Fu Song, Xiaofei Xie, Xiaohong Li, and Lintan Sun",
+      "venue": "TASE 2021, CCF-C",
+      "details": "The 15th Theoretical Aspects of Software Engineering Conference, 25 Aug-27 Aug, 2021; Pages: 63–70.",
+      "acceptanceYear": 2021,
+      "publicationYear": null,
+      "href": "./pdf/C20-TASE2021-Inferring Loop Invariants for Multi-Path Loops.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c19",
+      "title": "An Empirical Assessment of Security Risks of Global Android Banking Apps",
+      "authorsHtml": "<strong>Sen Chen</strong>, Lingling Fan, Guozhu Meng, Ting Su, Minhui Xue, Yinxing Xue, Yang Liu, and Lihua Xu",
+      "venue": "ICSE 2020, CCF-A",
+      "details": "The 42nd International Conference on Software Engineering, Seoul, South Korea, 27 June-19 July, 2020; Pages 1310–1322.",
+      "acceptanceYear": 2020,
+      "publicationYear": null,
+      "href": "./pdf/C19-ICSE2020-An Empirical Assessment of Security Risks of Global Android Banking Apps.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j6",
+      "title": "ATOM: Commit Message Generation Based on Abstract Syntax Tree and Hybrid Ranking",
+      "authorsHtml": "Shangqing Liu, Cuiyun Gao, <strong>Sen Chen</strong>, Lun Yiu Nie, and Yang Liu",
+      "venue": "TSE 2020, CCF-A",
+      "details": "IEEE Transactions on Software Engineering (Accepted on 17 November 2020; Published on Volume: 48, Issue: 5, 01 May 2022); Pages: 1800-1817.",
+      "acceptanceYear": 2020,
+      "publicationYear": 2022,
+      "href": "./pdf/J6-TSE2020-ATOM Commit Message Generation Based on Abstract Syntax Tree and Hybrid Ranking.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j5",
+      "title": "A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices",
+      "authorsHtml": "Ruitao Feng, <strong>Sen Chen<sup>*</sup></strong>, Xiaofei Xie, Guozhu Meng, Shang-Wei Lin, and Yang Liu",
+      "venue": "TIFS 2020, CCF-A",
+      "details": "IEEE Transactions on Information Forensics and Security; Volume 16, 2021, Pages 1563-1578.",
+      "acceptanceYear": 2020,
+      "publicationYear": 2021,
+      "href": "./pdf/J5-TIFS-A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis",
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-j4",
+      "title": "Why an Android App is Classified as Malware? Towards Malware Classification Interpretation",
+      "authorsHtml": "Bozhi Wu, <strong>Sen Chen<sup>*</sup></strong>, Cuiyun Gao, Lingling Fan, Yang Liu, Weiping Wen, and Michael R. Lyu",
+      "venue": "TOSEM 2020, CCF-A",
+      "details": "ACM Transactions on Software Engineering and Methodology; Volume 30, Issue 2, March 2021, Article No.: 21, Pages: 21:1–21:29.",
+      "acceptanceYear": 2020,
+      "publicationYear": 2021,
+      "href": "./pdf/J4-TOSEM-Why an Android App Is Classified as Malware Toward Malware Classification Interpretation.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-c18",
+      "title": "iOS, Your OS, Everybody's OS: Vetting and Analyzing Network Services of iOS Applications",
+      "authorsHtml": "Zhushou Tang, Ke Tang, Minhui Xue, Yuan Tian, <strong>Sen Chen</strong>, Muhammad Ikram, Tielei Wang, and Haojin Zhu",
+      "venue": "USENIX Security 2020, CCF-A",
+      "details": "The 29th USENIX Security Symposium, Boston, MA, USA, 12 August-14 August, 2020; Pages 2415-2432.",
+      "acceptanceYear": 2020,
+      "publicationYear": null,
+      "href": "./pdf/C18-USENIX Security2020-iOS, Your OS, Everybody‘s OS Vetting and Analyzing Network Services of iOS Applications.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j3",
+      "title": "Why My App Crashes? Understanding and Benchmarking Framework-specific Exceptions of Android Apps",
+      "authorsHtml": "Ting Su, Lingling Fan, <strong>Sen Chen</strong>, Yang Liu, Lihua Xu, Geguang Pu, and Zhendong Su",
+      "venue": "TSE 2020, CCF-A",
+      "details": "IEEE Transactions on Software Engineering (Accepted on 31 July, 2020; Published on Volume: 48, Issue: 4, 01 April 2022); Pages: 1115-1137.",
+      "acceptanceYear": 2020,
+      "publicationYear": 2022,
+      "href": "./pdf/J3-TSE2020-Why My App Crashes Understanding and Benchmarking Framework-specific Exceptions of Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c17",
+      "title": "Automated Third-party Library Detection for Android Applications: Are We There Yet?",
+      "authorsHtml": "Xian Zhan, Lingling Fan, Tianming Liu, <strong>Sen Chen</strong>, Li Li, Haoyu Wang, Yifei Xu, Xiapu Luo, and Yang Liu",
+      "venue": "ASE 2020, CCF-A",
+      "details": "The 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia, 21 September-25 September 2020; Pages: 919-930.",
+      "acceptanceYear": 2020,
+      "publicationYear": null,
+      "href": "./pdf/C17-ASE2020-Automated Third-Party Library Detection for Android Applications Are We There Yet.pdf",
+      "award": null,
+      "topics": [
+        "supply-chain",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c16",
+      "title": "An Empirical Evaluation of GDPR Compliance Violations in Android mHealth Apps",
+      "authorsHtml": "Ming Fan, Le Yu, <strong>Sen Chen</strong>, Hao Zhou, Xiapu Luo, Shuyue Li, Yang Liu, Jun Liu, and Ting Liu",
+      "venue": "ISSRE 2020, CCF-B",
+      "details": "The 31st IEEE International Symposium on Software Reliability Engineering, Coimbra, Portugal, 12 October-15 October 2020; Pages: 253-264.",
+      "acceptanceYear": 2020,
+      "publicationYear": null,
+      "href": "./pdf/C16-ISSRE2020-An Empirical Evaluation of GDPR Compliance Violations in Android mHealth Apps.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c15",
+      "title": "SeqMobile: An Efficient Sequence-Based Malware Detection System Using RNN on Mobile Devices",
+      "authorsHtml": "Ruitao Feng, Jing Qiang Lim, <strong>Sen Chen</strong>, Shang-Wei Lin, and Yang Liu",
+      "venue": "ICECCS 2020, CCF-C",
+      "details": "The 25th International Conference on Engineering of Complex Computer Systems, Singapore, 4 March-6 March, 2021; Pages 63-72.",
+      "acceptanceYear": 2020,
+      "publicationYear": null,
+      "href": "./pdf/C15-ICECCS2020-SeqMobile：An Efficient Sequence-Based Malware Detection System Using RNN on Mobile Devices.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c14",
+      "title": "CORE: Automating Review Recommendation for Code Changes",
+      "authorsHtml": "Jing Kai Siow, Cuiyun Gao, Lingling Fan, <strong>Sen Chen</strong>, and Yang Liu",
+      "venue": "SANER 2020, CCF-B",
+      "details": "The 27th IEEE International Conference on Software Analysis, Evolution and Reengineering, London, Ontario, Canada, 18 February-21 February, 2020; Pages: 284-295.",
+      "acceptanceYear": 2020,
+      "publicationYear": null,
+      "href": "./pdf/C14-SANER2020-CORE Automating Review Recommendation for Code Changes.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-j2",
+      "title": "GUI-Squatting Attack: Automated Generation of Android Phishing Apps",
+      "authorsHtml": "<strong>Sen Chen</strong>, Lingling Fan, Chunyang Chen, Minhui Xue, Yang Liu, and Lihua Xu",
+      "venue": "TDSC 2019, CCF-A",
+      "details": "Transactions on Dependable and Secure Computing (Accepted on 26 November, 2019; Published on Volume: 18, Issue: 6, 01 Nov.-Dec. 2021); Pages: 2551-2568.",
+      "acceptanceYear": 2019,
+      "publicationYear": 2021,
+      "href": "./pdf/J2-TDSC2019-GUI-Squatting Attack Automated Generation of Android Phishing Apps.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-c13",
+      "title": "StoryDroid: Automated Generation of Storyboard for Android Apps",
+      "authorsHtml": "<strong>Sen Chen</strong>, Lingling Fan, Chunyang Chen, Ting Su, Wenhe Li, Yang Liu, and Lihua Xu",
+      "venue": "ICSE 2019, CCF-A",
+      "details": "The 41st International Conference on Software Engineering, Montréal, QC, Canada, 25 May-1 June, 2019; Pages: 596-607.",
+      "acceptanceYear": 2019,
+      "publicationYear": null,
+      "href": "./pdf/C13-ICSE2019-StoryDroid Automated Generation of Storyboard for Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c12",
+      "title": "A Large-Scale Empirical Study on Industrial Fake Apps",
+      "authorsHtml": "Chongbin Tang, <strong>Sen Chen</strong><sup>#</sup>, Lingling Fan, Lihua Xu, Yang Liu, Zhushou Tang and Liang Dou",
+      "venue": "ICSE 2019, CCF-A, SEIP",
+      "details": "The 41st ACM/IEEE International Conference on Software Engineering, Software-Engineering-in-Practice Track (SEIP), Montréal, QC, Canada, 25 May-1 June, 2019; Pages: 183-192.",
+      "acceptanceYear": 2019,
+      "publicationYear": null,
+      "href": "./pdf/C12-ICSE2019-A Large-Scale Empirical Study on Industrial.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-c11",
+      "title": "An Empirical Study towards Characterizing Deep Learning Development and Deployment across Different Frameworks and Platforms",
+      "authorsHtml": "Qianyu Guo, <strong>Sen Chen</strong><sup>*</sup>, Xiaofei Xie, Lei Ma, Qiang Hu, Hongtao Liu, Yang Liu, Jianjun Zhao, and Xiaohong Li",
+      "venue": "ASE 2019, CCF-A",
+      "details": "The 34th IEEE/ACM International Conference on Automated Software Engineering, San Diego, California, United States, 11 November-15 November, 2019; Pages: 810-822.",
+      "acceptanceYear": 2019,
+      "publicationYear": null,
+      "href": "./pdf/C11-ASE2019-An Empirical Study towards Characterizing Deep Learning Development and Deployment across Different Frameworks and Platforms.pdf",
+      "award": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "paper-c10",
+      "title": "MobiDroid: A Performance-Sensitive Malware Detection System on Mobile Platform",
+      "authorsHtml": "Ruitao Feng, <strong>Sen Chen</strong><sup>*</sup>, Xiaofei Xie, Lei Ma, Guozhu Meng, Yang Liu, and Shangwei-Lin",
+      "venue": "ICECCS 2019, CCF-C",
+      "details": "The 24th International Conference on Engineering of Complex Computer Systems, Hong Kong, China, 10 November-13 November, 2019; Pages: 61-70.",
+      "acceptanceYear": 2019,
+      "publicationYear": null,
+      "href": "./pdf/C10-ICECCS2019-MobiDroid A Performance-Sensitive Malware Detection System on Mobile Platform.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c9",
+      "title": "Automated Cross-Platform GUI Code Generation for Mobile Apps",
+      "authorsHtml": "<strong>Sen Chen</strong>, Lingling Fan, Ting Su, Lei Ma, Yang Liu and Lihua Xu",
+      "venue": "SANER 2019, CCF-B Workshop",
+      "details": "The 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering, AI4Mobile, Hangzhou, China, 24 February-27 February, 2019; Pages: 13-16.",
+      "acceptanceYear": 2019,
+      "publicationYear": null,
+      "href": "./pdf/C9-AI4Mobile2019-Automated Cross-Platform GUI Code Generation for Mobile Apps.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c8",
+      "title": "How Can We Craft Large-Scale Mobile Malware? An Automated Poisoning Attack",
+      "authorsHtml": "<strong>Sen Chen</strong>, Minhui Xue, Lingling Fan, Lei Ma, Yang Liu and Lihua Xu",
+      "venue": "SANER 2019, CCF-B Workshop",
+      "details": "The 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering, AI4Mobile, Hangzhou, China, 24 February-27 February, 2019; Pages: 21-24.",
+      "acceptanceYear": 2019,
+      "publicationYear": null,
+      "href": "./pdf/C8-AI4Mobile2019-How Can We Craft Large-Scale Android Malware An Automated Poisoning Attack.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-c7",
+      "title": "Are Mobile Banking Apps Secure? What Can be Improved?",
+      "authorsHtml": "<strong>Sen Chen</strong>, Ting Su, Lingling Fan, Guozhu Meng, Minhui Xue, Yang Liu, and Lihua Xu",
+      "venue": "ESEC/FSE 2018, CCF-A",
+      "details": "The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Lake Buena Vista, Florida, United States, 4 November-9 November, 2018; Pages 797–802.",
+      "acceptanceYear": 2018,
+      "publicationYear": null,
+      "href": "./pdf/C7-ESECFSE2018-Are Mobile Banking Apps Secure What Can be Improved.pdf",
+      "award": null,
+      "topics": [
+        "software"
+      ]
+    },
+    {
+      "id": "paper-c6",
+      "title": "Efficiently Manifesting Asynchronous Programming Errors in Android Apps",
+      "authorsHtml": "Lingling Fan, Ting Su, <strong>Sen Chen</strong>, Guozhu Meng, Yang Liu, Lihua Xu and Geguang Pu",
+      "venue": "ASE 2018, CCF-A",
+      "details": "The 33rd IEEE/ACM International Conference on Automated Software Engineering, Montpellier, France, 3 September-7 September, 2018; Pages 486–497.",
+      "acceptanceYear": 2018,
+      "publicationYear": null,
+      "href": "./pdf/C6-ASE2018-Efficiently Manifesting Asynchronous Programming Errors in Android Apps.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c5",
+      "title": "Large-Scale Analysis of Framework-Specific Exceptions in Android Apps",
+      "authorsHtml": "Lingling Fan, Ting Su, <strong>Sen Chen</strong>, Guozhu Meng, Yang Liu, Lihua Xu, Geguang Pu, and Zhendong Su",
+      "venue": "ICSE 2018, CCF-A",
+      "details": "The 40th International Conference on Software Engineering, Gothenburg, Sweden, 27 May-3 June, 2018; Pages 408–419.",
+      "acceptanceYear": 2018,
+      "publicationYear": null,
+      "href": "./pdf/C5-ICSE2018-Large-Scale Analysis of Framework-Specific Exceptions in Android Apps.pdf",
+      "award": "Distinguished Paper Award",
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-j1",
+      "title": "Automated Poisoning Attacks and Defenses in Malware Detection System: An Adversarial Machine Learning Approach",
+      "authorsHtml": "<strong>Sen Chen</strong>, Minhui Xue, Lingling Fan, Shuang Hao, Lihua Xu, Haojin Zhu, and Bo Li",
+      "venue": "Computers & Security 2017, CCF-B",
+      "details": "The Elsevier Computers & Security, Volume 73 (March 2018); Pages 326-344.",
+      "acceptanceYear": 2017,
+      "publicationYear": 2018,
+      "href": "./pdf/J1-Computers & Security2017-Automated Poisoning Attacks and Defenses in Malware Detection System_An Adversarial Machine Learning Approach.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c4",
+      "title": "Model-Based Continuous Verification",
+      "authorsHtml": "Lingling Fan, <strong>Sen Chen</strong>, Lihua Xu, Zongyuan Yang, and Huibiao Zhu",
+      "venue": "APSEC 2016, CCF-C",
+      "details": "The IEEE ASIA-Pacific Software Engineering Conference, Hamilton, New Zealand, 6 December-9 December, 2016; Pages: 81-88.",
+      "acceptanceYear": 2016,
+      "publicationYear": null,
+      "href": "./pdf/C4-APSEC2016-Model-Based Continuous Verification.pdf",
+      "award": null,
+      "topics": [
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c3",
+      "title": "Accuracy vs. Time Cost: Detecting Android Malware through Pareto Ensemble Pruning",
+      "authorsHtml": "Lingling Fan, Minhui Xue, <strong>Sen Chen</strong>, Lihua Xu, and Haojin Zhu",
+      "venue": "CCS 2016, CCF-A Poster",
+      "details": "The ACM Conference on Computer and Communications Security, Vienna, Austria, 24 October-28 October, 2016; Pages 1748–1750.",
+      "acceptanceYear": 2016,
+      "publicationYear": null,
+      "href": "./pdf/C3-CCS2016-Accuracy vs. Time Cost Detecting Android Malware through Pareto Ensemble Pruning.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    },
+    {
+      "id": "paper-c2",
+      "title": "Towards Adversarial Detection of Mobile Malware",
+      "authorsHtml": "<strong>Sen Chen</strong>, Minhui Xue, and Lihua Xu",
+      "venue": "MobiCom 2016, CCF-A Poster",
+      "details": "The 22nd Annual International Conference on Mobile Computing and Networking, New York, USA, 3 October-7 October, 2016; Pages 415–416.",
+      "acceptanceYear": 2016,
+      "publicationYear": null,
+      "href": "./pdf/C2-MobiCom2016-Towards Adversarial Detection of Mobile Malware.pdf",
+      "award": null,
+      "topics": [
+        "malware",
+        "analysis"
+      ]
+    },
+    {
+      "id": "paper-c1",
+      "title": "StormDroid: A Streaminglized Machine Learning-Based System for Detecting Android Malware",
+      "authorsHtml": "<strong>Sen Chen</strong>, Minhui Xue, Zhushou Tang, Lihua Xu, and Haojin Zhu",
+      "venue": "ASIACCS 2016, CCF-C",
+      "details": "The 21st ACM ASIA Conference on Computer and Communications Security, Xi'an, China, 30 May-3 June, 2016; Pages 377–388.",
+      "acceptanceYear": 2016,
+      "publicationYear": null,
+      "href": "./pdf/C1-ASIACCS2016-StormDroid A Streaminglized Machine Learning-Based System for Detecting Android Malware.pdf",
+      "award": null,
+      "topics": [
+        "malware"
+      ]
+    }
+  ]
+}

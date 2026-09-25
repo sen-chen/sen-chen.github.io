@@ -8,7 +8,11 @@
 	<meta property="og:title" content="陈森 — 南开大学" />
 	<meta property="og:description" content="陈森，南开大学教授。研究方向：软件安全与软件供应链安全。" />
 	<meta property="og:image" content="https://sen-chen.github.io/images/tigersenchen.jpg" />
-	<meta property="og:type" content="website" />
+	<link rel="canonical" href="https://sen-chen.github.io/index-ch.html" />
+<link rel="alternate" hreflang="en" href="https://sen-chen.github.io/" />
+<link rel="alternate" hreflang="zh-CN" href="https://sen-chen.github.io/index-ch.html" />
+<link rel="alternate" hreflang="x-default" href="https://sen-chen.github.io/" />
+<meta property="og:type" content="website" />
 	<title>陈森 — 南开大学</title>
 
 	<link rel="stylesheet" href="./css/main.css" />
@@ -17,6 +21,7 @@
 	<link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,600&display=swap" rel="stylesheet" />
 </head>
 <body class="sc sc-home sc-zh">
+<a class="skip-link" href="#main-content">跳至主要内容</a>
 	<div class="outer"></div>
 	<div class="main">
 		<header>
@@ -25,7 +30,8 @@
 				<div>
 					<h1 class="name">陈森</h1>
 					<div class="affil">南开大学密码与网络空间安全学院、计算机学院 教授</div>
-					<div class="meta">
+					<p class="research-position">软件供应链安全 · 程序分析 · 恶意软件分析</p>
+<div class="meta">
 						<span><strong>办公地点</strong>：津南校区密码与网络空间安全学院楼563室</span>
 						<span><strong>邮箱</strong>：<a href="mailto:senchen@nankai.edu.cn">senchen@nankai.edu.cn</a></span>
 					</div>
@@ -33,7 +39,10 @@
 			</div>
 			<nav class="nav" aria-label="主导航">
 				<a href="./index.html">English</a>
-				<a href="./pubs.html">论文列表</a>
+				<a href="#about">简介</a>
+<a href="#selected">代表作</a>
+<a href="#contact">招生与合作</a>
+<a href="./pubs.html">论文列表</a>
 				<a href="https://scholar.google.com.sg/citations?hl=en&pli=1&user=OeYEPdAAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>
 				<a href="https://dblp.uni-trier.de/pers/hd/c/Chen:Sen" target="_blank" rel="noreferrer">DBLP</a>
 				<a href="https://nksseclab.github.io" target="_blank" rel="noreferrer">NKSSecLab</a>
@@ -41,24 +50,15 @@
 			<hr />
 		</header>
 
-		<main>
-			<section class="section" id="news">
-
-				<div style="text-align: center;">
-					<img src="./images/Ch.png" style="width: 90%; height: auto;"/>
-				</div>
-			</section>
-
-			<hr />
-			
-			<section class="section">
+		<main id="main-content">
+<section class="section" id="about">
 				<div class="grid2">
 					<div class="card">
 						<h2>简介</h2>
 						<p>
-							陈森，教授，博导，南开百青，担任天津市网络与数据安全技术重点实验室副主任，网络空间安全学会青工委副秘书长，<strong>南开大学软件安全实验室（<a href="https://nksseclab.github.io" target="_blank" rel="noreferrer">NKSSecLab</a>）</strong>负责人，刘哲理老师科研团队骨干成员。
+							陈森，教授，博导，南开百青，担任天津市网络与数据安全技术重点实验室副主任，网络空间安全学会青工委副秘书长，<strong>南开大学软件安全实验室（<a href="https://nksseclab.github.io" target="_blank" rel="noreferrer">NKSSecLab</a>）</strong>负责人，<a href="https://cyber.nankai.edu.cn/2021/0323/c37288a575905/page.htm" target="_blank" rel="noopener noreferrer">刘哲理老师</a>科研团队骨干成员。
 							<!--，入选斯坦福2025全球前2%顶尖科学家榜单，入选2025年中国电子学会青年人才托举工程，入选2024年国家网信优秀人才。-->
-							曾在新加坡南洋理工大学（NTU）从事科研助理教授工作，合作导师为 <a href=”https://personal.ntu.edu.sg/liuyang/” target=”_blank” rel=”noreferrer”>Yang Liu（刘杨）</a> 教授。
+							曾在新加坡南洋理工大学（NTU）从事科研助理教授工作，合作导师为 <a href="https://personal.ntu.edu.sg/liuyang/" target="_blank" rel="noreferrer">Yang Liu（刘杨）</a> 教授。
 						</p>
 						<p>
 							<!-- 指导学生获得全国”互联网+”和挑战杯全国金奖各1项，参编《安全软件工程》教材1部。 -->
@@ -74,52 +74,139 @@
 							TDSC / TIFS / TSE / TOSEM 等领域期刊编委或审稿人。
 						</p> -->
 					</div>
-					<div class="card">
-						<h2>研究方向</h2>
-						<div>
-							<span class="badge">软件供应链安全</span>
-							<span class="badge">可信软件</span>
-							<!-- <span class="badge">开源软件安全</span> -->
-							<span class="badge">软件成分分析（SCA）</span>
-							<span class="badge">静态应用安全测试（SAST）</span>
-							<span class="badge">漏洞，PoC，恶意软件</span>
-							<span class="badge">智能体大模型软件安全</span>
-						</div>
-					</div>
-				</div>
+					<div class="card research-summary">
+    <h2>研究方向</h2>
+    <p>围绕软件供应链中的三类组件，研究从漏洞发现到行为理解与安全验证的方法。</p>
+    <ol class="research-tracks">
+      <li><h3>第一方组件安全</h3><p>程序分析、静态应用安全测试（<strong>SAST</strong>）与漏洞检测。</p></li>
+      <li><h3>第三方组件安全</h3><p>软件成分分析（<strong>SCA</strong>）、依赖漏洞传播与兼容修复。</p></li>
+      <li><h3>恶意组件分析</h3><p>恶意软件检测、行为理解与结果解释。</p></li>
+    </ol>
+    <p class="small">结合大语言模型，探索漏洞 PoC 生成与安全验证。 <a href="./pubs.html#preprints">相关预印本 →</a></p>
+  </div></div></section>
+<section class="section" id="research-overview">
+
+				<h2>研究脉络</h2>
+<figure class="research-figure">
+					<a href="./images/Ch.png" target="_blank" rel="noopener" aria-label="在新标签页查看研究脉络大图">
+						<img loading="lazy" src="./images/Ch.png" alt="软件供应链安全研究脉络：第一方组件、第三方组件与恶意组件安全" />
+					</a>
+					<figcaption>点击图片查看大图</figcaption>
+				</figure>
 			</section>
-
-			<hr />
-
-			
-
-			<section class="section" id="news">
+<section class="section" id="selected"><h2>代表性论文</h2>
+<!-- BEGIN SELECTED PUBLICATIONS -->
+<ul class="list selected-list">
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TIFS</span><span class="selected-year">2026</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pubs.html#paper-forthcoming-1">Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources</a></h3>
+  <div class="selected-links"><span class="pdf-pending">PDF forthcoming</span><a href="./pubs.html#paper-forthcoming-1">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ICSE</span><span class="selected-year">2026</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C61-ICSE2026-Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits.pdf" target="_blank" rel="noopener">Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits</a></h3>
+  <div class="selected-links"><a href="./pdf/C61-ICSE2026-Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c61">论文详情 <span aria-hidden="true">→</span></a><span class="selected-award"><span aria-hidden="true">☆</span> Distinguished Paper Award</span></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">CCS</span><span class="selected-year">2025</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C59-CCS2025-ForeDroid Scenario-Aware Analysis for Android Malware Detection and Explanation.pdf" target="_blank" rel="noopener">ForeDroid: Scenario-Aware Analysis for Android Malware Detection and Explanation</a></h3>
+  <div class="selected-links"><a href="./pdf/C59-CCS2025-ForeDroid Scenario-Aware Analysis for Android Malware Detection and Explanation.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c59">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TOSEM</span><span class="selected-year">2025</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J21-TOSEM2025-Beyond Decision：Android Malware Description Generation through Profiling Malicious Behavior Trajectory.pdf" target="_blank" rel="noopener">Beyond Decision: Android Malware Description Generation through Profiling Malicious Behavior Trajectory</a></h3>
+  <div class="selected-links"><a href="./pdf/J21-TOSEM2025-Beyond Decision：Android Malware Description Generation through Profiling Malicious Behavior Trajectory.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j21">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">FSE</span><span class="selected-year">2024</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C48-FSE2024-Static Application Security Testing (SAST) Tools for Smart Contracts How Far Are We.pdf" target="_blank" rel="noopener">Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?</a></h3>
+  <div class="selected-links"><a href="./pdf/C48-FSE2024-Static Application Security Testing (SAST) Tools for Smart Contracts How Far Are We.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c48">论文详情 <span aria-hidden="true">→</span></a><span class="selected-award"><span aria-hidden="true">☆</span> Distinguished Paper Award</span></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TSE</span><span class="selected-year">2023</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J16-TSE2022-Automatically Distilling Storyboard with Rich Features for Android Apps.pdf" target="_blank" rel="noopener">Automatically Distilling Storyboard with Rich Features for Android Apps</a></h3>
+  <div class="selected-links"><a href="./pdf/J16-TSE2022-Automatically Distilling Storyboard with Rich Features for Android Apps.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j16">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ASE</span><span class="selected-year">2023</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C43-ASE2023-EndWatch A Practical Method for Detecting Non-Termination in Real-World Software.pdf" target="_blank" rel="noopener">EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software</a></h3>
+  <div class="selected-links"><a href="./pdf/C43-ASE2023-EndWatch A Practical Method for Detecting Non-Termination in Real-World Software.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c43">论文详情 <span aria-hidden="true">→</span></a><span class="selected-award"><span aria-hidden="true">☆</span> Distinguished Paper Award</span></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ICSE</span><span class="selected-year">2023</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C36-ICSE2023-Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects.pdf" target="_blank" rel="noopener">Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects</a></h3>
+  <div class="selected-links"><a href="./pdf/C36-ICSE2023-Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c36">论文详情 <span aria-hidden="true">→</span></a><span class="selected-award"><span aria-hidden="true">☆</span> Distinguished Paper Award</span></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ICSE</span><span class="selected-year">2022</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C29-ICSE2022-Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem.pdf" target="_blank" rel="noopener">Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem</a></h3>
+  <div class="selected-links"><a href="./pdf/C29-ICSE2022-Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c29">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TSE</span><span class="selected-year">2022</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J12-TSE2021-Accessible or Not An Empirical Investigation of Android App Accessibility.pdf" target="_blank" rel="noopener">Accessible or Not? An Empirical Investigation of Android App Accessibility</a></h3>
+  <div class="selected-links"><a href="./pdf/J12-TSE2021-Accessible or Not An Empirical Investigation of Android App Accessibility.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j12">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TOSEM</span><span class="selected-year">2021</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J4-TOSEM-Why an Android App Is Classified as Malware Toward Malware Classification Interpretation.pdf" target="_blank" rel="noopener">Why an Android App is Classified as Malware? Towards Malware Classification Interpretation</a></h3>
+  <div class="selected-links"><a href="./pdf/J4-TOSEM-Why an Android App Is Classified as Malware Toward Malware Classification Interpretation.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j4">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TIFS</span><span class="selected-year">2021</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J5-TIFS-A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.pdf" target="_blank" rel="noopener">A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices</a></h3>
+  <div class="selected-links"><a href="./pdf/J5-TIFS-A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j5">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TDSC</span><span class="selected-year">2021</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J2-TDSC2019-GUI-Squatting Attack Automated Generation of Android Phishing Apps.pdf" target="_blank" rel="noopener">GUI-Squatting Attack: Automated Generation of Android Phishing Apps</a></h3>
+  <div class="selected-links"><a href="./pdf/J2-TDSC2019-GUI-Squatting Attack Automated Generation of Android Phishing Apps.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j2">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ICSE</span><span class="selected-year">2020</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C19-ICSE2020-An Empirical Assessment of Security Risks of Global Android Banking Apps.pdf" target="_blank" rel="noopener">An Empirical Assessment of Security Risks of Global Android Banking Apps</a></h3>
+  <div class="selected-links"><a href="./pdf/C19-ICSE2020-An Empirical Assessment of Security Risks of Global Android Banking Apps.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c19">论文详情 <span aria-hidden="true">→</span></a></div>
+</li>
+</ul>
+<div class="selected-bottom"><span>期刊年份优先采用正式出版年份。</span><a href="./pubs.html">查看完整论文列表 →</a></div>
+<!-- END SELECTED PUBLICATIONS -->
+</section>
+<section class="section" id="news">
 				<h2>动态</h2>
-				<!-- <div class="news-item">
-					<img src="./images/new.gif" alt="" />
-					<div><strong>招生</strong>：计划招收2026年9月入学的普博或本校硕博连读学术型博士生1名，欢迎邮件或飞书联系。</div>
-				</div> -->
+
 				<div class="news-item">
-					<img src="./images/new.gif" alt="" />
 					<div><strong>2026年3月</strong>：获得ICSE 2026杰出论文奖</div>
 				</div>
 				<div class="news-item">
-					<img src="./images/new.gif" alt="" />
 					<div>
 						<strong>2026年1月</strong>：<a href="https://news.nankai.edu.cn/ywsd/system/2026/01/03/030070520.shtml" target="_blank" rel="noreferrer">南开大学报道：荣获2026年度ACM SIGSOFT Early Career Researcher Award</a>
 					</div>
 				</div>
 				<div class="news-item">
-					<img src="./images/new.gif" alt="" />
 					<div>
 						<strong>2025年12月</strong>：<a href="https://mp.weixin.qq.com/s/SdTm53N14fpJ5PWR3M2OeA">荣获ACM SIGSOFT Early Career Researcher Award（2026年度，亚洲高校首位）</a>
 					</div>
 				</div>
 			</section>
-
-			<hr />
-
-			<section class="section" id="service">
+<section class="section contact-section" id="contact">
+    <h2>招生与合作</h2>
+    <p>如对软件供应链安全、程序分析或恶意软件分析方向的学习与研究感兴趣，可邮件咨询招生与科研机会，具体名额和安排请以邮件沟通为准。</p>
+    <p>来信可附简历、研究兴趣及相关项目或论文链接；合作咨询可简要说明研究问题、已有工作和希望开展的合作。</p>
+    <p><a class="contact-link" href="mailto:senchen@nankai.edu.cn">senchen@nankai.edu.cn</a> · <a href="https://nksseclab.github.io" target="_blank" rel="noopener">NKSSecLab</a></p>
+  </section>
+<section class="section" id="awards">
+				<h2>获奖</h2>
+				<ul class="list">
+					<li><strong>ACM SIGSOFT Early Career Researcher Award</strong>（2026，亚洲高校首位）</li>
+					<li>CCF-A 类国际顶级会议<strong>杰出论文奖</strong> 7 项（2018，2021-2024，2026）</li>
+					<li>斯坦福2025<strong>全球前2%顶尖科学家榜单</strong></li>
+					<li>中国电子学会<strong>青年人才托举工程</strong>（2025）</li>
+					<li><strong>国家网信优秀人才</strong>（2024，网络安全领域）</li>
+					<li><strong>ACM 天津新星奖</strong>（2022）</li>
+					<li><strong>省部级科技进步一等奖</strong> 1 项（2020，参与）</li>
+				</ul>
+			</section>
+<section class="section" id="service">
 				<h2>兼职</h2>
 				<ul class="list">
 					<li>天津市网络与数据安全技术重点实验室<strong>副主任</strong></li>
@@ -132,29 +219,13 @@
 					<li>中国计算机学会开源发展技术委员会委员</li> -->
 				</ul>
 			</section>
-
-			<hr />
-
-			<section class="section" id="awards">
-				<h2>获奖</h2>
-				<ul class="list">
-					<li><strong>ACM SIGSOFT Early Career Researcher Award</strong>（2026，亚洲高校首位）</li>
-					<li>CCF-A 类国际顶级会议<strong>杰出论文奖</strong> 7 项（2018，2021-2024，2026）</li>
-					<li>斯坦福2025<strong>全球前2%顶尖科学家榜单</strong></li>
-					<li>中国电子学会<strong>青年人才托举工程</strong>（2025）</li>
-					<li><strong>国家网信优秀人才</strong>（2024，网络安全领域）</li>
-					<li><strong>ACM 天津新星奖</strong>（2022）</li>
-					<li><strong>省部级科技进步一等奖</strong> 1 项（2020，参与）</li>
-				</ul>
-			</section>
-
-		</main>
+</main>
 
 		<hr />
 
 		<footer class="footer">
 			<div>
-				<a href="https://mapmyvisitors.com/web/1c7td" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=GQehChqYta6bSPGWPNs6x1RFGpPKYzCsYVG3OepV1Q8&cl=ffffff"></a>
+				<a href="https://mapmyvisitors.com/web/1c7td" title="Visit tracker"><img alt="Visitor map" loading="lazy" src="https://mapmyvisitors.com/map.png?d=GQehChqYta6bSPGWPNs6x1RFGpPKYzCsYVG3OepV1Q8&cl=ffffff"></a>
 			</div>
 			<div class="small">©2026 Sen Chen. All rights reserved.</div>
 		</footer>

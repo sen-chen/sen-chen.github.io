@@ -8,7 +8,11 @@
 	<meta property="og:title" content="Sen Chen — Nankai University" />
 	<meta property="og:description" content="Sen Chen — Professor at Nankai University. Research: software security and software supply chain security." />
 	<meta property="og:image" content="https://sen-chen.github.io/images/tigersenchen.jpg" />
-	<meta property="og:type" content="website" />
+	<link rel="canonical" href="https://sen-chen.github.io/" />
+<link rel="alternate" hreflang="en" href="https://sen-chen.github.io/" />
+<link rel="alternate" hreflang="zh-CN" href="https://sen-chen.github.io/index-ch.html" />
+<link rel="alternate" hreflang="x-default" href="https://sen-chen.github.io/" />
+<meta property="og:type" content="website" />
 	<title>Sen Chen — Nankai University</title>
 
 	<link rel="stylesheet" href="./css/main.css" />
@@ -17,6 +21,7 @@
 	<link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,600&display=swap" rel="stylesheet" />
 </head>
 <body class="sc sc-home sc-en">
+<a class="skip-link" href="#main-content">Skip to main content</a>
 	<div class="outer"></div>
 	<div class="main">
 		<header>
@@ -27,14 +32,18 @@
 					<div class="affil">
 						Professor, College of Cryptology and Cyber Science, Nankai University, China
 					</div>
-					<div class="meta">
+					<p class="research-position">Software supply chain security · Program analysis · Malware analysis</p>
+<div class="meta">
 						<span><strong>Office</strong>: Room 563, College of Cryptology and Cyber Science Building, Jinnan Campus</span>
 						<span><strong>Email</strong>: <a href="mailto:senchen@nankai.edu.cn">senchen@nankai.edu.cn</a></span>
 					</div>
 				</div>
 			</div>
 			<nav class="nav" aria-label="Primary">
-				<a href="./pubs.html">Publications</a>
+				<a href="#about">About</a>
+<a href="#selected">Selected work</a>
+<a href="#contact">Contact</a>
+<a href="./pubs.html">Publications</a>
 				<a href="https://scholar.google.com.sg/citations?hl=en&pli=1&user=OeYEPdAAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>
 				<a href="https://dblp.uni-trier.de/pers/hd/c/Chen:Sen" target="_blank" rel="noreferrer">DBLP</a>
 				<a href="https://nksseclab.github.io" target="_blank" rel="noreferrer">NKSSecLab</a>
@@ -43,22 +52,15 @@
 			<hr />
 		</header>
 
-		<main>
-			<section class="section" id="news">
-
-				<div style="text-align: center;">
-					<img src="./images/Eng.png" style="width: 90%; height: auto;"/>
-				</div>
-			</section>
-
-			<section class="section">
+		<main id="main-content">
+<section class="section" id="about">
 				<div class="grid2">
 					<div class="card">
 						<h2>About</h2>
 						<p class="prose">
 							I am a full professor at <a href="https://cyber.nankai.edu.cn/" target="_blank" rel="noreferrer">Nankai University</a> and lead
 							<a href="https://nksseclab.github.io" target="_blank" rel="noreferrer">NKSSecLab</a>.
-							I am also a member of the research group led by Prof. Zheli Liu.
+							I am also a member of the research group led by <a href="https://cyber.nankai.edu.cn/2021/0323/c37288a575905/page.htm" target="_blank" rel="noopener noreferrer">Prof. Zheli Liu</a>.
 							I was an assistant professor at <a href="https://www.ntu.edu.sg/" target="_blank" rel="noreferrer">Nanyang Technological University</a>, Singapore, working with <a href="https://personal.ntu.edu.sg/liuyang/" target="_blank" rel="noreferrer">Prof. Yang Liu</a>.
 						</p>
 						<p class="prose">
@@ -67,78 +69,124 @@
 							I have received the <strong>ACM SIGSOFT Early Career Researcher Award</strong> in 2026 and <strong>7 Distinguished Paper Awards</strong> at top-tier conferences.
 						</p>
 					</div>
-					<div class="card">
-						<h2>Research</h2>
-						<ul class="list">
-							<li>Software Supply Chain Security</li>
-							<li>Trustworthy Software</li>
-							<!-- <li>Open-Source Software Security</li> -->
-							<li>Software Composition Analysis (SCA)</li>
-							<li>Static Analysis and Security Testing (SAST)</li>
-							<li>Vulnerability, PoC, Malware</li>
-							<li>LLM-based Software Security</li>
-						</ul>
-					</div>
-				</div>
+					<div class="card research-summary">
+    <h2>Research</h2>
+    <p>Securing software supply chains through component analysis, vulnerability discovery, and behavior understanding.</p>
+    <ol class="research-tracks">
+      <li><h3>First-party component security</h3><p>Program analysis, Static Application Security Testing (<strong>SAST</strong>), and vulnerability detection.</p></li>
+      <li><h3>Third-party component security</h3><p>Software Composition Analysis (<strong>SCA</strong>), dependency vulnerability propagation, and compatible remediation.</p></li>
+      <li><h3>Malicious component analysis</h3><p>Malware detection, behavior understanding, and explanation.</p></li>
+    </ol>
+    <p class="small">Exploring LLM-assisted vulnerability PoC generation and security validation. <a href="./pubs.html#preprints">Related preprint →</a></p>
+  </div></div></section>
+<section class="section" id="research-overview">
+
+				<h2>Research overview</h2>
+<figure class="research-figure">
+					<a href="./images/Eng.png" target="_blank" rel="noopener" aria-label="View the full-size research diagram in a new tab">
+						<img loading="lazy" src="./images/Eng.png" alt="Software supply chain security research: first-party, third-party, and malicious component security" />
+					</a>
+					<figcaption>Click the image to view full size</figcaption>
+				</figure>
 			</section>
-
-			<hr />
-
-			
-
-			<section class="section" id="news">
+<section class="section" id="selected"><h2>Selected Publications</h2>
+<!-- BEGIN SELECTED PUBLICATIONS -->
+<ul class="list selected-list">
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TIFS</span><span class="selected-year">2026</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pubs.html#paper-forthcoming-1">Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources</a></h3>
+  <div class="selected-links"><span class="pdf-pending">PDF forthcoming</span><a href="./pubs.html#paper-forthcoming-1">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ICSE</span><span class="selected-year">2026</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C61-ICSE2026-Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits.pdf" target="_blank" rel="noopener">Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits</a></h3>
+  <div class="selected-links"><a href="./pdf/C61-ICSE2026-Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c61">Details <span aria-hidden="true">→</span></a><span class="selected-award"><span aria-hidden="true">☆</span> Distinguished Paper Award</span></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">CCS</span><span class="selected-year">2025</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C59-CCS2025-ForeDroid Scenario-Aware Analysis for Android Malware Detection and Explanation.pdf" target="_blank" rel="noopener">ForeDroid: Scenario-Aware Analysis for Android Malware Detection and Explanation</a></h3>
+  <div class="selected-links"><a href="./pdf/C59-CCS2025-ForeDroid Scenario-Aware Analysis for Android Malware Detection and Explanation.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c59">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TOSEM</span><span class="selected-year">2025</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J21-TOSEM2025-Beyond Decision：Android Malware Description Generation through Profiling Malicious Behavior Trajectory.pdf" target="_blank" rel="noopener">Beyond Decision: Android Malware Description Generation through Profiling Malicious Behavior Trajectory</a></h3>
+  <div class="selected-links"><a href="./pdf/J21-TOSEM2025-Beyond Decision：Android Malware Description Generation through Profiling Malicious Behavior Trajectory.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j21">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">FSE</span><span class="selected-year">2024</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C48-FSE2024-Static Application Security Testing (SAST) Tools for Smart Contracts How Far Are We.pdf" target="_blank" rel="noopener">Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?</a></h3>
+  <div class="selected-links"><a href="./pdf/C48-FSE2024-Static Application Security Testing (SAST) Tools for Smart Contracts How Far Are We.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c48">Details <span aria-hidden="true">→</span></a><span class="selected-award"><span aria-hidden="true">☆</span> Distinguished Paper Award</span></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TSE</span><span class="selected-year">2023</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J16-TSE2022-Automatically Distilling Storyboard with Rich Features for Android Apps.pdf" target="_blank" rel="noopener">Automatically Distilling Storyboard with Rich Features for Android Apps</a></h3>
+  <div class="selected-links"><a href="./pdf/J16-TSE2022-Automatically Distilling Storyboard with Rich Features for Android Apps.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j16">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ASE</span><span class="selected-year">2023</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C43-ASE2023-EndWatch A Practical Method for Detecting Non-Termination in Real-World Software.pdf" target="_blank" rel="noopener">EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software</a></h3>
+  <div class="selected-links"><a href="./pdf/C43-ASE2023-EndWatch A Practical Method for Detecting Non-Termination in Real-World Software.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c43">Details <span aria-hidden="true">→</span></a><span class="selected-award"><span aria-hidden="true">☆</span> Distinguished Paper Award</span></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ICSE</span><span class="selected-year">2023</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C36-ICSE2023-Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects.pdf" target="_blank" rel="noopener">Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects</a></h3>
+  <div class="selected-links"><a href="./pdf/C36-ICSE2023-Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c36">Details <span aria-hidden="true">→</span></a><span class="selected-award"><span aria-hidden="true">☆</span> Distinguished Paper Award</span></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ICSE</span><span class="selected-year">2022</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C29-ICSE2022-Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem.pdf" target="_blank" rel="noopener">Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem</a></h3>
+  <div class="selected-links"><a href="./pdf/C29-ICSE2022-Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c29">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TSE</span><span class="selected-year">2022</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J12-TSE2021-Accessible or Not An Empirical Investigation of Android App Accessibility.pdf" target="_blank" rel="noopener">Accessible or Not? An Empirical Investigation of Android App Accessibility</a></h3>
+  <div class="selected-links"><a href="./pdf/J12-TSE2021-Accessible or Not An Empirical Investigation of Android App Accessibility.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j12">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TOSEM</span><span class="selected-year">2021</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J4-TOSEM-Why an Android App Is Classified as Malware Toward Malware Classification Interpretation.pdf" target="_blank" rel="noopener">Why an Android App is Classified as Malware? Towards Malware Classification Interpretation</a></h3>
+  <div class="selected-links"><a href="./pdf/J4-TOSEM-Why an Android App Is Classified as Malware Toward Malware Classification Interpretation.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j4">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TIFS</span><span class="selected-year">2021</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J5-TIFS-A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.pdf" target="_blank" rel="noopener">A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices</a></h3>
+  <div class="selected-links"><a href="./pdf/J5-TIFS-A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j5">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">TDSC</span><span class="selected-year">2021</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/J2-TDSC2019-GUI-Squatting Attack Automated Generation of Android Phishing Apps.pdf" target="_blank" rel="noopener">GUI-Squatting Attack: Automated Generation of Android Phishing Apps</a></h3>
+  <div class="selected-links"><a href="./pdf/J2-TDSC2019-GUI-Squatting Attack Automated Generation of Android Phishing Apps.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-j2">Details <span aria-hidden="true">→</span></a></div>
+</li>
+<li class="selected-paper">
+  <div class="selected-meta"><span class="selected-venue">ICSE</span><span class="selected-year">2020</span></div>
+  <h3 class="selected-heading"><a class="selected-title" href="./pdf/C19-ICSE2020-An Empirical Assessment of Security Risks of Global Android Banking Apps.pdf" target="_blank" rel="noopener">An Empirical Assessment of Security Risks of Global Android Banking Apps</a></h3>
+  <div class="selected-links"><a href="./pdf/C19-ICSE2020-An Empirical Assessment of Security Risks of Global Android Banking Apps.pdf" target="_blank" rel="noopener">PDF ↗</a><a href="./pubs.html#paper-c19">Details <span aria-hidden="true">→</span></a></div>
+</li>
+</ul>
+<div class="selected-bottom"><span>Journal years use publication years where available.</span><a href="./pubs.html">View all publications →</a></div>
+<!-- END SELECTED PUBLICATIONS -->
+</section>
+<section class="section" id="news">
 				<h2>News</h2>
 				<div class="news-item">
-					<img src="./images/new.gif" alt="" />
 					<div><strong>March 2026</strong>: Received one <strong>Distinguished Paper Award</strong> (ICSE 2026).</div>
 				</div>
 				<div class="news-item">
-					<img src="./images/new.gif" alt="" />
 					<div>
 						<strong>December 2025</strong>: Received the <strong>ACM SIGSOFT Early Career Researcher Award (2026)</strong> for outstanding contributions to advancing <strong>software supply chain security</strong> through pioneering techniques and tools in Software Composition Analysis (SCA) and Static Application Security Testing (SAST).
 					</div>
 				</div>
 				<div class="news-item">
-					<img src="./images/new.gif" alt="" />
 					<div><strong>July 2025</strong>: One paper accepted at CCS 2025.</div>
 				</div>
 			</section>
-
-			<hr />
-
-			
-
-			<section class="section" id="news">
-				<h2>Preprints</h2>
-				<div class="news-item">
-					<a href="https://arxiv.org/abs/2510.10148">A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models</a>
-				</div>
-			</section>
-
-			<hr />
-
-			<section class="section" id="selected">
-				<h2>Selected Publications</h2>
-				<ul class="list">
-					<li><span class="venue-tag">ICSE 2026</span> [SAST & SCA] Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits</li>
-					<li><span class="venue-tag">CCS 2025</span> [Malware] ForeDroid: Scenario-Aware Analysis for Malware Detection and Explanation</li>
-					<li><span class="venue-tag">TOSEM 2025</span> [Malware] Malware Description Generation through Profiling Malicious Behavior Trajectory</li>
-					<li><span class="venue-tag">FSE 2024</span> [SAST] Static Application Security Testing (SAST) Tools for Smart Contracts</li>
-					<li><span class="venue-tag">TSE 2023</span> [SAST] Automatically Distilling Storyboard with Rich Features for Apps</li>
-					<li><span class="venue-tag">ASE 2023</span> [SAST] EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software</li>
-					<li><span class="venue-tag">ICSE 2023</span> [SCA] Compatible Remediation on Vulnerabilities from Third-Party Libraries</li>
-					<li><span class="venue-tag">ICSE 2022</span> [SCA] Demystifying the Vulnerability Propagation and Its Evolution in the NPM Ecosystem</li>
-					<li><span class="venue-tag">TOSEM 2020</span> [Malware] Why an App is Classified as Malware? Towards Malware Classification Interpretation</li>
-					<li><span class="venue-tag">TIFS 2022</span> [Malware] A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices</li>
-					<li><span class="venue-tag">TDSC 2021</span> [Malware] GUI-Squatting Attack: Automated Generation of Phishing Apps</li>
-					<li><span class="venue-tag">ICSE 2020</span> [SAST] An Empirical Assessment of Security Risks of Global Android Banking Apps</li>
-				</ul>
-				<p class="small"><a href="./pubs.html">View full publications →</a></p>
-			</section>
-
-			<hr />
-
-			<section class="section" id="awards">
+<section class="section contact-section" id="contact">
+    <h2>Prospective students & collaboration</h2>
+    <p>For questions about study and research opportunities in software supply chain security, program analysis, or malware analysis, please get in touch by email. Availability and arrangements can be discussed directly.</p>
+    <p>For student inquiries, include a CV, research interests, and relevant project or paper links. For collaboration, outline the research question, existing work, and proposed collaboration.</p>
+    <p><a class="contact-link" href="mailto:senchen@nankai.edu.cn">senchen@nankai.edu.cn</a> · <a href="https://nksseclab.github.io" target="_blank" rel="noopener">NKSSecLab</a></p>
+  </section>
+<section class="section" id="awards">
 				<h2>Awards</h2>
 				<ul class="list">
 					<li>ACM SIGSOFT Early Career Researcher Award, 2026</li>
@@ -155,10 +203,7 @@
 					<li>Distinguished Paper Award (ICSE 2018)</li>
 				</ul>
 			</section>
-
-			<hr />
-
-			<section class="section" id="service">
+<section class="section" id="service">
 				<h2>Service</h2>
 				<ul class="list">
 					<li><strong>2027 Program Committee</strong>: USENIX Security, ICSE</li>
@@ -169,15 +214,13 @@
 					<li><strong>2022 Program Committee</strong>: ASE</li>
 				</ul>
 			</section>
-
-			<hr />
-		</main>
+</main>
 
 		<hr />
 
 		<footer class="footer">
 			<div>
-				<a href="https://mapmyvisitors.com/web/1c7td" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=GQehChqYta6bSPGWPNs6x1RFGpPKYzCsYVG3OepV1Q8&cl=ffffff"></a>
+				<a href="https://mapmyvisitors.com/web/1c7td" title="Visit tracker"><img alt="Visitor map" loading="lazy" src="https://mapmyvisitors.com/map.png?d=GQehChqYta6bSPGWPNs6x1RFGpPKYzCsYVG3OepV1Q8&cl=ffffff"></a>
 			</div>
 			<div class="small">©2026 Sen Chen. All rights reserved.</div>
 		</footer>
