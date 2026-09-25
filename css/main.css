@@ -734,25 +734,25 @@ body.sc .research-tracks{ padding-left: 1.3rem; margin: 0; }
 body.sc .research-tracks li{ font-weight: 400; font-size: 1rem; margin-bottom: 1rem; }
 body.sc .research-tracks h3{ font-size: 1.05rem; margin: 0; }
 body.sc.sc-home .research-tracks p{ font-size: 1rem; margin: .2rem 0; }
-/* English introduction: stack sections so their unequal lengths leave no gap. */
-body.sc.sc-en #about .grid2{
+/* Both homepages: stack the introduction above the research directions. */
+body.sc.sc-home #about .grid2{
         grid-template-columns: minmax(0, 1fr);
         gap: 1rem;
 }
-body.sc.sc-en #about .card{
+body.sc.sc-home #about .card{
         padding: .5rem 0;
 }
-body.sc.sc-en #about .research-summary{
+body.sc.sc-home #about .research-summary{
         border-top: 1px solid var(--sc-border);
         padding-top: 1.25rem;
 }
-body.sc.sc-en #about .research-tracks{
+body.sc.sc-home #about .research-tracks{
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
         gap: 1.5rem;
         margin: 1rem 0;
 }
-body.sc.sc-en #about .research-tracks li{
+body.sc.sc-home #about .research-tracks li{
         margin-bottom: 0;
         padding-right: .3rem;
 }
@@ -761,11 +761,11 @@ body.sc.sc-en #about .research-tracks h3{
         font-weight: 600;
         line-height: 1.4;
 }
-body.sc.sc-en #about .research-tracks p{
+body.sc.sc-home #about .research-tracks p{
         margin: .4rem 0;
 }
 @media (max-width: 900px){
-        body.sc.sc-en #about .research-tracks{
+        body.sc.sc-home #about .research-tracks{
                 grid-template-columns: minmax(0, 1fr);
                 gap: 1rem;
         }
