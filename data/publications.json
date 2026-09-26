@@ -33,6 +33,30 @@
       ]
     },
     {
+      "id": "paper-poc-usability-preprint",
+      "title": "Real-World Usability of Vulnerability Proof-of-Concepts: A Comprehensive Study",
+      "authorsHtml": "Wenjing Dang, Kaixuan Li, <strong>Sen Chen<sup>*</sup></strong>, Zhenwei Zhuo, Lyuye Zhang, and Zheli Liu",
+      "venue": "Preprint, 2025",
+      "details": "",
+      "acceptanceYear": null,
+      "publicationYear": null,
+      "href": "https://arxiv.org/abs/2510.18448",
+      "award": null,
+      "topics": ["supply-chain", "analysis"]
+    },
+    {
+      "id": "paper-vfarche-preprint",
+      "title": "VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software",
+      "authorsHtml": "Lyuye Zhang, Jian Zhang, Kaixuan Li, Chong Wang, Chengwei Liu, Jiahui Wu, <strong>Sen Chen</strong>, Yaowen Zheng, and Yang Liu",
+      "venue": "Preprint, 2025",
+      "details": "",
+      "acceptanceYear": null,
+      "publicationYear": null,
+      "href": "https://arxiv.org/abs/2506.18050",
+      "award": null,
+      "topics": ["supply-chain", "analysis"]
+    },
+    {
       "id": "paper-forthcoming-1",
       "title": "Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources",
       "authorsHtml": "Wenjing Dang, Lvye Zhang, Lingxiao Wang, Kaixuan Li, Mengyao Zhao, Xiaohong Li, and <strong>Sen Chen*</strong>",
