@@ -18,12 +18,15 @@ for (const paper of papers) {
 function article(paper) {
   const year = paper.publicationYear || paper.acceptanceYear;
   const years = paper.acceptanceYear === null ? '' : ` data-acceptyear="${paper.acceptanceYear}" data-pubyear="${year}"`;
-  return `<article class="paper" id="${escape(paper.id)}"${years} data-topics="${escape(paper.topics.join(' '))}">
-  <h3 class="paper-title">${paper.href ? link(paper.href, paper.title) : escape(paper.title)}</h3>
+  return `<article class="paper" id="${escape(paper.id)}"${years} data-topics="${escape(paper.topics.join(' '))}"${paper.award ? ' data-award="true"' : ''}>
+  ${paper.award ? `<div class="paper-award"><span class="award-label"><span aria-hidden="true">★</span> ${escape(paper.award)}</span></div>` : ''}
+  <div class="paper-heading">
+    <h3 class="paper-title">${paper.href ? link(paper.href, paper.title) : escape(paper.title)}</h3>
+    <div class="paper-links">${paper.href ? link(paper.href, paper.acceptanceYear === null ? 'arXiv ↗' : 'PDF ↗') : '<span class="pdf-pending">PDF forthcoming</span>'}</div>
+  </div>
   <p class="paper-authors">${paper.authorsHtml}</p>
-  <p class="paper-venue">${escape(paper.venue)}${paper.award ? ` · <span class="award-label">${escape(paper.award)}</span>` : ''}</p>
+  <p class="paper-venue">${escape(paper.venue)}</p>
   ${paper.details ? `<p class="paper-details">${escape(paper.details)}</p>` : ''}
-  <div class="paper-links">${paper.href ? link(paper.href, paper.acceptanceYear === null ? 'arXiv' : 'PDF') : '<span class="pdf-pending">PDF forthcoming</span>'}</div>
 </article>`;
 }
 function replaceBlock(file, name, content) {

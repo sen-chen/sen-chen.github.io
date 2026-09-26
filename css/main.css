@@ -506,8 +506,16 @@ body.sc.sc-pubs .paper{
         scroll-margin-top: 1rem;
 }
 
+body.sc.sc-pubs .paper-heading{
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        align-items: start;
+        gap: .4rem 1rem;
+        margin-bottom: .35rem;
+}
+
 body.sc.sc-pubs .paper-title{
-        margin: 0 0 .35rem;
+        margin: 0;
         font-size: var(--sc-reading-size);
         font-weight: 600;
         line-height: 1.4;
@@ -531,8 +539,23 @@ body.sc.sc-pubs .paper-details{
 }
 
 body.sc.sc-pubs .paper-links{
-        margin-top: .45rem;
+        margin-top: 0;
         font-size: .85rem;
+        white-space: nowrap;
+}
+
+body.sc.sc-pubs .paper-links .pdf-pending{
+        display: inline-block;
+        padding-top: .25rem;
+}
+
+@media (max-width: 720px){
+        body.sc.sc-pubs .paper-heading{
+                grid-template-columns: minmax(0, 1fr);
+        }
+        body.sc.sc-pubs .paper-links{
+                justify-self: start;
+        }
 }
 
 body.sc .selected-title:focus-visible,
@@ -671,8 +694,26 @@ body.sc.sc-pubs .backtop:hover{
 }
 
 body.sc.sc-pubs .award-label{
-        color: #1d4ed8;
-        font-weight: 600;
+        display: inline-flex;
+        align-items: baseline;
+        gap: .4rem;
+        padding: .3rem .65rem;
+        border: 1px solid #dfbd71;
+        border-radius: 6px;
+        background: #fff0c7;
+        color: #704609;
+        font-family: system-ui, sans-serif;
+        font-size: .85rem;
+        font-weight: 700;
+        line-height: 1.5;
+}
+body.sc.sc-pubs .paper-award{
+        margin-bottom: .6rem;
+}
+body.sc.sc-pubs .paper[data-award="true"]{
+        border-left: 3px solid #c39335;
+        padding-left: .85rem;
+        background: linear-gradient(90deg, #fffbf1, #fff 75%);
 }
 
 body.sc .footer{
