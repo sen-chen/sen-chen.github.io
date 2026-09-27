@@ -79,7 +79,7 @@ ul li{
 /* =========================================================
    Academic homepage layout (scoped; avoids legacy conflicts)
    Apply by adding class="sc ..." on <body>.
-   桌面根字号 19.5px；正文约 21–22px，最大页面宽度 1152px。
+   桌面根字号 19.5px；正文约 21–22px，最大页面宽度 1280px。
    ========================================================= */
 
 html:has(body.sc){
@@ -102,7 +102,7 @@ body.sc{
         --sc-bg: #ffffff;
         --sc-chip: #f3f4f6;
         --sc-link: #164e86;
-        --sc-max: 1152px;  /* Keep the reading width independent of font scaling */
+        --sc-max: 1280px;  /* Keep the reading width independent of font scaling */
         --sc-reading-font: "EB Garamond", Georgia, "Times New Roman", serif;
         --sc-reading-size: 1.14rem;
 }
