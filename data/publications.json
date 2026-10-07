@@ -64,7 +64,7 @@
       "details": "",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/J24-TIFS2026-Synchronizing Key Aspects Enhancing Vulnerability PoC Reports from Multiple Sources.pdf",
       "award": null,
       "topics": [
         "supply-chain",
@@ -94,7 +94,7 @@
       "details": "",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/C64-SWGeno2026-Vulnerability Proof-of-Concepts in Software Supply Chain Real-World Usage Scenarios from the Perspective of Migration.pdf",
       "award": null,
       "topics": [
         "supply-chain",
@@ -109,7 +109,7 @@
       "details": "",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/C65-SWGeno2026-Seeing the Forest A Taxonomy-Guided Analysis and Improvement of Malicious PyPI Package Detectors.pdf",
       "award": null,
       "topics": [
         "malware",
@@ -124,7 +124,7 @@
       "details": "",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/C66-ASE2026-One Is Not Enough The Untold Story of Multiple Security Patches for One Vulnerability.pdf",
       "award": null,
       "topics": [
         "supply-chain",
@@ -139,7 +139,7 @@
       "details": "",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/J25-JoS2026-AIntel-Agent A Threat Intelligence-Driven Multi-Agent Android Anti-Runtime Analysis Method.pdf",
       "award": null,
       "topics": [
         "analysis",
@@ -154,7 +154,7 @@
       "details": "",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/C67-ISSTA2026-You are deceived in the pocket —— Intrusive Advertisements in Mobile Applications An Exploratory Study.pdf",
       "award": null,
       "topics": [
         "software"
@@ -168,7 +168,7 @@
       "details": "",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/J26-TMC2026-Knowledge is Power A Knowledge Graph-Based Approach for Mobile Malware Traceability Analysis.pdf",
       "award": null,
       "topics": [
         "malware",
@@ -183,7 +183,7 @@
       "details": "IEEE Transactions on Software Engineering, Volume 52, Issue 4, April 2026, Pages: 1515–1530.",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/J27-TSE2026-CodeS+ Towards Assessing the Generalization Ability of Code Models Under Distribution Shift.pdf",
       "award": null,
       "topics": [
         "ai"
@@ -212,7 +212,7 @@
       "details": "IEEE Transactions on Software Engineering, Volume 52, Issue 5, May 2026, Pages: 1756–1772.",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/J28-TSE2026-DeepFWI Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics.pdf",
       "award": null,
       "topics": [
         "analysis"
