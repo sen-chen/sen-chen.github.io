@@ -1,6 +1,7 @@
 {
   "selected": [
     "paper-forthcoming-1",
+    "paper-forthcoming-2",
     "paper-c61",
     "paper-c59",
     "paper-j21",
@@ -12,8 +13,7 @@
     "paper-j12",
     "paper-j4",
     "paper-j5",
-    "paper-j2",
-    "paper-c19"
+    "paper-j2"
   ],
   "papers": [
     {
@@ -79,7 +79,7 @@
       "details": "",
       "acceptanceYear": 2026,
       "publicationYear": null,
-      "href": null,
+      "href": "./pdf/J29-TOSEM2026-Mind the Data A Measurement Study on Public Multi-Source Vulnerability Data.pdf",
       "award": null,
       "topics": [
         "supply-chain",
