@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const root = path.join(__dirname, '..');
 const { papers, selected } = JSON.parse(fs.readFileSync(path.join(root, 'data/publications.json'), 'utf8'));
+const funding = JSON.parse(fs.readFileSync(path.join(root, 'data/funding.json'), 'utf8'));
 const escape = value => String(value).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const link = (href, text, cls = '') => `<a${cls ? ` class="${cls}"` : ''} href="${escape(href)}" target="_blank" rel="noopener">${escape(text)}</a>`;
 const seen = new Set();
@@ -15,18 +16,39 @@ for (const paper of papers) {
   }
   if (paper.href && paper.href.startsWith('./') && !fs.existsSync(path.join(root, paper.href))) throw new Error(`Missing PDF: ${paper.href}`);
 }
+function fundingDetails(paper) {
+  const entry = funding[paper.id];
+  if (!entry) return '';
+  let content;
+  if (entry.status === 'reported') {
+    const page = entry.pages.match(/^\d+/)?.[0];
+    const source = link(entry.source + (page ? `#page=${page}` : ''), `Source PDF · p. ${entry.pages} ↗`);
+    const grants = entry.grantIds.length
+      ? `<p><strong>Grant IDs</strong> ${escape(entry.grantIds.join(', '))}</p>`
+      : '';
+    content = `${grants}<p>${escape(entry.statement)}</p><p>${source}</p>`;
+  } else {
+    content = entry.status === 'no-local-pdf'
+      ? '<p>Funding has not been checked. No local PDF was available.</p>'
+      : '<p>No funding statement was found in the local PDF.</p>';
+  }
+  return `<details class="paper-funding"><summary>Funding</summary><div class="paper-funding-content">${content}</div></details>`;
+}
 function article(paper) {
   const year = paper.publicationYear || paper.acceptanceYear;
   const years = paper.acceptanceYear === null ? '' : ` data-acceptyear="${paper.acceptanceYear}" data-pubyear="${year}"`;
+  const downloadLabel = paper.href?.startsWith('https://arxiv.org/') ? 'arXiv ↗' : 'PDF ↗';
   return `<article class="paper" id="${escape(paper.id)}"${years} data-topics="${escape(paper.topics.join(' '))}"${paper.award ? ' data-award="true"' : ''}>
   ${paper.award ? `<div class="paper-award"><span class="award-label"><span aria-hidden="true">★</span> ${escape(paper.award)}</span></div>` : ''}
   <div class="paper-heading">
     <h3 class="paper-title">${paper.href ? link(paper.href, paper.title) : escape(paper.title)}</h3>
-    <div class="paper-links">${paper.href ? link(paper.href, paper.acceptanceYear === null ? 'arXiv ↗' : 'PDF ↗') : '<span class="pdf-pending">PDF forthcoming</span>'}</div>
+    <div class="paper-links">${paper.href ? link(paper.href, downloadLabel) : '<span class="pdf-pending">PDF forthcoming</span>'}</div>
   </div>
   <p class="paper-authors">${paper.authorsHtml}</p>
   <p class="paper-venue">${escape(paper.venue)}</p>
   ${paper.details ? `<p class="paper-details">${escape(paper.details)}</p>` : ''}
+  ${paper.versionNote ? `<p class="paper-details paper-version">${escape(paper.versionNote)}</p>` : ''}
+  ${fundingDetails(paper)}
 </article>`;
 }
 function replaceBlock(file, name, content) {

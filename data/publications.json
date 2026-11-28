@@ -84,7 +84,8 @@
       "topics": [
         "supply-chain",
         "analysis"
-      ]
+      ],
+      "versionNote": "Early Access only · author manuscript PDF"
     },
     {
       "id": "paper-forthcoming-3",
@@ -144,7 +145,8 @@
       "topics": [
         "analysis",
         "ai"
-      ]
+      ],
+      "versionNote": "Early Access PDF"
     },
     {
       "id": "paper-forthcoming-7",
@@ -245,7 +247,8 @@
       "award": null,
       "topics": [
         "supply-chain"
-      ]
+      ],
+      "versionNote": "Author manuscript PDF · publisher PDF unavailable"
     },
     {
       "id": "paper-j23",
@@ -478,7 +481,8 @@
       "award": null,
       "topics": [
         "ai"
-      ]
+      ],
+      "versionNote": "Author manuscript PDF · publisher PDF unavailable"
     },
     {
       "id": "paper-c48",
@@ -751,7 +755,8 @@
       "award": null,
       "topics": [
         "malware"
-      ]
+      ],
+      "versionNote": "Early Access only · author manuscript PDF"
     },
     {
       "id": "paper-j16",
@@ -822,7 +827,8 @@
       "award": null,
       "topics": [
         "software"
-      ]
+      ],
+      "versionNote": "Early Access only · author manuscript PDF"
     },
     {
       "id": "paper-c30",

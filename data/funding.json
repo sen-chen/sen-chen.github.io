@@ -1,0 +1,1115 @@
+{
+    "paper-web-poc-preprint":  {
+                                   "status":  "no-local-pdf"
+                               },
+    "paper-poc-usability-preprint":  {
+                                         "status":  "no-local-pdf"
+                                     },
+    "paper-vfarche-preprint":  {
+                                   "status":  "no-local-pdf"
+                               },
+    "paper-forthcoming-1":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "TZ2025002"
+                                             ],
+                                "statement":  "This work was supported by the Science Challenge Project under Grant TZ2025002.",
+                                "pages":  "1",
+                                "source":  "./pdf/J24-TIFS2026-Synchronizing Key Aspects Enhancing Vulnerability PoC Reports from Multiple Sources.pdf"
+                            },
+    "paper-forthcoming-2":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "62472309",
+                                                 "62332005"
+                                             ],
+                                "statement":  "Acknowledgments This work was supported by the National Natural Science Foundation of China (Grant Nos. 62472309 and 62332005).",
+                                "pages":  "35",
+                                "source":  "./pdf/J29-TOSEM2026-Mind the Data A Measurement Study on Public Multi-Source Vulnerability Data.pdf"
+                            },
+    "paper-forthcoming-3":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "TZ2025002"
+                                             ],
+                                "statement":  "Acknowledgments Supported by Science Challenge Project, No. TZ2025002.",
+                                "pages":  "4",
+                                "source":  "./pdf/C64-SWGeno2026-Vulnerability Proof-of-Concepts in Software Supply Chain Real-World Usage Scenarios from the Perspective of Migration.pdf"
+                            },
+    "paper-forthcoming-4":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "25ZXSFSN00140"
+                                             ],
+                                "statement":  "Acknowledgments This work was supported by the Tianjin Major Science and Tech-nology Special Project (Grant No. 25ZXSFSN00140).",
+                                "pages":  "8",
+                                "source":  "./pdf/C65-SWGeno2026-Seeing the Forest A Taxonomy-Guided Analysis and Improvement of Malicious PyPI Package Detectors.pdf"
+                            },
+    "paper-forthcoming-5":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "2024YFE0203800",
+                                                 "25JJJJC0003",
+                                                 "25ZXSFSN00140",
+                                                 "202506200059"
+                                             ],
+                                "statement":  "Acknowledgments This work was supported by the National Key R\u0026D Program of China (Grant No. 2024YFE0203800), the Beijing-Tianjin-Hebei Natu-ral Science Foundation Cooperation Project (Grant No. 25JJJJC0003), the Tianjin Major Science and Technology Special Project (Grant No. 25ZXSFSN00140), and the China Scholarship Council (Grant No. 202506200059).",
+                                "pages":  "11",
+                                "source":  "./pdf/C66-ASE2026-One Is Not Enough The Untold Story of Multiple Security Patches for One Vulnerability.pdf"
+                            },
+    "paper-forthcoming-6":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "25JJJJC0003",
+                                                 "20240302"
+                                             ],
+                                "statement":  "基金项目 : 京津冀自然科学基金合作专项 (25JJJJC0003); 北京中关村学院项目 (20240302)",
+                                "pages":  "1",
+                                "source":  "./pdf/J25-JoS2026-AIntel-Agent A Threat Intelligence-Driven Multi-Agent Android Anti-Runtime Analysis Method.pdf"
+                            },
+    "paper-forthcoming-7":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "2024YFE0203800",
+                                                 "25JJJJC0003",
+                                                 "25ZXSFSN00140",
+                                                 "IITP-2026-RS-2020-II201819",
+                                                 "RS-2025-02313526",
+                                                 "RS-2026-25489826",
+                                                 "20240302"
+                                             ],
+                                "statement":  "Acknowledgments This work was supported by the National Key R\u0026D Program of China (Grant No. 2024YFE0203800), the Beijing-Tianjin-Hebei Natural Science Foundation Cooperation Project (Grant No. 25JJJJC0003), the Tianjin Major Science and Technology Special Project (Grant No. 25ZXSFSN00140), the Institute of Information \u0026 Communications Technology Planning \u0026 Evaluation (IITP)-ICT Creative Con-silience Program grant funded by the Korea government (MSIT)(IITP-2026-RS-2020-II201819), the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)(RS-2025-02313526 and RS-2026-25489826), Zhongguancun Academy (Grant No. 20240302), and a Korea University Research Grant.",
+                                "pages":  "21",
+                                "source":  "./pdf/C67-ISSTA2026-You are deceived in the pocket —— Intrusive Advertisements in Mobile Applications An Exploratory Study.pdf"
+                            },
+    "paper-forthcoming-8":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "U22B2027",
+                                                 "62332005",
+                                                 "U24A6009",
+                                                 "U2436208",
+                                                 "62272311",
+                                                 "62172297",
+                                                 "25JJJJC0034"
+                                             ],
+                                "statement":  "This work was supported in part by the National Natural Science Foundation of China under Grant U22B2027, Grant 62332005, Grant U24A6009, Grant U2436208, Grant 62272311, and Grant 62172297, in part by Beijing-Tianjin-Hebei Natural Science Foundation Cooperation Special Project under Grant 25JJJJC0034, in part by Joint Research Center for System Security, Tsinghua University (Institute for Network Sciences and Cyberspace), and in part by Science City (Guangzhou) Digital Technology Group Company, Ltd.",
+                                "pages":  "1",
+                                "source":  "./pdf/J26-TMC2026-Knowledge is Power A Knowledge Graph-Based Approach for Mobile Malware Traceability Analysis.pdf"
+                            },
+    "paper-forthcoming-9":  {
+                                "status":  "reported",
+                                "grantIds":  [
+                                                 "U24A6009"
+                                             ],
+                                "statement":  "This work was supported by the National Natural Science Foundation of China under Grant U24A6009.",
+                                "pages":  "1",
+                                "source":  "./pdf/J27-TSE2026-CodeS+ Towards Assessing the Generalization Ability of Code Models Under Distribution Shift.pdf"
+                            },
+    "paper-c62":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "I2501E0045"
+                                   ],
+                      "statement":  "This research/project is supported by A*STAR under the RIE2025 Industry Alignment Fund - Industry Collaboration Projects (IAF-ICP) Funding Initiative (Award: I2501E0045), as well as cash and in-kind contribution from the industry partner(s). This research is also part of the IN-CYPHER programme and supported by the National Research Foundation, Prime Minister’s Office, Singapore under its Campus for Research Excellence and Technological Enterprise (CREATE) programme.",
+                      "pages":  "20",
+                      "source":  "./pdf/C62-FSE2026-GadgetHunter Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities.pdf"
+                  },
+    "paper-forthcoming-11":  {
+                                 "status":  "reported",
+                                 "grantIds":  [
+                                                  "KG16426001"
+                                              ],
+                                 "statement":  "This work was supported by the Fundamental Research Funds for the Central Universities under Grant KG16426001.",
+                                 "pages":  "1",
+                                 "source":  "./pdf/J28-TSE2026-DeepFWI Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics.pdf"
+                             },
+    "paper-c61":  {
+                      "status":  "not-found"
+                  },
+    "paper-c60":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62472309",
+                                       "AISG4-GC-2023-008-1B",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This research is partially supported by the National Natural Science Foundation of China (No. 62472309); the National Research Foundation, Singapore, and DSO National Labora-tories under the AI Singapore Programme (AISG Award No: AISG4-GC-2023-008-1B); the National Research Foundation Singapore and the Cyber Security Agency under the National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN); and the Prime Minister’s Office, Singapore under the Campus for Research Excellence and Technological Enterprise (CREATE) Programme.",
+                      "pages":  "10",
+                      "source":  "./pdf/C60-SANER2026-Scratching the Iceberg Unveiling the Outdated Third-Party Native Libraries in Android Apps.pdf"
+                  },
+    "paper-j23":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "NCRP25-P04-TAICeN",
+                                       "T2EP20223-0043"
+                                   ],
+                      "statement":  "This work was supported in part by the National Research Foundation, Singapore, in part by the Cyber Security Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN), and in part by the Ministry of Education, Singapore under its Academic Research Fund Tier 2 (Proposal ID: T2EP20223-0043).",
+                      "pages":  "1",
+                      "source":  "./pdf/J23-TSE2025-FCGHUNTER Towards Evaluating Robustness of Graph-Based Android Malware Detection.pdf"
+                  },
+    "paper-c59":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62472309"
+                                   ],
+                      "statement":  "Acknowledgments This work was partially supported by the National Natural Science Foundation of China (No. 62472309).",
+                      "pages":  "14",
+                      "source":  "./pdf/C59-CCS2025-ForeDroid Scenario-Aware Analysis for Android Malware Detection and Explanation.pdf"
+                  },
+    "paper-c58":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2024YFE0203800",
+                                       "62472309",
+                                       "20240302"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This work was supported by the National Key R\u0026D Program of China (Grant No.2024YFE0203800), the National Natural Science Foundation of China (No. 62472309), and the grant from Zhongguancun Academy (Grant No. 20240302).",
+                      "pages":  "11",
+                      "source":  "./pdf/C58-ASE2025-GlassWing A Tailored Static Analysis Approach for Flutter Android Apps.pdf"
+                  },
+    "paper-c57":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62472309",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENTS This work was partially supported by the National Natural Science Foundation of China (No. 62472309) and the Na-tional Research Foundation Singapore and the Cyber Security Agency under the National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN).",
+                      "pages":  "4",
+                      "source":  "./pdf/C57-A-Mobile2025-DroidNative A Greedy-Constructed Large-Scale Indexing for Android Native Libraries.pdf"
+                  },
+    "paper-j23-jos":  {
+                          "status":  "reported",
+                          "grantIds":  [
+                                           "62472309"
+                                       ],
+                          "statement":  "基金项目 : 国家自然科学基金 (62472309)",
+                          "pages":  "1",
+                          "source":  "./pdf/J23-JoS2025-HarmonyFlow.pdf"
+                      },
+    "paper-j22":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2024YFE0203800",
+                                       "AISG2-GC-2023-008",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "This work is supported by the National Key R\u0026D Program of China under Grant 2024YFE0203800. This work was also supported in part by the National Research Foundation, Singapore, and DSO National Laboratories through the AI Singapore Programme (AISG) under Award AISG2-GC-2023-008; and in part by the National Research Foundation Singapore and the Cyber Security Agency under the National Cybersecurity R\u0026D Programme under Grant NCRP25-P04-TAICeN.",
+                      "pages":  "1",
+                      "source":  "./pdf/J22-TSE2025-Open Source, Hidden Costs A Systematic Literature Review on OSS License Management.pdf"
+                  },
+    "paper-c56":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "RG96/23",
+                                       "AISG2-GC-2023-008",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "Acknowledgment This research is supported by the Ministry of Education, Singapore, under its Academic Research Fund Tier 1 (RG96/23). It is also sup-ported by the National Research Foundation, Singapore, and DSO National Laboratories under the AI Singapore Programme (AISG Award No: AISG2-GC-2023-008); by the National Research Founda-tion Singapore and the Cyber Security Agency under the National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN) and Cy-berSG R\u0026D Cyber Research Programme Office; and by the National Research Foundation, Prime Minister’s Office, Singapore under the Campus for Research Excellence and Technological Enterprise (CREATE) programme.",
+                      "pages":  "5",
+                      "source":  "./pdf/C56-FSE2025-Drop the Golden Apples Identifying Third-Party Reuse by DB-Less Software Composition Analysis.pdf"
+                  },
+    "paper-j21":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62472309",
+                                       "62332005",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "This work was partially supported by the National Natural Science Foundation of China (Grant Nos. 62472309 and 62332005), the National Research Foundation, Singapore, and the Cyber Security Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN).",
+                      "pages":  "1",
+                      "source":  "./pdf/J21-TOSEM2025-Beyond Decision：Android Malware Description Generation through Profiling Malicious Behavior Trajectory.pdf"
+                  },
+    "paper-c55":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62332005",
+                                       "62102283",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "Acknowledgments This work was partly supported by the National Natural Science Foundation of China (Grant No.62332005, 62102283), and the Na-tional Research Foundation, Singapore, the Cyber Security Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN).",
+                      "pages":  "9",
+                      "source":  "./pdf/C55-WWW2025-TensorJSFuzz Effective Testing of Web-Based Deep LearningFrameworks via Input-Constraint Extractio.pdf"
+                  },
+    "paper-c54":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2023YFB3107100",
+                                       "NCRP25-P04-TAICeN",
+                                       "AISG2-GC-2023-008"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This work was supported by the National Key Research and Development Program of China (2023YFB3107100), the National Research Foundation, Singapore, the Cyber Security Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN), the National Research Foundation Singapore and DSO National Laboratories under the AI Singapore Programme (AISG Award No: AISG2-GC-2023-008), and the National Research Foundation, Prime Minister’s Office, Singapore under the Campus for Research Excellence and Technological Enterprise (CREATE) programme.",
+                      "pages":  "11",
+                      "source":  "./pdf/C54-ICSE2025-Dissecting Global Search A Simple yet Effective Method to Boost Individual Discrimination Testing and Repair.pdf"
+                  },
+    "paper-c53":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62472309"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This work was partially supported by the National Natural Science Foundation of China (Grant No. 62472309).",
+                      "pages":  "11",
+                      "source":  "./pdf/C53-ICSE2025-Scenario-Driven and Context-Aware Automated Accessibility Testing for Android Apps.pdf"
+                  },
+    "paper-c52":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62302148",
+                                       "62472309",
+                                       "F2024202076",
+                                       "B2024003002"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This work was partially supported by the National Nat-ural Science Foundation of China (62302148, 62472309), Hebei Natural Science Foundation (F2024202076) and Hebei Yanzhao HuangJintai Talents Program (Postdoctoral Platform) (B2024003002).",
+                      "pages":  "11",
+                      "source":  "./pdf/C52-ICPC2025-CalmDroid Core-Set Based Active Learning for Multi-Label Android Malware Detection.pdf"
+                  },
+    "paper-c51":  {
+                      "status":  "not-found"
+                  },
+    "paper-c50":  {
+                      "status":  "not-found"
+                  },
+    "paper-c49":  {
+                      "status":  "not-found"
+                  },
+    "paper-c63":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "RG96/23",
+                                       "AISG2-GC-2023-008",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "Acknowledgment This research is supported by the Ministry of Education, Singapore, under its Academic Research Fund Tier 1 (RG96/23). It is also supported by the National Research Foundation, Singapore, and DSO National Laboratories under the AI Singapore Programme (AISG Award No: AISG2-GC-2023-008); by the National Research Foundation Singapore and the Cyber Security Agency under the Na-tional Cybersecurity R\u0026D Programme (NCRP25-P04- TAICeN); and by the Prime Minister’s Office, Singapore under the Campus for Research Excellence and Technological Enterprise (CREATE) programme.",
+                      "pages":  "6",
+                      "source":  "./pdf/C63-ICECCS2025-Evolaris A Roadmap to Self-Evolving Software Intelligence Management.pdf"
+                  },
+    "paper-c48":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2021ZD0114501",
+                                       "NCRP25-P04-TAICeN",
+                                       "AISG2-RP-2020-019"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS The authors would like to thank the anonymous reviewers for their constructive comments. This work is supported by the National Key R\u0026D Program of China under grant 2021ZD0114501, ECNU \u0026 Huawei Trustworthiness Innovation Center, National Research Foundation, Singapore, the Cyber Security Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN), and the National Research Foundation Singapore and DSO National Laboratories under the AI Singapore Programme (AISG Award No: AISG2-RP-2020-019).",
+                      "pages":  "20",
+                      "source":  "./pdf/C48-FSE2024-Static Application Security Testing (SAST) Tools for Smart Contracts How Far Are We.pdf"
+                  },
+    "paper-j20":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62472309",
+                                       "62102283",
+                                       "22JCYBJC01010"
+                                   ],
+                      "statement":  "This work was supported in part by the National Natural Science Foundation of China under Grant 62472309 and Grant 62102283 and in part by the Natural Science Foundation of Tianjin under Grant 22JCYBJC01010.",
+                      "pages":  "1",
+                      "source":  "./pdf/J20-TSE2024-A Comprehensive Study on Static Application Security Testing SAST Tools for Android.pdf"
+                  },
+    "paper-j19":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102197",
+                                       "62202245",
+                                       "22JCY-BJC01010"
+                                   ],
+                      "statement":  "This work was supported in part by the National Natural Science Foundation of China under Grant 62102197 and Grant 62202245, and in part by the Natural Science Foundation of Tianjin under Grant 22JCY-BJC01010.",
+                      "pages":  "1",
+                      "source":  "./pdf/J19-TSE2024-Does the Vulnerability Threaten Our Projects Automated Vulnerable API Detection for Third-Party Libraries.pdf"
+                  },
+    "paper-c47":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2021ZD0114501",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "Acknowledgments This work is supported by the National Key R\u0026D Program of China under grant 2021ZD0114501, the RIE2020 Industry Alignment Fund – Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contributions from the industry partner(s), the National Research Foundation, Singapore, and the Cyber Se-curity Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN).",
+                      "pages":  "11",
+                      "source":  "./pdf/C47-ISSTA2024-PatchFinder A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software.pdf"
+                  },
+    "paper-c46":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "Acknowledgment This research is partially supported by the Lee Kong Chian Fellow-ship, the National Research Foundation, Singapore, and the Cyber Security Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN).",
+                      "pages":  "11",
+                      "source":  "./pdf/C46-ISSTA2024-Bugs in Pods Understanding Bugs in Container Runtime Systems.pdf"
+                  },
+    "paper-c45":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2021YFF1201102",
+                                       "62332005",
+                                       "62102284",
+                                       "NCRP25-P04-TAICeN",
+                                       "CSA-CSEC-DC-20-083"
+                                   ],
+                      "statement":  "Acknowledgments This work was partially supported by the National Key R\u0026D Project (2021YFF1201102), the National Natural Science Foun-dation of China (Key Program , Grant No.62332005, Grant No.62102284), the Cyber Security Agency of Singapore under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN), and the Smart Platform Infrastructure Research on Integrative Technology (SPIRIT) under Grant CSA-CSEC-DC-20-083.",
+                      "pages":  "10",
+                      "source":  "./pdf/C45-LCTES2024-Unmasking the Lurking Malicious Behavior Detection for IoT Malware with Multi-label Classification.pdf"
+                  },
+    "paper-c44":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62332005"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This research was funded by the National Natural Science Foundation of China (No.62332005).",
+                      "pages":  "10",
+                      "source":  "./pdf/C44-TrustCom2024-Behavior Speaks Louder Rethinking Malware Analysis Beyond Family Classification.pdf"
+                  },
+    "paper-c43":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2021YFF1201102",
+                                       "61872262",
+                                       "21-SIS-SMU-033"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This work was partially supported by the National Key R\u0026D Project (2021YFF1201102), the National Natural Sci-ence Foundation of China (Grant No. 61872262), the Ministry of Education, Singapore under its Academic Research Fund Tier 1 (21-SIS-SMU-033), and NTU Start-up Grant.",
+                      "pages":  "11",
+                      "source":  "./pdf/C43-ASE2023-EndWatch A Practical Method for Detecting Non-Termination in Real-World Software.pdf"
+                  },
+    "paper-c42":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102197",
+                                       "62102284",
+                                       "22JCYBJC01010"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This work was partially supported by the National Natural Science Foundation of China (Grant No. 62102197, 62102284) and the Natural Science Foundation of Tianjin (Grant No. 22JCYBJC01010).",
+                      "pages":  "11",
+                      "source":  "./pdf/C42-ASE2023-Scene-Driven Exploration and GUI Modeling for Android Apps.pdf"
+                  },
+    "paper-c41":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "AISG2-RP-2020-019",
+                                       "NRF-NRFI06-2020-0001",
+                                       "MOET32020-0004",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This study is supported under the RIE2020 Industry Align-ment Fund – Industry Collaboration Projects (IAF-ICP) Fund-ing Initiative, as well as cash and in-kind contribution from the industry partner(s). This research is partially supported by the National Research Foundation Singapore and DSO National Laboratories under the AI Singapore Programme (AISG Award No: AISG2-RP-2020-019), the NRF Investi-gatorship NRF-NRFI06-2020-0001, the Ministry of Educa-tion, Singapore under its Academic Research Fund Tier 3 (MOET32020-0004). This research/project is supported by the National Research Foundation, Singapore, and the Cyber Security Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN).",
+                      "pages":  "11; 11",
+                      "source":  "./pdf/C41-ASE2023-Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem.pdf"
+                  },
+    "paper-c40":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "62102197"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS This work was supported by the National Natural Science Foun-dation of China (No. 62102284, 62102197).",
+                      "pages":  "11",
+                      "source":  "./pdf/C40-FSE2023-Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps.pdf"
+                  },
+    "paper-c39":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "MOET32020-0004",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "ACKNOWLEDGEMENTS This work was supported by the Ministry of Education, Singapore under its Academic Research Fund Tier 3 (Award ID: MOET32020-0004), the National Research Foundation, Singapore, and the Cyber Security Agency under its National Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN).",
+                      "pages":  "13",
+                      "source":  "./pdf/C39-FSE2023-Software Composition Analysis for Vulnerability Detection An Empirical Study on Java Projects.pdf"
+                  },
+    "paper-c38":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2021ZD0114501",
+                                       "202206140052",
+                                       "NCRP25-P04-TAICeN"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS This work was supported by the National Key R\u0026D Program of China (2021ZD0114501), China Scholarship Council (202206140052, 202106 140088), and National Research Foundation, Singapore, and Cyber Security Agency under its National Cybersecurity R\u0026D Pro-gramme (NCRP25-P04-TAICeN).",
+                      "pages":  "11",
+                      "source":  "./pdf/C38-FSE2023-Comparison and Evaluation on Static Application Security Test (SAST) Tools for Java.pdf"
+                  },
+    "paper-c37":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62161146001",
+                                       "3420/21",
+                                       "202106140088",
+                                       "202206140052",
+                                       "NCRP25-P04-TAICeN",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "AISG2-RP-2020-019"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENT This research is supported by the East China Normal University Graduate Student International Conference Special Fund, Natural Science Foundation of China and the Israel Science Foundation (NSFC-ISF) Joint Program (62161146001, 3420/21), China Scholar-ship Council (202106140088,202206140052), Cyber Security Coop-erative Research Centre (CSCRC), Australia, National Research Foundation, Singapore, the Cyber Security Agency under its Na-tional Cybersecurity R\u0026D Programme (NCRP25-P04-TAICeN), the National Satellite of Excellence in Trustworthy Software Systems (NSOE-TSS) project under the National Cybersecurity R\u0026D (NCR) Grant award no. NRF2018NCR-NSOE003-0001, and the National Re-search Foundation Singapore and DSO National Laboratories under the AI Singapore Programme (AISG Award No: AISG2-RP-2020-019).",
+                      "pages":  "11",
+                      "source":  "./pdf/C37-ISSTA2023-AComprehensive Study on Quality Assurance Tools for Java.pdf"
+                  },
+    "paper-c36":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "AISG2-RP-2020-019",
+                                       "NRF-NRFI06-2020-0001",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "MOE-T2EP20120-0004",
+                                       "MOET32020-0004"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENTS This research is partially supported by the National Re-search Foundation Singapore and DSO National Laboratories under the AI Singapore Programme (AISG Award No: AISG2-RP-2020-019), the NRF Investigatorship NRF-NRFI06-2020-0001, the National Research Foundation through its Na-tional Satellite of Excellence in Trustworthy Software Sys-tems (NSOE-TSS) project under the National Cybersecurity R\u0026D (NCR) Grant award no. NRF2018NCR-NSOE003-0001, the Ministry of Education, Singapore under its Academic Research Fund Tier 2 (MOE-T2EP20120-0004) and Tier 3 (MOET32020-0004).",
+                      "pages":  "11",
+                      "source":  "./pdf/C36-ICSE2023-Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects.pdf"
+                  },
+    "paper-c35":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102197",
+                                       "62102284",
+                                       "62202245",
+                                       "2018YFB1403400"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENTS This work was partially supported by the National Natural Science Foundation of China (Grant No. 62102197, 62102284, 62202245), and the National Key Research and Development Program of China (Grant No. 2018YFB1403400).",
+                      "pages":  "11",
+                      "source":  "./pdf/C35-ICSE2023-Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis.pdf"
+                  },
+    "paper-c34":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102197",
+                                       "62102284"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENTS This work was partially supported by the National Natural Science Foundation of China (No. 62102197, 62102284).",
+                      "pages":  "4",
+                      "source":  "./pdf/C34-ICSE2023-A Web-Based Tool for Using Storyboard of Android Apps.pdf"
+                  },
+    "paper-j18":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62072309",
+                                       "YSBR-040"
+                                   ],
+                      "statement":  "This work was supported in part by the National Natural Science Foundation of China (NSFC) under Grant 62072309, in part by the Ant Group, and the CAS Project for Young Scientists in Basic Research under Grant YSBR-040. (",
+                      "pages":  "1",
+                      "source":  "./pdf/J18-TDSC2022-Towards Understanding and Mitigating Audio Adversarial Examples for Speaker Recognition.pdf"
+                  },
+    "paper-j17":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "CSA-CSEC-DC-20-083"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This work was partially supported by the National Nat-ural Science Foundation of China under Grant 62102284; and Smart Platform Infrastructure Research on Integrative Technology (SPIRIT) under Grant CSA-CSEC-DC-20-083.",
+                      "pages":  "16",
+                      "source":  "./pdf/J17-TDSC2022-Multi-label Classification for Android Malware Based on Active Learning.pdf"
+                  },
+    "paper-j16":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "62102197"
+                                   ],
+                      "statement":  "This work was supported in part by the National Natural Science Foundation of China under Grants 62102284 and 62102197. (",
+                      "pages":  "1",
+                      "source":  "./pdf/J16-TSE2022-Automatically Distilling Storyboard with Rich Features for Android Apps.pdf"
+                  },
+    "paper-c33":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "62102197"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS This work was partially supported by the National Natural Science Foundation of China (No. 62102284, 62102197).",
+                      "pages":  "5",
+                      "source":  "./pdf/C33-ASE2022-AUSERA_Automated Security Vulnerability Detection for Android Apps.pdf"
+                  },
+    "paper-c32":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "AISG2-RP-2020-019",
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRF-NRFI06-2020-0001",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "MOE-T2EP20120-0004",
+                                       "MOET32020-0004"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS This research is partially supported by the National Research Foun-dation, Singapore under its the AI Singapore Programme (AISG2-RP-2020-019), the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001), NRF Investigatorship NRF-NRFI06-2020-0001, the National Research Foundation through its National Satellite of Excellence in Trustworthy Software Sys-tems (NSOE-TSS) project under the National Cybersecurity R\u0026D (NCR) Grant award no. NRF2018NCR-NSOE003-0001, the Ministry of Education, Singapore under its Academic Research Fund Tier 2 (MOE-T2EP20120-0004) and Tier 3 (MOET32020-0004). Any opin-ions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of the Ministry of Education, Singapore.",
+                      "pages":  "11",
+                      "source":  "./pdf/C32-ASE2022-Has My Release Disobeyed Semantic Versioning_Static Detection Based On Semantic Differencing.pdf"
+                  },
+    "paper-c31":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "61872262",
+                                       "21-SIS-SMU-033",
+                                       "AISG2-RP-2020-019",
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRF-NRFI06-2020-0001"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS This work was partly supported by the National Natural Science Foundation of China (No. 62102284, 61872262), the Ministry of Education, Singapore under its Academic Research Fund Tier 1 (21-SIS-SMU-033), the National Research Foundation, Singapore under its the AI Singapore Programme (AISG2-RP-2020-019), the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001), NRF Investigatorship NRF-NRFI06-2020-0001.",
+                      "pages":  "11",
+                      "source":  "./pdf/C31-ASE2022-Towards Understanding the Faults of JavaScript-Based Deep Learning Systems.pdf"
+                  },
+    "paper-j15":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62072309",
+                                       "2020AAA0107800"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This work was supported by the National Natural Science Foundation of China (NSFC) under Grant No. 62072309, Ant Group, and the National Key Research and Development Program under Grant No. 2020AAA0107800.",
+                      "pages":  "15",
+                      "source":  "./pdf/J15-TDSC2022-AS2T Arbitrary Source-To-Target Adversarial Attack on Speaker Recognition Systems.pdf"
+                  },
+    "paper-c30":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61872262",
+                                       "21-SIS-SMU-033",
+                                       "T1-251RES1901",
+                                       "MOE2019-T2-1-040",
+                                       "T2EP20120-0019",
+                                       "MOET32020-0004"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS This work was partially supported by the National Natural Science Foundation of China (No. 61872262), the Ministry of Education, Singapore under its Academic Research Fund Tier 1 (21-SIS-SMU-033, T1-251RES1901), Tier 2 (MOE2019-T2-1-040, T2EP20120-0019), and Tier 3 (MOET32020-0004).",
+                      "pages":  "11",
+                      "source":  "./pdf/C30-FSE2022-Large-Scale Analysis of Non-Termination Bugs in Real-World OSS Projects.pdf"
+                  },
+    "paper-c29":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "AISG2-RP-2020-019",
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRFI06-2020-0022-0001",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "MOET32020-0004"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS This research was partially supported by the National Natural Science Foundation of China (Grant No. 62102284), the National Research Foundation, Singapore under its the AI Singapore Pro-gramme (AISG2-RP-2020-019), the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001), NRF Inves-tigatorship NRFI06-2020-0022-0001, the National Research Foun-dation through its National Satellite of Excellence in Trustworthy Software Systems (NSOE-TSS) project under the National Cyberse-curity R\u0026D (NCR) Grant award no. NRF2018NCR-NSOE003-0001, the Ministry of Education, Singapore under its Academic Research Fund Tier 3 (MOET32020-0004).",
+                      "pages":  "11",
+                      "source":  "./pdf/C29-ICSE2022-Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem.pdf"
+                  },
+    "paper-j14":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "61872262",
+                                       "21-SIS-SMU-033",
+                                       "T1-251RES1901",
+                                       "MOE2019-T2-1-040",
+                                       "T2EP20120-0019",
+                                       "MOET32020-0004"
+                                   ],
+                      "statement":  "This work was supported in part by the National Science Foundation of China under Grants 62102284 and 61872262, in part by the Ministry of Education, Singapore under its Academic Research Fund under Grants Tier 1 21-SIS-SMU-033, T1-251RES1901, Tier 2 MOE2019-T2-1-040, T2EP20120-0019, and Tier 3 MOET32020-0004. (",
+                      "pages":  "1",
+                      "source":  "./pdf/J14-TSE2022-Demystifying Performance Regressions in String Solvers.pdf"
+                  },
+    "paper-j13":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "61872262"
+                                   ],
+                      "statement":  "Acknowledgements This work was partially supported by National Natural Science Foundation of China (Grant Nos. 62102284, 61872262).",
+                      "pages":  "17",
+                      "source":  "./pdf/J13-SCIS2022-ArgusDroid Detecting Android Malware Variants by Mining Permission-API Knowledge Graph.pdf"
+                  },
+    "paper-c28":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "61872262"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This work has partially been sponsored by the National Natural Science Foundation of China (Grant No. 62102284 and No. 61872262).",
+                      "pages":  "9",
+                      "source":  "./pdf/C28-COMPSAC2022-Can Deep Learning Models Learn the Vulnerable Patterns for Vulnerability Detection.pdf"
+                  },
+    "paper-c27":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61832014",
+                                       "62032016"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENT This work is supported by the National Natural Science Key Foundation of China grant No.61832014 and No.62032016, National Natural Science Foundation of China grant No.",
+                      "pages":  "5",
+                      "source":  "./pdf/C27-SEKE2022-Adaptive Prior-Knowledge-Assisted Function Naming Based on Multi-level Information Explorer.pdf"
+                  },
+    "paper-j12":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "62102197"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This work was supported by the National Natural Science Foundation of China under Grants 62102284 and 62102197.",
+                      "pages":  "12",
+                      "source":  "./pdf/J12-TSE2021-Accessible or Not An Empirical Investigation of Android App Accessibility.pdf"
+                  },
+    "paper-j11":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "61872262"
+                                   ],
+                      "statement":  "This work has partially been supported by The National Natural Science Foundation of China (No. 62102284, 61872262).",
+                      "pages":  "1",
+                      "source":  "./pdf/J11-TOSEM2021-Detecting and Augmenting Missing Key Aspects in Vulnerability Descriptions.pdf"
+                  },
+    "paper-j10":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "AISG2-RP-2020-019",
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRFI06-2020-0022-0001",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "NRF2018NCR-NSOE004-0001",
+                                       "DE200100016",
+                                       "DP200100020",
+                                       "62102284",
+                                       "62102197"
+                                   ],
+                      "statement":  "This work was partially supported by the National Research Foundation, Sin-gapore under its the AI Singapore Programme AISG2-RP-2020-019, the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program Award No. NRF2018NCR-NCR005-0001, NRF Investigatorship NRFI06-2020-0022-0001, the National Research Foundation through its National Satellite of Excellence in Trustworthy Soft-ware Systems (NSOE-TSS) project under the National Cybersecurity R\u0026D (NCR) Grant Award No. NRF2018NCR-NSOE003-0001 and the Singapore National Research Foundation under NCR Award Nos. NRF2018NCR-NSOE004-0001 and the Australian Research Council (ARC) under a Discovery Early Career Researcher Award (DECRA) Project DE200100016 and a Discovery Project DP200100020 and Hong Kong RGC Projects PolyU15222317, PolyU15223918, and the National Natural Science Founda-tion of China under Grants 62102284 and 62102197. (",
+                      "pages":  "1",
+                      "source":  "./pdf/J10-TSE2021-Research on Third-Party Libraries in Android Apps A Taxonomy and Systematic Literature Review.pdf"
+                  },
+    "paper-c26":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61532019",
+                                       "61761136011",
+                                       "NRF2014NCR-NCR001-30",
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "NRF-NRFI06-2020-0001"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This research was partially supported by National Natural Science Foundation of China (NSFC) grants (No. 61532019 and No. 61761136011), National Research Foundation (NRF) Singapore, Prime Ministers Office under its National Cyber-security R\u0026D Program (Award No. NRF2014NCR-NCR001-30 and No. NRF2018NCR-NCR005-0001), National Research Foundation (NRF) Singapore, National Satellite of Excellence in Trustworthy Software Systems under its Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NSOE003-0001), and National Research Foundation Investigatorship Singapore (Award No. NRF-NRFI06-2020-0001).",
+                      "pages":  "14",
+                      "source":  "./pdf/C26-IEEE S\u0026P2021-Who is Real Bob Adversarial Attacks on Speaker Recognition Systems.pdf"
+                  },
+    "paper-c25":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "NRFI06-2020-0022",
+                                       "NRF2018NCR-NSOE004-0001",
+                                       "152223/17E",
+                                       "152239/18E",
+                                       "C1008-16G"
+                                   ],
+                      "statement":  "This work is partly supported by the National Re-search Foundation, Prime Ministers Office, Singapore un-der its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001), the Singapore National Re-search Foundation under NCR Award Number NRF2018NCR-NSOE003-0001, NRF Investigatorship NRFI06-2020-0022, the Singapore National Research Foundation under NCR Award Number NRF2018NCR-NSOE004-0001, the Hong Kong PhD Fellowship Scheme and Hong Kong RGC Projects (No. 152223/17E,152239/18E, CityU C1008-16G).",
+                      "pages":  "11",
+                      "source":  "./pdf/C25-ICSE2021-ATVHunter Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Applications.pdf"
+                  },
+    "paper-j9":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "62072309",
+                                      "NRF2018NCR-NCR005-0001",
+                                      "NRF2018NCR-NSOE003-0001",
+                                      "19K24348",
+                                      "19H04086"
+                                  ],
+                     "statement":  "ACKNOWLEDGMENTS This study was supported by the National Natural Science Foundation of China (Grant No. 62072309), the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program (Grant No. NRF2018NCR ‐ NCR005 ‐ 0001), the National Satellite of Excellence in Trustworthy Software System (Grant No. NRF2018NCR ‐ NSOE003 ‐ 0001), the JSPS KAKENHI (Grant Nos. 19K24348, 19H04086), and the Qdaijump Research Program (Grant No. 01277).",
+                     "pages":  "28",
+                     "source":  "./pdf/J9-IJIS2021-Advanced Evasion Attacks and Mitigations on Practical ML-Based Phishing Website Classifiers.pdf"
+                 },
+    "paper-c24":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "62102197",
+                                       "62002084",
+                                       "62072309",
+                                       "61761136011",
+                                       "GXWD20201230155427003-20200730101839009"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENTS We sincerely thank Zhushou Tang, affiliated to PWNZEN InfoTech Co., LTD, for the valuable dataset of Android apps. This work was partially supported by the National Natural Science Foundation of China (Grant No. 62102284, 62102197, 62002084, 62072309, 61761136011), and Stable support plan for colleges and universities in Shenzhen under project No. GXWD20201230155427003-20200730101839009.",
+                      "pages":  "10",
+                      "source":  "./pdf/C24-ISSRE2021-Peeking into the Gray Area of Mobile World An Empirical Study of Unlabeled Android Apps.pdf"
+                  },
+    "paper-j8":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "62072309",
+                                      "6171101225"
+                                  ],
+                     "statement":  "Acknowledgements This work was supported by the National Natural Sci-ence Foundation of China (Grant Nos. 62072309 and 6171101225).",
+                     "pages":  "18",
+                     "source":  "./pdf/J8-FCS2021-VenomAttack Automated and Adaptive Activity Hijacking in Android.pdf"
+                 },
+    "paper-j7":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "2020AAA0108800",
+                                      "61632015",
+                                      "61772408",
+                                      "U1766215",
+                                      "61721002",
+                                      "61532015",
+                                      "61833015",
+                                      "61902306",
+                                      "62072351",
+                                      "2019TQ0251",
+                                      "2020M673439",
+                                      "095920201303",
+                                      "IRT_17R86"
+                                  ],
+                     "statement":  "Acknowledgements This work was supported by National Key R\u0026D Program of China (Grant No. 2020AAA0108800), National Natural Science Foundation of China (Grant Nos. 61632015, 61772408, U1766215, 61721002, 61532015, 61833015, 61902306, 62072351), China Postdoctoral Science Foundation (Grant Nos. 2019TQ0251, 2020M673439), Youth Talent Support Plan of Xi’an Association for Science and Technology (Grant No. 095920201303), Ministry of Education Innovation Research Team (Grant No. IRT 17R86), and Project of China Knowledge Center for Engineering Science and Technology.",
+                     "pages":  "19",
+                     "source":  "./pdf/J7-SCIS2021-Towards Characterizing Bug Fixes through Dependency-Level Changes.pdf"
+                 },
+    "paper-c23":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "62102284",
+                                       "61872262",
+                                       "62102197"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENT This work has partially been sponsored by the National Science Foundation of China (No. 62102284, 61872262, 62102197). Yuxuan Li and Ruitao Feng are the co-first authors. Sen Chen and Xiaohong Li are the corresponding authors.",
+                      "pages":  "10",
+                      "source":  "./pdf/C23-APSEC2021-IconChecker Anomaly Detection of Icon-Behaviors for Android Apps.pdf"
+                  },
+    "paper-c22":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61872262"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This work has partially been sponsored by the National Science Foundation of China (No. 61872262).",
+                      "pages":  "9",
+                      "source":  "./pdf/C22-COMPSAC2021-Predicting Entity Relations across Different Security Databases by Using Graph Attention Network.pdf"
+                  },
+    "paper-c21":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61872262"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This work has partially been sponsored by the National Science Foundation of China (No. 61872262).",
+                      "pages":  "6",
+                      "source":  "./pdf/C21-COMPSAC2021-Key Aspects Augmentation of Vulnerability Description based on Multiple Security Databases.pdf"
+                  },
+    "paper-c20":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61872262",
+                                       "62072309"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This work is partially supported by the National Science Foundation of China (Nos.61872262 and 62072309).",
+                      "pages":  "8",
+                      "source":  "./pdf/C20-TASE2021-Inferring Loop Invariants for Multi-Path Loops.pdf"
+                  },
+    "paper-c19":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRF2018NCR-NSOE004-0001"
+                                   ],
+                      "statement":  "ACKNOWLEDGMENTS We appreciate all the reviewers for their valuable comments. We would like to acknowledge HSBC Cybersecurity team for their conscientious response to our responsible disclosure. This work is partially supported by the National Satellite of Excellence in Trust-worthy Software System (Award No. NRF2018NCR-NSOE003-0001), the National Research Foundation, Prime Ministers Office, Singa-pore under its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001) and the Singapore National Research Foundation under NCR Award Number NRF2018NCR-NSOE004-0001.",
+                      "pages":  "12",
+                      "source":  "./pdf/C19-ICSE2020-An Empirical Assessment of Security Risks of Global Android Banking Apps.pdf"
+                  },
+    "paper-j6":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "2018-T1-002-069",
+                                      "NRF2018NCR-NCR005-0001",
+                                      "NRF2018NCR-NSOE003-0001",
+                                      "NRFI06-2020-0022",
+                                      "62002084"
+                                  ],
+                     "statement":  "A CKNOWLEDGMENT We gratefully acknowledge the support of NVIDIA AI Tech Center (NVAITC) to our research. This work was supported by Singapore Ministry of Education Academic Research Fund Tier 1 (Award No. 2018-T1-002-069), the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001), the Singapore National Research Foundation under NCR Award Number NRF2018NCR-NSOE003-0001, NRF Investigatorship NRFI06-2020-0022, and the National Natural Science Foundation of China under project No. 62002084.",
+                     "pages":  "16",
+                     "source":  "./pdf/J6-TSE2020-ATOM Commit Message Generation Based on Abstract Syntax Tree and Hybrid Ranking.pdf"
+                 },
+    "paper-j5":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "2018-T1-002-069",
+                                      "RF2018NCR-NCR005-0001",
+                                      "NSOE003-0001",
+                                      "NRFI06-2020-0022",
+                                      "NRF2018NCR-NSOE004-0001",
+                                      "61902395"
+                                  ],
+                     "statement":  "This work was supported in part by the Singapore Ministry of Education Academic Research Fund Tier 1 under Award 2018-T1-002-069, in part by the National Research Foundation, Prime Ministers Office, Singapore through its National Cybersecurity Research and Development Program under Award RF2018 NCR-NCR005-0001, in part by the Singapore National Research Foundation through NCR under Award NSOE003-0001, in part by the NRF Investigatorship under Grant NRFI06-2020-0022, in part by the National Research Foundation, Prime Ministers Office, Singapore through NCR under Award NRF2018NCR-NSOE004-0001, in part by the National Natural Science Foundation of China under Grant 61902395, and in part by the NVIDIA AI Tech Center (NVAITC).",
+                     "pages":  "1",
+                     "source":  "./pdf/J5-TIFS-A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.pdf"
+                 },
+    "paper-j4":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "2018-T1-002-069",
+                                      "NRF2018NCR-NCR005-0001",
+                                      "NSOE003-0001",
+                                      "NRFI06-2020-0022",
+                                      "NRF2018NCR-NSOE004-0001",
+                                      "14210717",
+                                      "62002084"
+                                  ],
+                     "statement":  "This work was supported by Singapore Ministry of Education Academic Research Fund Tier 1 (Award No. 2018-T1-002-069), the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Pro-gram (Award No. NRF2018 NCR-NCR005-0001), the Singapore National Research Foundation under NCR Award Number NSOE003-0001, NRF Investigatorship NRFI06-2020-0022, the Singapore National Research Foundation under NCR Award Number NRF2018NCR-NSOE004-0001, the Research Grants Council of the Hong Kong Special Administrative Region, China (No. CUHK 14210717 of the General Research Fund), and the National Natural Science Foundation of China under project No. 62002084.",
+                     "pages":  "1",
+                     "source":  "./pdf/J4-TOSEM-Why an Android App Is Classified as Malware Toward Malware Classification Interpretation.pdf"
+                 },
+    "paper-c18":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2018YFE0126000",
+                                       "2017YFB0802901",
+                                       "61972453",
+                                       "61672350"
+                                   ],
+                      "statement":  "Acknowledgments We thank William Enck and the anonymous reviewers for their valuable feedback. We thank Cameron Ballard and Benjamin Zhao for proofreading the early version of this paper. We thank Xiaobo Chen, Tao Huang, and Jian Zhang, affiliated to PWNZEN InfoTech Co., LTD, for their valuable assistance of our manual analysis. This work was supported, in part, 3 One example is that Android provides cast functionality to project smart-phone’s screens to third-party screens while iOS developers must adopt an error-prone TCP-relay to implement such functionality. by the National Key Research and Development Program of China (2018YFE0126000, 2017YFB0802901) as well as the National Science Foundation of China (61972453, 61672350). Haojin Zhu ( zhu-hj@cs.sjtu.edu.cn ) is the corresponding author of this paper.",
+                      "pages":  "17",
+                      "source":  "./pdf/C18-USENIX Security2020-iOS, Your OS, Everybody‘s OS Vetting and Analyzing Network Services of iOS Applications.pdf"
+                  },
+    "paper-j3":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "CRSK-2_190302",
+                                      "61632005",
+                                      "61532019",
+                                      "NRF2018NCR-NCR005-0001",
+                                      "NRF2018NCR-NSOE004-0001",
+                                      "NRFI06-2020-0022"
+                                  ],
+                     "statement":  "A CKNOWLEDGMENTS We would like to thank the constructive and valuable com-ments from the TSE reviewers. We also appreciate the Android app developers who participate in our online sur-vey, and share us many experience and feedback in this field. This work was partially supported by SNSF Spark Project CRSK-2_190302; partially supported by NSFC Proj-ect 61632005 and 61532019; partially supported by the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001), the Singapore National Research Foundation under NCR Award Number NRF2018NCR-NSOE004-0001, and NRF Investigatorship NRFI06-2020-0022.",
+                     "pages":  "20",
+                     "source":  "./pdf/J3-TSE2020-Why My App Crashes Understanding and Benchmarking Framework-specific Exceptions of Android Apps.pdf"
+                 },
+    "paper-c17":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61702045",
+                                       "DE200100016",
+                                       "DP200100020",
+                                       "152223/17E",
+                                       "152239/18E",
+                                       "NRF2018NCR-NSOE004-0001"
+                                   ],
+                      "statement":  "ACKNOWLEDGEMENTS We thank the anonymous reviewers for their helpful comments. This work is partly supported by the National Natural Science Foun-dation of China (No. 61702045), the Australian Research Council (ARC) under projects DE200100016 and DP200100020, the Hong Kong RGC Projects (No. 152223/17E, 152239/18E), the Hong Kong PhD Fellowship Scheme and the Singapore National Research Foun-dation under NCR Award Number NRF2018NCR-NSOE004-0001.",
+                      "pages":  "12",
+                      "source":  "./pdf/C17-ASE2020-Automated Third-Party Library Detection for Android Applications Are We There Yet.pdf"
+                  },
+    "paper-c16":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2016YFB1000903",
+                                       "61902306",
+                                       "61632015",
+                                       "61772408",
+                                       "U1766215",
+                                       "61721002",
+                                       "61532015",
+                                       "61833015",
+                                       "IRT_17R86",
+                                       "2019TQ0251"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENT This work was supported by National Key R\u0026D Program of China (2016YFB1000903), National Natural Science Founda-tion of China (61902306, 61632015, 61772408, U1766215, 61721002, 61532015, 61833015), Ministry of Education Innovation Research Team (IRT_17R86), China Postdoctoral Science Foundation (2019TQ0251), and the Key Research Program of State Grid Shaanxi Electric Power Company.",
+                      "pages":  "10",
+                      "source":  "./pdf/C16-ISSRE2020-An Empirical Evaluation of GDPR Compliance Violations in Android mHealth Apps.pdf"
+                  },
+    "paper-c15":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "2018-T1-002-069",
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NSOE003-0001",
+                                       "NRFI06-2020-0022",
+                                       "NRF2018NCR-NSOE004-0001",
+                                       "61902395"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This work was supported by Singapore Ministry of Edu-cation Academic Research Fund Tier 1 (Award No. 2018-T1-002-069), the National Research Foundation, Prime Minis-ters Office, Singapore under its National Cybersecurity R\u0026D Program (Award No. NRF2018 NCR-NCR005-0001), the Singapore National Research Foundation under NCR Award Number NSOE003-0001, NRF Investigatorship NRFI06-2020-0022, the National Research Foundation, Prime Ministers Office, Singapore under NCR Award Number NRF2018NCR-NSOE004-0001, the National Natural Science Foundation of China (No. 61902395). We gratefully acknowledge the support of NVIDIA AI Tech Center (NVAITC).",
+                      "pages":  "10",
+                      "source":  "./pdf/C15-ICECCS2020-SeqMobile：An Efficient Sequence-Based Malware Detection System Using RNN on Mobile Devices.pdf"
+                  },
+    "paper-c14":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "AN-GC-2018-019"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENT We appreciate the constructive comments from reviewers. This work is supported by Alibaba Cloud Singapore Grant AN-GC-2018-019. The authors would like to thank Nvidia for their GPU support.",
+                      "pages":  "10",
+                      "source":  "./pdf/C14-SANER2020-CORE Automating Review Recommendation for Code Changes.pdf"
+                  },
+    "paper-j2":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "NRF2018NCR-NSOE003-0001",
+                                      "NRF2018NCR-NCR005-0001",
+                                      "61502170",
+                                      "18511103802"
+                                  ],
+                     "statement":  "A CKNOWLEDGMENTS We appreciate the constructive comments from reviewers. This work is partially supported by National Satellite of Excellence in Trustworthy Software System (Award No. NRF2018NCR-NSOE003-0001) and the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001). Lihua Xu is supported in part by NSFC Grant 61502170, the Sci-ence and Technology Commission of Shanghai Municipality Grants 18511103802. The authors would like to thank Nvidia for their GPU support.",
+                     "pages":  "15",
+                     "source":  "./pdf/J2-TDSC2019-GUI-Squatting Attack Automated Generation of Android Phishing Apps.pdf"
+                 },
+    "paper-c13":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61502170",
+                                       "18511103802",
+                                       "NGF-2017-03-033",
+                                       "CRDCG2017-S04"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENT We appreciate the constructive comments from Prof. Zhen-chang Xing and Li Li. This work is partially supported by NSFC Grant 61502170, the Science and Technology Com-mission of Shanghai Municipality Grants 18511103802 and 18511103802, NTU Research Grant NGF-2017-03-033 and NRF Grant CRDCG2017-S04.",
+                      "pages":  "10",
+                      "source":  "./pdf/C13-ICSE2019-StoryDroid Automated Generation of Storyboard for Android Apps.pdf"
+                  },
+    "paper-c12":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61502170",
+                                       "18511106202",
+                                       "18511103802",
+                                       "NGF-2017-03-033",
+                                       "CRDCG2017-S04"
+                                   ],
+                      "statement":  "A CKNOWLEDGEMENT This research is funded by NSFC Grant 61502170, and the Science and Technology Commission of Shanghai Municipal-ity (No. 18511106202 and No. 18511103802), NTU Research Grant NGF-2017-03-033 and NRF Grant CRDCG2017-S04.",
+                      "pages":  "10",
+                      "source":  "./pdf/C12-ICSE2019-A Large-Scale Empirical Study on Industrial.pdf"
+                  },
+    "paper-c11":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "61872262",
+                                       "61572349",
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "19K24348",
+                                       "19H04086"
+                                   ],
+                      "statement":  "A CKNOWLEDGMENTS This research was partially been supported by the National Science Foundation of China (No. 61872262, 61572349). It was also sponsored by the National Research Foundation, Prime Ministers Office, Singapore under its National Cyber-security R\u0026D Program (Award No. NRF2018NCR-NCR005-0001), National Satellite of Excellence in Trustworthy Soft-ware System (Award No. NRF2018NCR-NSOE003-0001) ad-ministered by the National Cybersecurity R\u0026D Directorate, and JSPS KAKENHI Grant 19K24348, 19H04086, and Qdai-jump Research Program NO.01277.",
+                      "pages":  "11",
+                      "source":  "./pdf/C11-ASE2019-An Empirical Study towards Characterizing Deep Learning Development and Deployment across Different Frameworks and Platforms.pdf"
+                  },
+    "paper-c10":  {
+                      "status":  "reported",
+                      "grantIds":  [
+                                       "NRF2018NCR-NCR005-0001",
+                                       "NRF2018NCR-NSOE003-0001",
+                                       "19H04086",
+                                       "01277"
+                                   ],
+                      "statement":  "This research was supported (in part) by the National Research Foundation, Prime Ministers Office, Singapore under its National Cybersecurity R\u0026D Program (Award No. NRF2018NCR-NCR005-0001), National Satellite of Excellence in Trustworthy Software System (Award No. NRF2018NCR-NSOE003-0001) administered by the National Cybersecurity R\u0026D Directorate, and JSPS KAKENHI Grant 19H04086, and Qdai-jump Research Program NO.01277.",
+                      "pages":  "11",
+                      "source":  "./pdf/C10-ICECCS2019-MobiDroid A Performance-Sensitive Malware Detection System on Mobile Platform.pdf"
+                  },
+    "paper-c9":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "NGF-2017-03-033",
+                                      "CRDCG2017-S04"
+                                  ],
+                     "statement":  "A CKNOWLEDGMENTS We appreciate the reviewers’ constructive feedback. This work is partially supported by NSFC Grant 61502170, NTU Research Grant NGF-2017-03-033 and NRF Grant CRDCG2017-S04.",
+                     "pages":  "4",
+                     "source":  "./pdf/C9-AI4Mobile2019-Automated Cross-Platform GUI Code Generation for Mobile Apps.pdf"
+                 },
+    "paper-c8":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "NGF-2017-03-033",
+                                      "CRDCG2017-S04"
+                                  ],
+                     "statement":  "A CKNOWLEDGMENTS We appreciate the reviewers’ constructive feedback. This work is partially supported by NSFC Grant 61502170, NTU Research Grant NGF-2017-03-033 and NRF Grant CRDCG2017-S04.",
+                     "pages":  "4",
+                     "source":  "./pdf/C8-AI4Mobile2019-How Can We Craft Large-Scale Android Malware An Automated Poisoning Attack.pdf"
+                 },
+    "paper-c7":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "18511103802",
+                                      "NGF-2017-03-033",
+                                      "CRDCG2017-S04"
+                                  ],
+                     "statement":  "ACKNOWLEDGMENTS We appreciate the reviewers’ constructive feedback. This work is partially supported by NSFC Grant 61502170, the Science and Tech-nology Commission of Shanghai Municipality Grant 18511103802, NTU Research Grant NGF-2017-03-033 and NRF Grant CRDCG2017-S04. Sen Chen is partly supported by ECNU Project of Funding Overseas Short-term Studies.",
+                     "pages":  "6",
+                     "source":  "./pdf/C7-ESECFSE2018-Are Mobile Banking Apps Secure What Can be Improved.pdf"
+                 },
+    "paper-c6":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "NGF-2017-03-033",
+                                      "CRDCG2017-S04",
+                                      "61572197",
+                                      "61632005",
+                                      "2015BAG19B02",
+                                      "16DZ1100600"
+                                  ],
+                     "statement":  "ACKNOWLEDGMENTS We appreciate the reviewers’ constructive feedback. This work is partially supported by NSFC Grant 61502170, NTU Research Grant NGF-2017-03-033 and NRF Grant CRDCG2017-S04. Lingling Fan is partly supported by ECNU Project of Funding Overseas Short-term Studies, Ting Su is partially supported by NSFC Grant 61572197 and 61632005, and Geguang Pu is partially supported by MOST NKTSP Project 2015BAG19B02 and STCSM Project 16DZ1100600.",
+                     "pages":  "10",
+                     "source":  "./pdf/C6-ASE2018-Efficiently Manifesting Asynchronous Programming Errors in Android Apps.pdf"
+                 },
+    "paper-c5":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "NGF-2017-03-033",
+                                      "CRDCG2017-S04",
+                                      "61572197",
+                                      "61632005",
+                                      "2015BAG19B02",
+                                      "16DZ1100600",
+                                      "1528133",
+                                      "1618158"
+                                  ],
+                     "statement":  "ACKNOWLEDGEMENTS We appreciate the anonymous reviewers for their valuable feed-back. This work is partially supported by NSFC Grant 61502170, NTU Research Grant NGF-2017-03-033 and NRF Grant CRDCG2017-S04. Lingling Fan is partly supported by ECNU Project of Fund-ing Overseas Short-term Studies, Ting Su partially supported by NSFC Grant 61572197 and 61632005, and Geguang Pu partially sup-ported by MOST NKTSP Project 2015BAG19B02 and STCSM Project 16DZ1100600. Zhendong Su is partially supported by United States NSF Grants 1528133 and 1618158, and by a Google Faculty Research Award.",
+                     "pages":  "10",
+                     "source":  "./pdf/C5-ICSE2018-Large-Scale Analysis of Framework-Specific Exceptions in Android Apps.pdf"
+                 },
+    "paper-j1":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "61272444",
+                                      "61411146001",
+                                      "U1401253",
+                                      "U1405251",
+                                      "13ZR1413000"
+                                  ],
+                     "statement":  "This work was supported in part by the Na-tional Natural Science Foundation of China, under Grants 61502170, 61272444, 61411146001, U1401253, and U1405251, in part by the Science and Technology Commission of Shanghai Municipality under Grant 13ZR1413000.",
+                     "pages":  "1",
+                     "source":  "./pdf/J1-Computers \u0026 Security2017-Automated Poisoning Attacks and Defenses in Malware Detection System_An Adversarial Machine Learning Approach.pdf"
+                 },
+    "paper-c4":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "61361136002"
+                                  ],
+                     "statement":  "A CKNOWLEDGMENT This work was supported by the National Natural Science Foundation of China, under Grant 61502170 and National Natural Science Foundation of China (Zhong Dan) Interna-tional Cooperation Project, under Grant 61361136002.",
+                     "pages":  "8",
+                     "source":  "./pdf/C4-APSEC2016-Model-Based Continuous Verification.pdf"
+                 },
+    "paper-c3":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "61272444",
+                                      "61411146001",
+                                      "U1401253",
+                                      "U1405251",
+                                      "13ZR1413000"
+                                  ],
+                     "statement":  "Acknowledgements This work was supported in part by the National Natural Sci-ence Foundation of China, under Grant 61502170, 61272444, 61411146001, U1401253, and U1405251, in part by the Sci-ence and Technology Commission of Shanghai Municipality under Grant 13ZR1413000, and in part by Pwnzen Infotech Inc. 5.",
+                     "pages":  "3",
+                     "source":  "./pdf/C3-CCS2016-Accuracy vs. Time Cost Detecting Android Malware through Pareto Ensemble Pruning.pdf"
+                 },
+    "paper-c2":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "61361136002",
+                                      "13ZR1413000"
+                                  ],
+                     "statement":  "Acknowledgements This work was supported in part by the NSFC (No. 61502170, No. 61361136002), and in part by the Science and Technology Commission of Shanghai Municipality (No. 13ZR1413000). 5.",
+                     "pages":  "2",
+                     "source":  "./pdf/C2-MobiCom2016-Towards Adversarial Detection of Mobile Malware.pdf"
+                 },
+    "paper-c1":  {
+                     "status":  "reported",
+                     "grantIds":  [
+                                      "61502170",
+                                      "61272444",
+                                      "61411146001",
+                                      "U1401253",
+                                      "U1405251",
+                                      "13ZR1413000"
+                                  ],
+                     "statement":  "Acknowledgements This work was supported in part by the National Natural Sci-ence Foundation of China, under Grant 61502170, 61272444, 61411146001, U1401253, and U1405251, in part by the Sci-ence and Technology Commission of Shanghai Municipality under Grant 13ZR1413000, in part by Pwnzen Infotech Inc. 8.",
+                     "pages":  "10",
+                     "source":  "./pdf/C1-ASIACCS2016-StormDroid A Streaminglized Machine Learning-Based System for Detecting Android Malware.pdf"
+                 }
+}

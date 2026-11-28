@@ -829,6 +829,31 @@ body.sc.sc-pubs .sort-btn,
 body.sc.sc-pubs .toc a{ min-height: 44px; box-sizing: border-box; display: inline-flex; align-items: center; }
 body.sc.sc-pubs .paper-authors,
 body.sc.sc-pubs .paper-details{ max-width: 85ch; }
+
+body.sc.sc-pubs .paper-version{
+    font-weight: 600;
+}
+
+body.sc.sc-pubs .paper-funding{
+    margin-top: .55rem;
+    font-size: .9rem;
+}
+
+body.sc.sc-pubs .paper-funding summary{
+    width: fit-content;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+body.sc.sc-pubs .paper-funding-content{
+    max-width: 85ch;
+    padding-inline-start: .9rem;
+    overflow-wrap: anywhere;
+}
+
+body.sc.sc-pubs .paper-funding-content p{
+    margin: .4rem 0 0;
+}
 body.sc .year,
 body.sc .section{ scroll-margin-top: 1rem; }
 body.sc .empty-state{ padding: 2rem 0; }
